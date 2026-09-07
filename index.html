@@ -3,41 +3,98 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no" />
-  <title>Entrena el Coco · Sudoku</title>
+  <title>Entrena el COCO · Sudoku</title>
   <link rel="stylesheet" href="styles.css" />
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </head>
 <body>
   <main class="app">
-    <header>
-      <div>
-        <div class="eyebrow">🧠 ENTRENA EL COCO 🥥</div>
-        <h1>Sudoku del día</h1>
+    <section id="homeScreen" class="screen">
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>Sudoku</h1>
+      <p class="lead">Elige cómo quieres entrenar hoy.</p>
+
+      <button class="daily-card" id="dailyBtn">
+        <span class="daily-icon">📅</span>
+        <span>
+          <strong>Sudoku del día</strong>
+          <small>El mismo reto para todo el mundo</small>
+        </span>
+        <span class="chev">›</span>
+      </button>
+
+      <h2>Partida libre</h2>
+      <div class="levels">
+        <button class="level easy" data-level="easy"><span>🟢</span><b>Fácil</b><small>Para calentar</small></button>
+        <button class="level medium" data-level="medium"><span>🟡</span><b>Medio</b><small>Equilibrado</small></button>
+        <button class="level hard" data-level="hard"><span>🟠</span><b>Difícil</b><small>Más deducción</small></button>
+        <button class="level expert" data-level="expert"><span>🔴</span><b>Experto</b><small>Para sufrir un poquito</small></button>
       </div>
-      <div id="timer" class="timer">00:00</div>
-    </header>
 
-    <section class="statusbar">
-      <span id="difficulty">Nivel: Medio</span>
-      <span id="mistakes">Errores: 0</span>
+      <div class="home-foot">Progreso guardado automáticamente en este dispositivo.</div>
     </section>
 
-    <section id="board" class="board" aria-label="Tablero de sudoku"></section>
+    <section id="gameScreen" class="screen hidden">
+      <header class="game-header">
+        <button id="backBtn" class="icon-btn" aria-label="Volver">‹</button>
+        <div>
+          <div class="brand small">🧠 ENTRENA EL COCO 🥥</div>
+          <h1 id="gameTitle">Sudoku</h1>
+        </div>
+        <button id="pauseBtn" class="icon-btn" aria-label="Pausa">Ⅱ</button>
+      </header>
 
-    <section class="numberpad" aria-label="Teclado numérico">
-      <button data-num="1">1</button><button data-num="2">2</button><button data-num="3">3</button>
-      <button data-num="4">4</button><button data-num="5">5</button><button data-num="6">6</button>
-      <button data-num="7">7</button><button data-num="8">8</button><button data-num="9">9</button>
+      <div class="statusbar">
+        <span id="difficulty">Nivel: Medio</span>
+        <span id="timer">00:00</span>
+        <span id="mistakes">Errores: 0</span>
+      </div>
+
+      <div class="board-wrap">
+        <div id="board" class="board" aria-label="Tablero de sudoku"></div>
+        <div id="pauseOverlay" class="pause-overlay hidden">
+          <div>⏸️</div>
+          <strong>Partida en pausa</strong>
+          <button id="resumeBtn">Continuar</button>
+        </div>
+      </div>
+
+      <div class="tools">
+        <button id="undoBtn"><span>↩️</span><small>Deshacer</small></button>
+        <button id="notesBtn"><span>✏️</span><small>Notas</small></button>
+        <button id="eraseBtn"><span>⌫</span><small>Borrar</small></button>
+        <button id="hintBtn"><span>💡</span><small>Pista</small></button>
+      </div>
+
+      <div class="numberpad" aria-label="Teclado numérico">
+        <button data-num="1">1</button><button data-num="2">2</button><button data-num="3">3</button>
+        <button data-num="4">4</button><button data-num="5">5</button><button data-num="6">6</button>
+        <button data-num="7">7</button><button data-num="8">8</button><button data-num="9">9</button>
+      </div>
+
+      <div class="game-actions">
+        <button id="checkBtn" class="secondary">✓ Comprobar</button>
+        <button id="newBtn" class="primary">＋ Nueva partida</button>
+      </div>
+
+      <p id="message" class="message" aria-live="polite"></p>
     </section>
 
-    <section class="actions">
-      <button id="erase" class="secondary">⌫ Borrar</button>
-      <button id="check" class="primary">✓ Comprobar</button>
+    <section id="finishScreen" class="screen hidden">
+      <div class="finish-card">
+        <div class="finish-emoji">🏆</div>
+        <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+        <h1>¡Sudoku completado!</h1>
+        <div class="result-grid">
+          <div><small>Tiempo</small><strong id="finalTime">00:00</strong></div>
+          <div><small>Errores</small><strong id="finalMistakes">0</strong></div>
+          <div><small>Nivel</small><strong id="finalLevel">Medio</strong></div>
+        </div>
+        <button id="playAgainBtn" class="primary wide">Jugar otra vez</button>
+        <button id="homeBtn" class="secondary wide">Volver al menú</button>
+      </div>
     </section>
-
-    <p id="message" class="message" aria-live="polite"></p>
   </main>
-
   <script src="app.js"></script>
 </body>
 </html>
