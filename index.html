@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no" />
+  <title>Entrena el Coco · Sudoku</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <main class="app">
+    <header>
+      <div>
+        <div class="eyebrow">🧠 ENTRENA EL COCO 🥥</div>
+        <h1>Sudoku del día</h1>
+      </div>
+      <div id="timer" class="timer">00:00</div>
+    </header>
+
+    <section class="statusbar">
+      <span id="difficulty">Nivel: Medio</span>
+      <span id="mistakes">Errores: 0</span>
+    </section>
+
+    <section id="board" class="board" aria-label="Tablero de sudoku"></section>
+
+    <section class="numberpad" aria-label="Teclado numérico">
+      <button data-num="1">1</button><button data-num="2">2</button><button data-num="3">3</button>
+      <button data-num="4">4</button><button data-num="5">5</button><button data-num="6">6</button>
+      <button data-num="7">7</button><button data-num="8">8</button><button data-num="9">9</button>
+    </section>
+
+    <section class="actions">
+      <button id="erase" class="secondary">⌫ Borrar</button>
+      <button id="check" class="primary">✓ Comprobar</button>
+    </section>
+
+    <p id="message" class="message" aria-live="polite"></p>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
