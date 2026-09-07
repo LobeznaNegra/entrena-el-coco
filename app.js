@@ -15,6 +15,7 @@ const LEVELS = {
   expert: { label:"Experto", clues:26, emoji:"🔴" }
 };
 
+const mainMenuScreen = document.getElementById("mainMenuScreen");
 const homeScreen = document.getElementById("homeScreen");
 const gameScreen = document.getElementById("gameScreen");
 const finishScreen = document.getElementById("finishScreen");
@@ -175,6 +176,7 @@ function startGame(levelKey, isDaily=false, forcedSeed=null) {
 }
 
 function showGame() {
+  mainMenuScreen.classList.add("hidden");
   homeScreen.classList.add("hidden");
   finishScreen.classList.add("hidden");
   gameScreen.classList.remove("hidden");
@@ -189,10 +191,17 @@ function showGame() {
   restartTimer();
 }
 
+function hideAllScreens() {
+  document.querySelectorAll(".screen").forEach(s=>s.classList.add("hidden"));
+}
+function showMainMenu() {
+  stopTimer();
+  hideAllScreens();
+  mainMenuScreen.classList.remove("hidden");
+}
 function showHome() {
   stopTimer();
-  gameScreen.classList.add("hidden");
-  finishScreen.classList.add("hidden");
+  hideAllScreens();
   homeScreen.classList.remove("hidden");
 }
 
@@ -407,9 +416,182 @@ document.addEventListener("visibilitychange",()=>{
   if (document.hidden && game && !game.finished) togglePause(true);
 });
 
+
+
+// ---------- MEMORIA FOTOGRÁFICA ----------
+const memoryHomeScreen = document.getElementById("memoryHomeScreen");
+const memoryObserveScreen = document.getElementById("memoryObserveScreen");
+const memoryQuestionScreen = document.getElementById("memoryQuestionScreen");
+const memoryFinishScreen = document.getElementById("memoryFinishScreen");
+
+const MEMORY_LEVELS = {
+  easy:{label:"Fácil", count:8, seconds:15},
+  medium:{label:"Medio", count:12, seconds:12},
+  hard:{label:"Difícil", count:16, seconds:10},
+  expert:{label:"Experto", count:20, seconds:8}
+};
+
+const OBJECTS = [
+  ["🍎","manzana"],["🚗","coche"],["🐶","perro"],["🌻","girasol"],["🎸","guitarra"],
+  ["☕","taza"],["🔑","llave"],["🎈","globo"],["📚","libros"],["🕶️","gafas"],
+  ["🍓","fresa"],["🦋","mariposa"],["⌚","reloj"],["⚽","balón"],["🕯️","vela"],
+  ["🎁","regalo"],["🐱","gato"],["🍋","limón"],["✂️","tijeras"],["🧸","osito"],
+  ["🌙","luna"],["🍕","pizza"],["🚲","bicicleta"],["🎩","sombrero"],["📷","cámara"],
+  ["💎","diamante"],["🐸","rana"],["🍦","helado"],["✈️","avión"],["🎨","paleta"]
+];
+
+let mem = null;
+let memTimer = null;
+
+function showMemoryHome() {
+  stopTimer();
+  hideAllScreens();
+  memoryHomeScreen.classList.remove("hidden");
+}
+
+function shuffleMemory(a) {
+  const x=[...a];
+  for(let i=x.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [x[i],x[j]]=[x[j],x[i]]; }
+  return x;
+}
+
+function startMemory(levelKey) {
+  const cfg=MEMORY_LEVELS[levelKey];
+  const chosen=shuffleMemory(OBJECTS).slice(0,cfg.count);
+  mem={levelKey, chosen, score:0, q:0, questions:[], remaining:cfg.seconds};
+  buildMemoryQuestions();
+  hideAllScreens();
+  memoryObserveScreen.classList.remove("hidden");
+  renderMemoryScene();
+  document.getElementById("memoryCountdown").textContent=mem.remaining;
+  clearInterval(memTimer);
+  memTimer=setInterval(()=>{
+    mem.remaining--;
+    document.getElementById("memoryCountdown").textContent=mem.remaining;
+    if(mem.remaining<=0){
+      clearInterval(memTimer);
+      showMemoryQuestion();
+    }
+  },1000);
+}
+
+function renderMemoryScene() {
+  const scene=document.getElementById("memoryScene");
+  scene.innerHTML="";
+  mem.chosen.forEach((obj,i)=>{
+    const d=document.createElement("div");
+    d.className="memory-object";
+    d.innerHTML=`<span>${obj[0]}</span><small>${i+1}</small>`;
+    scene.appendChild(d);
+  });
+}
+
+function buildMemoryQuestions() {
+  const present=mem.chosen.map(x=>x[1]);
+  const absent=OBJECTS.filter(x=>!present.includes(x[1]));
+  const qs=[];
+
+  // 1: objeto presente
+  let correct=mem.chosen[Math.floor(Math.random()*mem.chosen.length)];
+  let opts=shuffleMemory([correct,...shuffleMemory(absent).slice(0,3)]);
+  qs.push({text:"¿Cuál de estos objetos aparecía en la escena?", correct:correct[1], options:opts.map(x=>`${x[0]} ${x[1]}`)});
+
+  // 2: objeto ausente
+  correct=absent[Math.floor(Math.random()*absent.length)];
+  opts=shuffleMemory([correct,...shuffleMemory(mem.chosen).slice(0,3)]);
+  qs.push({text:"¿Cuál de estos objetos NO aparecía?", correct:correct[1], options:opts.map(x=>`${x[0]} ${x[1]}`)});
+
+  // 3: posición aproximada
+  const pos=Math.floor(Math.random()*mem.chosen.length);
+  correct=mem.chosen[pos];
+  const distract=shuffleMemory(mem.chosen.filter((_,i)=>i!==pos)).slice(0,3);
+  opts=shuffleMemory([correct,...distract]);
+  qs.push({text:`¿Qué objeto ocupaba la posición número ${pos+1}?`, correct:correct[1], options:opts.map(x=>`${x[0]} ${x[1]}`)});
+
+  // 4: primer objeto
+  correct=mem.chosen[0];
+  opts=shuffleMemory([correct,...shuffleMemory(mem.chosen.slice(1)).slice(0,3)]);
+  qs.push({text:"¿Cuál era el primer objeto de la escena?", correct:correct[1], options:opts.map(x=>`${x[0]} ${x[1]}`)});
+
+  // 5: recuento
+  const count=mem.chosen.length;
+  const nums=shuffleMemory([...new Set([count, Math.max(4,count-2), count+2, count+4])]).slice(0,4);
+  qs.push({text:"¿Cuántos objetos había en total?", correct:String(count), options:nums.map(String)});
+  mem.questions=qs;
+}
+
+function showMemoryQuestion() {
+  hideAllScreens();
+  memoryQuestionScreen.classList.remove("hidden");
+  const q=mem.questions[mem.q];
+  document.getElementById("memoryQuestionNumber").textContent=`Pregunta ${mem.q+1} de ${mem.questions.length}`;
+  document.getElementById("memoryScore").textContent=`${mem.score} punto${mem.score===1?"":"s"}`;
+  document.getElementById("memoryQuestion").textContent=q.text;
+  document.getElementById("memoryFeedback").textContent="";
+  const answers=document.getElementById("memoryAnswers");
+  answers.innerHTML="";
+  q.options.forEach(label=>{
+    const b=document.createElement("button");
+    b.className="memory-answer";
+    b.textContent=label;
+    b.addEventListener("click",()=>answerMemory(b,label,q));
+    answers.appendChild(b);
+  });
+}
+
+function normalizedAnswer(label) {
+  const bits=label.trim().split(" ");
+  return bits.length>1 ? bits.slice(1).join(" ") : label.trim();
+}
+
+function answerMemory(button,label,q) {
+  const buttons=[...document.querySelectorAll(".memory-answer")];
+  buttons.forEach(b=>b.disabled=true);
+  const ans=normalizedAnswer(label);
+  const ok=ans===q.correct || label===q.correct;
+  if(ok){ mem.score++; button.classList.add("correct"); haptic("success"); document.getElementById("memoryFeedback").textContent="✅ ¡Correcto!"; }
+  else {
+    button.classList.add("wrong"); haptic("error");
+    const right=buttons.find(b=>normalizedAnswer(b.textContent)===q.correct || b.textContent===q.correct);
+    if(right) right.classList.add("correct");
+    document.getElementById("memoryFeedback").textContent=`❌ La respuesta correcta era: ${q.correct}.`;
+  }
+  setTimeout(()=>{
+    mem.q++;
+    if(mem.q<mem.questions.length) showMemoryQuestion();
+    else finishMemory();
+  },900);
+}
+
+function finishMemory() {
+  hideAllScreens();
+  memoryFinishScreen.classList.remove("hidden");
+  const pct=Math.round(mem.score/mem.questions.length*100);
+  document.getElementById("memoryFinalScore").textContent=`${mem.score}/${mem.questions.length}`;
+  document.getElementById("memoryFinalLevel").textContent=MEMORY_LEVELS[mem.levelKey].label;
+  document.getElementById("memoryPercent").textContent=`${pct}%`;
+  let title="¡A entrenar ese coco!";
+  let text="Cada partida ayuda a afinar la atención y la memoria.";
+  if(pct===100){title="¡Memoria de elefante! 🐘"; text="Has recordado absolutamente todo.";}
+  else if(pct>=80){title="¡Memoria afiladísima! 🔥"; text="Casi no se te escapa una.";}
+  else if(pct>=60){title="¡Muy buena memoria! 👏"; text="Buen nivel de atención visual.";}
+  document.getElementById("memoryResultTitle").textContent=title;
+  document.getElementById("memoryResultText").textContent=text;
+}
+
+document.getElementById("openSudokuBtn").addEventListener("click",showHome);
+document.getElementById("openMemoryBtn").addEventListener("click",showMemoryHome);
+document.getElementById("sudokuMenuBack").addEventListener("click",showMainMenu);
+document.getElementById("memoryMenuBack").addEventListener("click",showMainMenu);
+document.querySelectorAll("[data-memory-level]").forEach(b=>b.addEventListener("click",()=>startMemory(b.dataset.memoryLevel)));
+document.getElementById("memoryAgainBtn").addEventListener("click",()=>startMemory(mem?.levelKey || "medium"));
+document.getElementById("memoryHomeBtn").addEventListener("click",showMainMenu);
+
 const startParam = tg?.initDataUnsafe?.start_param || new URLSearchParams(location.search).get("startapp");
 if (startParam === "sudoku") {
   if (!restoreGame()) showHome();
+} else if (startParam === "memoria") {
+  showMemoryHome();
 } else {
-  if (!restoreGame()) showHome();
+  showMainMenu();
 }

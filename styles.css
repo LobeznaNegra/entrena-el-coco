@@ -122,3 +122,39 @@ h2 { margin:24px 0 10px; font-size:16px; }
   .tools { gap:4px; }
   .tools button { min-height:50px; }
 }
+
+
+.game-menu { display:grid; gap:12px; margin-top:22px; }
+.game-card {
+  width:100%; display:flex; align-items:center; gap:14px; text-align:left;
+  border:1px solid var(--line); border-radius:18px; background:var(--card); color:var(--text);
+  padding:18px 16px; cursor:pointer;
+}
+.game-card strong { display:block; font-size:19px; }
+.game-card small { display:block; color:var(--hint); margin-top:3px; }
+.game-icon { font-size:31px; }
+.mini-back { border:0; background:transparent; color:var(--hint); padding:0 0 14px; font-weight:800; cursor:pointer; }
+.memory-levels { margin-top:18px; }
+.memory-top { display:flex; align-items:center; justify-content:space-between; gap:12px; }
+.countdown { min-width:58px; text-align:center; background:var(--button); color:var(--button-text); padding:10px; border-radius:14px; font-size:22px; font-weight:900; }
+.memory-scene {
+  display:grid; grid-template-columns:repeat(4,1fr); gap:10px; min-height:410px;
+  background:var(--card); border:1px solid var(--line); border-radius:20px; padding:14px;
+}
+.memory-object {
+  display:flex; align-items:center; justify-content:center; min-height:74px; border-radius:15px;
+  background:var(--bg); border:1px solid var(--line); font-size:34px; position:relative;
+}
+.memory-object small { position:absolute; bottom:5px; right:7px; font-size:9px; color:var(--hint); }
+.memory-progress { display:flex; justify-content:space-between; color:var(--hint); font-size:13px; margin:10px 0 18px; }
+.memory-answers { display:grid; gap:9px; margin-top:18px; }
+.memory-answer {
+  width:100%; min-height:54px; border:1px solid var(--line); border-radius:14px;
+  background:var(--card); color:var(--text); text-align:left; padding:12px 15px; font-weight:750; cursor:pointer;
+}
+.memory-answer.correct { outline:2px solid #59c173; }
+.memory-answer.wrong { outline:2px solid var(--danger); }
+@media(max-width:390px) {
+  .memory-scene { gap:6px; padding:8px; min-height:350px; }
+  .memory-object { min-height:62px; font-size:29px; }
+}

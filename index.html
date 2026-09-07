@@ -9,7 +9,27 @@
 </head>
 <body>
   <main class="app">
-    <section id="homeScreen" class="screen">
+    <section id="mainMenuScreen" class="screen">
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>¿A qué jugamos?</h1>
+      <p class="lead">Elige un entrenamiento para tus neuronas.</p>
+
+      <div class="game-menu">
+        <button class="game-card" id="openSudokuBtn">
+          <span class="game-icon">🔢</span>
+          <span><strong>Sudoku</strong><small>Números, lógica y deducción</small></span>
+          <span class="chev">›</span>
+        </button>
+        <button class="game-card" id="openMemoryBtn">
+          <span class="game-icon">👁️</span>
+          <span><strong>Memoria fotográfica</strong><small>Observa, memoriza y responde</small></span>
+          <span class="chev">›</span>
+        </button>
+      </div>
+    </section>
+
+    <section id="homeScreen" class="screen hidden">
+      <button id="sudokuMenuBack" class="mini-back">‹ Todos los juegos</button>
       <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
       <h1>Sudoku</h1>
       <p class="lead">Elige cómo quieres entrenar hoy.</p>
@@ -94,6 +114,54 @@
         <button id="homeBtn" class="secondary wide">Volver al menú</button>
       </div>
     </section>
+
+    <section id="memoryHomeScreen" class="screen hidden">
+      <button id="memoryMenuBack" class="mini-back">‹ Todos los juegos</button>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>👁️ Memoria fotográfica</h1>
+      <p class="lead">Mira la escena con atención. Cuando desaparezca, tendrás que demostrar cuánto recuerdas.</p>
+      <div class="levels memory-levels">
+        <button class="level" data-memory-level="easy"><span>🟢</span><b>Fácil</b><small>8 objetos · 15 segundos</small></button>
+        <button class="level" data-memory-level="medium"><span>🟡</span><b>Medio</b><small>12 objetos · 12 segundos</small></button>
+        <button class="level" data-memory-level="hard"><span>🟠</span><b>Difícil</b><small>16 objetos · 10 segundos</small></button>
+        <button class="level" data-memory-level="expert"><span>🔴</span><b>Experto</b><small>20 objetos · 8 segundos</small></button>
+      </div>
+    </section>
+
+    <section id="memoryObserveScreen" class="screen hidden">
+      <div class="brand">👁️ MEMORIA FOTOGRÁFICA</div>
+      <div class="memory-top">
+        <h1>¡Memoriza!</h1>
+        <div id="memoryCountdown" class="countdown">15</div>
+      </div>
+      <p class="lead">Fíjate en los objetos, sus colores y sus posiciones.</p>
+      <div id="memoryScene" class="memory-scene"></div>
+    </section>
+
+    <section id="memoryQuestionScreen" class="screen hidden">
+      <div class="brand">👁️ MEMORIA FOTOGRÁFICA</div>
+      <div class="memory-progress"><span id="memoryQuestionNumber">Pregunta 1 de 5</span><span id="memoryScore">0 puntos</span></div>
+      <h1 id="memoryQuestion">¿Qué recuerdas?</h1>
+      <div id="memoryAnswers" class="memory-answers"></div>
+      <p id="memoryFeedback" class="message"></p>
+    </section>
+
+    <section id="memoryFinishScreen" class="screen hidden">
+      <div class="finish-card">
+        <div class="finish-emoji">🧠✨</div>
+        <div class="brand">MEMORIA FOTOGRÁFICA</div>
+        <h1 id="memoryResultTitle">¡Buen trabajo!</h1>
+        <p id="memoryResultText" class="lead"></p>
+        <div class="result-grid">
+          <div><small>Aciertos</small><strong id="memoryFinalScore">0/5</strong></div>
+          <div><small>Nivel</small><strong id="memoryFinalLevel">Medio</strong></div>
+          <div><small>Memoria</small><strong id="memoryPercent">0%</strong></div>
+        </div>
+        <button id="memoryAgainBtn" class="primary wide">Otra partida</button>
+        <button id="memoryHomeBtn" class="secondary wide">Todos los juegos</button>
+      </div>
+    </section>
+
   </main>
   <script src="app.js"></script>
 </body>
