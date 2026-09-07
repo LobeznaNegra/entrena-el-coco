@@ -4,13 +4,13 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no" />
   <title>Entrena el COCO · Sudoku</title>
-  <link rel="stylesheet" href="styles-v31.css" />
+  <link rel="stylesheet" href="styles-v4.css" />
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </head>
 <body>
   <main class="app">
     <section id="mainMenuScreen" class="screen">
-      <div class="brand">🧠 ENTRENA EL COCO 🥥 · V3.1</div>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥 · V4</div>
       <h1>¿A qué jugamos?</h1>
       <p class="lead">Elige un entrenamiento para tus neuronas.</p>
 
@@ -23,6 +23,11 @@
         <button class="game-card" id="openMemoryBtn">
           <span class="game-icon">👁️</span>
           <span><strong>Memoria fotográfica</strong><small>Observa, memoriza y responde</small></span>
+          <span class="chev">›</span>
+        </button>
+        <button class="game-card" id="openWordSearchBtn">
+          <span class="game-icon">🔤</span>
+          <span><strong>Sopa de letras</strong><small>Encuentra todas las palabras ocultas</small></span>
           <span class="chev">›</span>
         </button>
       </div>
@@ -150,7 +155,7 @@
       <div class="finish-card">
         <div class="finish-emoji">🧠✨</div>
         <div class="brand">MEMORIA FOTOGRÁFICA</div>
-        <h1 id="memoryResultTitle">¡Buen trabajo!</h1>
+        <h1 id="memoryResultTitle" class="responsive-title">¡Buen trabajo!</h1>
         <p id="memoryResultText" class="lead"></p>
         <div class="result-grid">
           <div><small>Aciertos</small><strong id="memoryFinalScore">0/5</strong></div>
@@ -162,7 +167,58 @@
       </div>
     </section>
 
+
+    <section id="wordHomeScreen" class="screen hidden">
+      <button id="wordMenuBack" class="mini-back">‹ Todos los juegos</button>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>🔤 Sopa de letras</h1>
+      <p class="lead">Encuentra todas las palabras escondidas. Puedes seleccionar con el dedo o con el ratón.</p>
+      <div class="levels">
+        <button class="level" data-word-level="easy"><span>🟢</span><b>Fácil</b><small>8×8 · 5 palabras</small></button>
+        <button class="level" data-word-level="medium"><span>🟡</span><b>Medio</b><small>10×10 · 7 palabras</small></button>
+        <button class="level" data-word-level="hard"><span>🟠</span><b>Difícil</b><small>12×12 · 9 palabras</small></button>
+        <button class="level" data-word-level="expert"><span>🔴</span><b>Experto</b><small>13×13 · 11 palabras</small></button>
+      </div>
+    </section>
+
+    <section id="wordGameScreen" class="screen hidden">
+      <header class="game-header">
+        <button id="wordBackBtn" class="icon-btn">‹</button>
+        <div><div class="brand small">🔤 SOPA DE LETRAS</div><h1 id="wordTheme">Naturaleza</h1></div>
+        <button id="wordPauseBtn" class="icon-btn">Ⅱ</button>
+      </header>
+      <div class="statusbar">
+        <span id="wordLevel">🟢 Fácil</span>
+        <span id="wordTimer">00:00</span>
+        <span id="wordFoundCount">0/5</span>
+      </div>
+      <div class="word-board-wrap">
+        <div id="wordBoard" class="word-board"></div>
+        <div id="wordPauseOverlay" class="pause-overlay hidden">
+          <div>⏸️</div><strong>Partida en pausa</strong><button id="wordResumeBtn">Continuar</button>
+        </div>
+      </div>
+      <h2>Palabras</h2>
+      <div id="wordList" class="word-list"></div>
+      <p class="message">Arrastra desde la primera hasta la última letra.</p>
+    </section>
+
+    <section id="wordFinishScreen" class="screen hidden">
+      <div class="finish-card">
+        <div class="finish-emoji">🔤🏆</div>
+        <div class="brand">SOPA DE LETRAS</div>
+        <h1>¡Todas encontradas!</h1>
+        <div class="result-grid">
+          <div><small>Tiempo</small><strong id="wordFinalTime">00:00</strong></div>
+          <div><small>Palabras</small><strong id="wordFinalFound">5/5</strong></div>
+          <div><small>Nivel</small><strong id="wordFinalLevel">Fácil</strong></div>
+        </div>
+        <button id="wordAgainBtn" class="primary wide">Otra sopa</button>
+        <button id="wordHomeBtn" class="secondary wide">Todos los juegos</button>
+      </div>
+    </section>
+
   </main>
-  <script src="app-v31.js"></script>
+  <script src="app-v4.js"></script>
 </body>
 </html>
