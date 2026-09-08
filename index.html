@@ -1,0 +1,434 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no" />
+  <title>Entrena el COCO 🧠🥥</title>
+  <link rel="stylesheet" href="styles-v7.css" />
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <main class="app">
+    <section id="mainMenuScreen" class="screen">
+      <div class="brand">🧠 ENTRENA EL COCO 🥥 · V7</div>
+      <h1>¿A qué jugamos?</h1>
+      <p class="lead">Elige un entrenamiento para tus neuronas.</p>
+
+      <div class="game-menu">
+        <button class="game-card" id="openSudokuBtn">
+          <span class="game-icon">🔢</span>
+          <span><strong>Sudoku</strong><small>Números, lógica y deducción</small></span>
+          <span class="chev">›</span>
+        </button>
+        <button class="game-card" id="openMemoryBtn">
+          <span class="game-icon">👁️</span>
+          <span><strong>Memoria fotográfica</strong><small>Observa, memoriza y responde</small></span>
+          <span class="chev">›</span>
+        </button>
+        <button class="game-card" id="openWordSearchBtn">
+          <span class="game-icon">🔤</span>
+          <span><strong>Sopa de letras</strong><small>Encuentra todas las palabras ocultas</small></span>
+          <span class="chev">›</span>
+        </button>
+        <button class="game-card" id="openPairsBtn">
+          <span class="game-icon">🃏</span>
+          <span><strong>Memoriza las parejas</strong><small>Gira tarjetas y encuentra las iguales</small></span>
+          <span class="chev">›</span>
+        </button>
+        <button class="game-card" id="openMathBtn">
+          <span class="game-icon">🧮</span>
+          <span><strong>Desafío Matemático</strong><small>Series, lógica y razonamiento con números</small></span>
+          <span class="chev">›</span>
+        </button>
+        <button class="game-card" id="openPuzzleBtn">
+          <span class="game-icon">🧩</span>
+          <span><strong>Arma el Puzzle</strong><small>Reconstruye la imagen pieza a pieza</small></span>
+          <span class="chev">›</span>
+        </button>
+      </div>
+    </section>
+
+    <section id="homeScreen" class="screen hidden">
+      <button id="sudokuMenuBack" class="mini-back">‹ Todos los juegos</button>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>Sudoku</h1>
+      <p class="lead">Elige cómo quieres entrenar hoy.</p>
+
+      <button class="daily-card" id="dailyBtn">
+        <span class="daily-icon">📅</span>
+        <span>
+          <strong>Sudoku del día</strong>
+          <small>El mismo reto para todo el mundo</small>
+        </span>
+        <span class="chev">›</span>
+      </button>
+
+      <h2>Partida libre</h2>
+      <div class="levels">
+        <button class="level easy" data-level="easy"><span>🟢</span><b>Fácil</b><small>Para calentar</small></button>
+        <button class="level medium" data-level="medium"><span>🟡</span><b>Medio</b><small>Equilibrado</small></button>
+        <button class="level hard" data-level="hard"><span>🟠</span><b>Difícil</b><small>Más deducción</small></button>
+        <button class="level expert" data-level="expert"><span>🔴</span><b>Experto</b><small>Para sufrir un poquito</small></button>
+      </div>
+
+      <div class="home-foot">Progreso guardado automáticamente en este dispositivo.</div>
+    </section>
+
+    <section id="gameScreen" class="screen hidden">
+      <header class="game-header">
+        <button id="backBtn" class="icon-btn" aria-label="Volver">‹</button>
+        <div>
+          <div class="brand small">🧠 ENTRENA EL COCO 🥥</div>
+          <h1 id="gameTitle">Sudoku</h1>
+        </div>
+        <button id="pauseBtn" class="icon-btn" aria-label="Pausa">Ⅱ</button>
+      </header>
+
+      <div class="statusbar">
+        <span id="difficulty">Nivel: Medio</span>
+        <span id="timer">00:00</span>
+        <span id="mistakes">Errores: 0</span>
+      </div>
+
+      <div class="board-wrap">
+        <div id="board" class="board" aria-label="Tablero de sudoku"></div>
+        <div id="pauseOverlay" class="pause-overlay hidden">
+          <div>⏸️</div>
+          <strong>Partida en pausa</strong>
+          <button id="resumeBtn">Continuar</button>
+        </div>
+      </div>
+
+      <div class="tools">
+        <button id="undoBtn"><span>↩️</span><small>Deshacer</small></button>
+        <button id="notesBtn"><span>✏️</span><small>Notas</small></button>
+        <button id="eraseBtn"><span>⌫</span><small>Borrar</small></button>
+        <button id="hintBtn"><span>💡</span><small>Pista</small></button>
+      </div>
+
+      <div class="numberpad" aria-label="Teclado numérico">
+        <button data-num="1">1</button><button data-num="2">2</button><button data-num="3">3</button>
+        <button data-num="4">4</button><button data-num="5">5</button><button data-num="6">6</button>
+        <button data-num="7">7</button><button data-num="8">8</button><button data-num="9">9</button>
+      </div>
+
+      <div class="game-actions">
+        <button id="checkBtn" class="secondary">✓ Comprobar</button>
+        <button id="newBtn" class="primary">＋ Nueva partida</button>
+      </div>
+
+      <p id="message" class="message" aria-live="polite"></p>
+    </section>
+
+    <section id="finishScreen" class="screen hidden">
+      <div class="finish-card">
+        <div class="finish-emoji">🏆</div>
+        <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+        <h1>¡Sudoku completado!</h1>
+        <div class="result-grid">
+          <div><small>Tiempo</small><strong id="finalTime">00:00</strong></div>
+          <div><small>Errores</small><strong id="finalMistakes">0</strong></div>
+          <div><small>Nivel</small><strong id="finalLevel">Medio</strong></div>
+        </div>
+        <button id="playAgainBtn" class="primary wide">Jugar otra vez</button>
+        <button id="homeBtn" class="secondary wide">Volver al menú</button>
+      </div>
+    </section>
+
+    <section id="memoryHomeScreen" class="screen hidden">
+      <button id="memoryMenuBack" class="mini-back">‹ Todos los juegos</button>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>👁️ Memoria fotográfica</h1>
+      <p class="lead">Mira la escena con atención. Cuando desaparezca, tendrás que demostrar cuánto recuerdas.</p>
+      <div class="levels memory-levels">
+        <button class="level" data-memory-level="easy"><span>🟢</span><b>Fácil</b><small>8 objetos · 15 segundos</small></button>
+        <button class="level" data-memory-level="medium"><span>🟡</span><b>Medio</b><small>12 objetos · 12 segundos</small></button>
+        <button class="level" data-memory-level="hard"><span>🟠</span><b>Difícil</b><small>16 objetos · 10 segundos</small></button>
+        <button class="level" data-memory-level="expert"><span>🔴</span><b>Experto</b><small>20 objetos · 8 segundos</small></button>
+      </div>
+    </section>
+
+    <section id="memoryObserveScreen" class="screen hidden">
+      <div class="brand">👁️ MEMORIA FOTOGRÁFICA</div>
+      <div class="memory-top">
+        <h1>¡Memoriza!</h1>
+        <div id="memoryCountdown" class="countdown">15</div>
+      </div>
+      <p class="lead">Fíjate en los objetos, sus colores y sus posiciones.</p>
+      <div id="memoryScene" class="memory-scene"></div>
+    </section>
+
+    <section id="memoryQuestionScreen" class="screen hidden">
+      <div class="brand">👁️ MEMORIA FOTOGRÁFICA</div>
+      <div class="memory-progress"><span id="memoryQuestionNumber">Pregunta 1 de 5</span><span id="memoryScore">0 puntos</span></div>
+      <h1 id="memoryQuestion">¿Qué recuerdas?</h1>
+      <div id="memoryAnswers" class="memory-answers"></div>
+      <p id="memoryFeedback" class="message"></p>
+    </section>
+
+    <section id="memoryFinishScreen" class="screen hidden">
+      <div class="finish-card">
+        <div class="finish-emoji">🧠✨</div>
+        <div class="brand">MEMORIA FOTOGRÁFICA</div>
+        <h1 id="memoryResultTitle" class="responsive-title">¡Buen trabajo!</h1>
+        <p id="memoryResultText" class="lead"></p>
+        <div class="result-grid">
+          <div><small>Aciertos</small><strong id="memoryFinalScore">0/5</strong></div>
+          <div><small>Nivel</small><strong id="memoryFinalLevel">Medio</strong></div>
+          <div><small>Memoria</small><strong id="memoryPercent">0%</strong></div>
+        </div>
+        <button id="memoryAgainBtn" class="primary wide">Otra partida</button>
+        <button id="memoryHomeBtn" class="secondary wide">Todos los juegos</button>
+      </div>
+    </section>
+
+
+    <section id="wordHomeScreen" class="screen hidden">
+      <button id="wordMenuBack" class="mini-back">‹ Todos los juegos</button>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>🔤 Sopa de letras</h1>
+      <p class="lead">Encuentra todas las palabras escondidas. Puedes seleccionar con el dedo o con el ratón.</p>
+      <div class="levels">
+        <button class="level" data-word-level="easy"><span>🟢</span><b>Fácil</b><small>8×8 · 5 palabras</small></button>
+        <button class="level" data-word-level="medium"><span>🟡</span><b>Medio</b><small>10×10 · 7 palabras</small></button>
+        <button class="level" data-word-level="hard"><span>🟠</span><b>Difícil</b><small>12×12 · 9 palabras</small></button>
+        <button class="level" data-word-level="expert"><span>🔴</span><b>Experto</b><small>13×13 · 11 palabras</small></button>
+      </div>
+    </section>
+
+    <section id="wordGameScreen" class="screen hidden">
+      <header class="game-header">
+        <button id="wordBackBtn" class="icon-btn">‹</button>
+        <div><div class="brand small">🔤 SOPA DE LETRAS</div><h1 id="wordTheme">Naturaleza</h1></div>
+        <button id="wordPauseBtn" class="icon-btn">Ⅱ</button>
+      </header>
+      <div class="statusbar">
+        <span id="wordLevel">🟢 Fácil</span>
+        <span id="wordTimer">00:00</span>
+        <span id="wordFoundCount">0/5</span>
+      </div>
+      <div class="word-board-wrap">
+        <div id="wordBoard" class="word-board"></div>
+        <div id="wordPauseOverlay" class="pause-overlay hidden">
+          <div>⏸️</div><strong>Partida en pausa</strong><button id="wordResumeBtn">Continuar</button>
+        </div>
+      </div>
+      <h2>Palabras</h2>
+      <div id="wordList" class="word-list"></div>
+      <p class="message">Arrastra desde la primera hasta la última letra.</p>
+    </section>
+
+    <section id="wordFinishScreen" class="screen hidden">
+      <div class="finish-card">
+        <div class="finish-emoji">🔤🏆</div>
+        <div class="brand">SOPA DE LETRAS</div>
+        <h1>¡Todas encontradas!</h1>
+        <div class="result-grid">
+          <div><small>Tiempo</small><strong id="wordFinalTime">00:00</strong></div>
+          <div><small>Palabras</small><strong id="wordFinalFound">5/5</strong></div>
+          <div><small>Nivel</small><strong id="wordFinalLevel">Fácil</strong></div>
+        </div>
+        <button id="wordAgainBtn" class="primary wide">Otra sopa</button>
+        <button id="wordHomeBtn" class="secondary wide">Todos los juegos</button>
+      </div>
+    </section>
+
+
+    <section id="pairsHomeScreen" class="screen hidden">
+      <button id="pairsMenuBack" class="mini-back">‹ Todos los juegos</button>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>🃏 Memoriza las parejas</h1>
+      <p class="lead">Gira dos tarjetas cada vez. Si son iguales, se quedan descubiertas. Encuentra todas las parejas.</p>
+      <div class="levels pairs-levels">
+        <button class="level" data-pairs-level="easy"><span>🟢</span><b>Fácil</b><small>6 parejas · 12 tarjetas</small></button>
+        <button class="level" data-pairs-level="medium"><span>🟡</span><b>Medio</b><small>8 parejas · 16 tarjetas</small></button>
+        <button class="level" data-pairs-level="hard"><span>🟠</span><b>Difícil</b><small>12 parejas · 24 tarjetas</small></button>
+        <button class="level" data-pairs-level="expert"><span>🔴</span><b>Experto</b><small>15 parejas · 30 tarjetas</small></button>
+      </div>
+    </section>
+
+    <section id="pairsGameScreen" class="screen hidden">
+      <header class="game-header">
+        <button id="pairsBackBtn" class="icon-btn" aria-label="Volver">‹</button>
+        <div><div class="brand small">🃏 MEMORIZA LAS PAREJAS</div><h1 id="pairsGameTitle">Parejas</h1></div>
+        <button id="pairsPauseBtn" class="icon-btn" aria-label="Pausa">Ⅱ</button>
+      </header>
+      <div class="statusbar pairs-status">
+        <span id="pairsLevel">🟢 Fácil</span>
+        <span id="pairsTimer">00:00</span>
+        <span id="pairsAttempts">Intentos: 0</span>
+      </div>
+      <div class="pairs-board-wrap">
+        <div id="pairsBoard" class="pairs-board" aria-label="Tablero de parejas"></div>
+        <div id="pairsPauseOverlay" class="pause-overlay hidden">
+          <div>⏸️</div><strong>Partida en pausa</strong><button id="pairsResumeBtn">Continuar</button>
+        </div>
+      </div>
+      <div class="pairs-progress">
+        <span>✅ Parejas encontradas</span><strong id="pairsFound">0/6</strong>
+      </div>
+      <p id="pairsMessage" class="message">Toca dos tarjetas para buscar una pareja.</p>
+    </section>
+
+    <section id="pairsFinishScreen" class="screen hidden">
+      <div class="finish-card">
+        <div class="finish-emoji">🃏🏆</div>
+        <div class="brand">MEMORIZA LAS PAREJAS</div>
+        <h1 id="pairsResultTitle" class="responsive-title">¡Todas encontradas!</h1>
+        <p id="pairsResultText" class="lead">¡Buen entrenamiento de memoria!</p>
+        <div class="result-grid">
+          <div><small>Tiempo</small><strong id="pairsFinalTime">00:00</strong></div>
+          <div><small>Intentos</small><strong id="pairsFinalAttempts">0</strong></div>
+          <div><small>Nivel</small><strong id="pairsFinalLevel">Fácil</strong></div>
+        </div>
+        <button id="pairsAgainBtn" class="primary wide">Jugar otra vez</button>
+        <button id="pairsHomeBtn" class="secondary wide">Todos los juegos</button>
+      </div>
+    </section>
+
+
+    <section id="mathHomeScreen" class="screen hidden">
+      <button id="mathMenuBack" class="mini-back">‹ Todos los juegos</button>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>🧮 Desafío Matemático</h1>
+      <p class="lead">Descubre la lógica y encuentra la respuesta. Cada partida tiene 10 retos.</p>
+      <div class="levels math-levels">
+        <button class="level" data-math-level="easy"><span>🟢</span><b>Fácil</b><small>Operaciones y series sencillas</small></button>
+        <button class="level" data-math-level="medium"><span>🟡</span><b>Medio</b><small>Patrones y relaciones</small></button>
+        <button class="level" data-math-level="hard"><span>🟠</span><b>Difícil</b><small>Secuencias de varios pasos</small></button>
+        <button class="level" data-math-level="expert"><span>🔴</span><b>Experto</b><small>Razonamiento numérico avanzado</small></button>
+      </div>
+    </section>
+
+    <section id="mathGameScreen" class="screen hidden">
+      <header class="game-header">
+        <button id="mathBackBtn" class="icon-btn" aria-label="Volver">‹</button>
+        <div><div class="brand small">🧮 DESAFÍO MATEMÁTICO</div><h1>Reto <span id="mathQuestionNumber">1</span>/10</h1></div>
+        <button id="mathPauseBtn" class="icon-btn" aria-label="Pausa">Ⅱ</button>
+      </header>
+
+      <div class="statusbar math-status">
+        <span id="mathLevel">🟢 Fácil</span>
+        <span id="mathTimer">00:00</span>
+        <span id="mathScore">✅ 0/10</span>
+      </div>
+
+      <div class="math-stage-wrap">
+        <div class="math-stage">
+          <div id="mathType" class="math-type">SERIE NUMÉRICA</div>
+          <div id="mathPrompt" class="math-prompt">2 · 4 · 6 · 8 · ?</div>
+          <p class="math-question">¿Cuál es la respuesta?</p>
+          <div id="mathAnswers" class="math-answers"></div>
+          <div id="mathFeedback" class="math-feedback hidden" aria-live="polite">
+            <strong id="mathFeedbackTitle"></strong>
+            <p id="mathExplanation"></p>
+            <button id="mathNextBtn" class="primary wide">Siguiente reto ›</button>
+          </div>
+        </div>
+        <div id="mathPauseOverlay" class="pause-overlay hidden">
+          <div>⏸️</div><strong>Partida en pausa</strong><button id="mathResumeBtn">Continuar</button>
+        </div>
+      </div>
+
+      <div class="math-mini-stats">
+        <span>🔥 Racha <strong id="mathStreak">0</strong></span>
+        <span>❌ Errores <strong id="mathErrors">0</strong></span>
+      </div>
+    </section>
+
+    <section id="mathFinishScreen" class="screen hidden">
+      <div class="finish-card">
+        <div class="finish-emoji">🧮🏆</div>
+        <div class="brand">DESAFÍO MATEMÁTICO</div>
+        <h1 id="mathResultTitle" class="responsive-title">¡Coco calculador!</h1>
+        <p id="mathResultText" class="lead"></p>
+        <div class="math-result-grid">
+          <div><small>Aciertos</small><strong id="mathFinalScore">0/10</strong></div>
+          <div><small>Errores</small><strong id="mathFinalErrors">0</strong></div>
+          <div><small>Mejor racha</small><strong id="mathFinalStreak">0</strong></div>
+          <div><small>Tiempo</small><strong id="mathFinalTime">00:00</strong></div>
+        </div>
+        <button id="mathAgainBtn" class="primary wide">Otra partida</button>
+        <button id="mathHomeBtn" class="secondary wide">Todos los juegos</button>
+      </div>
+    </section>
+
+
+    <section id="puzzleHomeScreen" class="screen hidden">
+      <button id="puzzleMenuBack" class="mini-back">‹ Todos los juegos</button>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>🧩 Arma el Puzzle</h1>
+      <p class="lead">Observa la imagen y reconstrúyela intercambiando las piezas. Toca una pieza y después otra para cambiarlas de sitio.</p>
+      <div class="levels puzzle-levels">
+        <button class="level" data-puzzle-level="easy"><span>🟢</span><b>Fácil</b><small>3×3 · 9 piezas · 6 s para mirar</small></button>
+        <button class="level" data-puzzle-level="medium"><span>🟡</span><b>Medio</b><small>4×4 · 16 piezas · 5 s para mirar</small></button>
+        <button class="level" data-puzzle-level="hard"><span>🟠</span><b>Difícil</b><small>5×5 · 25 piezas · 4 s para mirar</small></button>
+        <button class="level" data-puzzle-level="expert"><span>🔴</span><b>Experto</b><small>6×6 · 36 piezas · 3 s para mirar</small></button>
+      </div>
+    </section>
+
+    <section id="puzzlePreviewScreen" class="screen hidden">
+      <div class="brand">🧩 ARMA EL PUZZLE</div>
+      <div class="puzzle-preview-top">
+        <div>
+          <h1>¡Memoriza la imagen!</h1>
+          <p id="puzzlePreviewName" class="lead">Paisaje</p>
+        </div>
+        <div id="puzzleCountdown" class="countdown">6</div>
+      </div>
+      <div id="puzzlePreviewImage" class="puzzle-preview-image" aria-label="Imagen que tendrás que reconstruir"></div>
+      <button id="puzzleSkipPreviewBtn" class="secondary wide">Empezar ya</button>
+    </section>
+
+    <section id="puzzleGameScreen" class="screen hidden">
+      <header class="game-header">
+        <button id="puzzleBackBtn" class="icon-btn" aria-label="Volver">‹</button>
+        <div><div class="brand small">🧩 ARMA EL PUZZLE</div><h1 id="puzzleGameTitle">Reconstruye la imagen</h1></div>
+        <button id="puzzlePauseBtn" class="icon-btn" aria-label="Pausa">Ⅱ</button>
+      </header>
+
+      <div class="statusbar puzzle-status">
+        <span id="puzzleLevel">🟢 Fácil</span>
+        <span id="puzzleTimer">00:00</span>
+        <span id="puzzleMoves">Mov.: 0</span>
+      </div>
+
+      <div class="puzzle-board-wrap">
+        <div id="puzzleBoard" class="puzzle-board" aria-label="Puzzle"></div>
+        <div id="puzzlePauseOverlay" class="pause-overlay hidden">
+          <div>⏸️</div><strong>Partida en pausa</strong><button id="puzzleResumeBtn">Continuar</button>
+        </div>
+      </div>
+
+      <div class="puzzle-progress">
+        <span>🧩 Piezas correctas</span>
+        <strong id="puzzleCorrect">0/9</strong>
+      </div>
+      <div class="puzzle-actions">
+        <button id="puzzlePeekBtn" class="secondary">👁️ Ver imagen</button>
+        <button id="puzzleShuffleBtn" class="secondary">🔀 Mezclar</button>
+      </div>
+      <p id="puzzleMessage" class="message">Toca dos piezas para intercambiarlas.</p>
+    </section>
+
+    <section id="puzzleFinishScreen" class="screen hidden">
+      <div class="finish-card">
+        <div class="finish-emoji">🧩🏆</div>
+        <div class="brand">ARMA EL PUZZLE</div>
+        <h1 id="puzzleResultTitle" class="responsive-title">¡Puzzle completado!</h1>
+        <p id="puzzleResultText" class="lead"></p>
+        <div id="puzzleFinalImage" class="puzzle-final-image"></div>
+        <div class="result-grid">
+          <div><small>Tiempo</small><strong id="puzzleFinalTime">00:00</strong></div>
+          <div><small>Movimientos</small><strong id="puzzleFinalMoves">0</strong></div>
+          <div><small>Nivel</small><strong id="puzzleFinalLevel">Fácil</strong></div>
+        </div>
+        <button id="puzzleAgainBtn" class="primary wide">Otro puzzle</button>
+        <button id="puzzleHomeBtn" class="secondary wide">Todos los juegos</button>
+      </div>
+    </section>
+
+  </main>
+  <script src="app-v7.js"></script>
+</body>
+</html>
