@@ -3,14 +3,14 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no" />
-  <title>Entrena el COCO · Sudoku</title>
-  <link rel="stylesheet" href="styles-v4.css" />
+  <title>Entrena el COCO 🧠🥥</title>
+  <link rel="stylesheet" href="styles-v5.css" />
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </head>
 <body>
   <main class="app">
     <section id="mainMenuScreen" class="screen">
-      <div class="brand">🧠 ENTRENA EL COCO 🥥 · V4</div>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥 · V5</div>
       <h1>¿A qué jugamos?</h1>
       <p class="lead">Elige un entrenamiento para tus neuronas.</p>
 
@@ -28,6 +28,11 @@
         <button class="game-card" id="openWordSearchBtn">
           <span class="game-icon">🔤</span>
           <span><strong>Sopa de letras</strong><small>Encuentra todas las palabras ocultas</small></span>
+          <span class="chev">›</span>
+        </button>
+        <button class="game-card" id="openPairsBtn">
+          <span class="game-icon">🃏</span>
+          <span><strong>Memoriza las parejas</strong><small>Gira tarjetas y encuentra las iguales</small></span>
           <span class="chev">›</span>
         </button>
       </div>
@@ -218,7 +223,60 @@
       </div>
     </section>
 
+
+    <section id="pairsHomeScreen" class="screen hidden">
+      <button id="pairsMenuBack" class="mini-back">‹ Todos los juegos</button>
+      <div class="brand">🧠 ENTRENA EL COCO 🥥</div>
+      <h1>🃏 Memoriza las parejas</h1>
+      <p class="lead">Gira dos tarjetas cada vez. Si son iguales, se quedan descubiertas. Encuentra todas las parejas.</p>
+      <div class="levels pairs-levels">
+        <button class="level" data-pairs-level="easy"><span>🟢</span><b>Fácil</b><small>6 parejas · 12 tarjetas</small></button>
+        <button class="level" data-pairs-level="medium"><span>🟡</span><b>Medio</b><small>8 parejas · 16 tarjetas</small></button>
+        <button class="level" data-pairs-level="hard"><span>🟠</span><b>Difícil</b><small>12 parejas · 24 tarjetas</small></button>
+        <button class="level" data-pairs-level="expert"><span>🔴</span><b>Experto</b><small>15 parejas · 30 tarjetas</small></button>
+      </div>
+    </section>
+
+    <section id="pairsGameScreen" class="screen hidden">
+      <header class="game-header">
+        <button id="pairsBackBtn" class="icon-btn" aria-label="Volver">‹</button>
+        <div><div class="brand small">🃏 MEMORIZA LAS PAREJAS</div><h1 id="pairsGameTitle">Parejas</h1></div>
+        <button id="pairsPauseBtn" class="icon-btn" aria-label="Pausa">Ⅱ</button>
+      </header>
+      <div class="statusbar pairs-status">
+        <span id="pairsLevel">🟢 Fácil</span>
+        <span id="pairsTimer">00:00</span>
+        <span id="pairsAttempts">Intentos: 0</span>
+      </div>
+      <div class="pairs-board-wrap">
+        <div id="pairsBoard" class="pairs-board" aria-label="Tablero de parejas"></div>
+        <div id="pairsPauseOverlay" class="pause-overlay hidden">
+          <div>⏸️</div><strong>Partida en pausa</strong><button id="pairsResumeBtn">Continuar</button>
+        </div>
+      </div>
+      <div class="pairs-progress">
+        <span>✅ Parejas encontradas</span><strong id="pairsFound">0/6</strong>
+      </div>
+      <p id="pairsMessage" class="message">Toca dos tarjetas para buscar una pareja.</p>
+    </section>
+
+    <section id="pairsFinishScreen" class="screen hidden">
+      <div class="finish-card">
+        <div class="finish-emoji">🃏🏆</div>
+        <div class="brand">MEMORIZA LAS PAREJAS</div>
+        <h1 id="pairsResultTitle" class="responsive-title">¡Todas encontradas!</h1>
+        <p id="pairsResultText" class="lead">¡Buen entrenamiento de memoria!</p>
+        <div class="result-grid">
+          <div><small>Tiempo</small><strong id="pairsFinalTime">00:00</strong></div>
+          <div><small>Intentos</small><strong id="pairsFinalAttempts">0</strong></div>
+          <div><small>Nivel</small><strong id="pairsFinalLevel">Fácil</strong></div>
+        </div>
+        <button id="pairsAgainBtn" class="primary wide">Jugar otra vez</button>
+        <button id="pairsHomeBtn" class="secondary wide">Todos los juegos</button>
+      </div>
+    </section>
+
   </main>
-  <script src="app-v4.js"></script>
+  <script src="app-v5.js"></script>
 </body>
 </html>
