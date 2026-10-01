@@ -1,0 +1,1528 @@
+[
+  {
+    "id": 1,
+    "category": "Objetos",
+    "question": "Tengo agujas pero no coso; marco horas sin hablar. ¿Qué soy?",
+    "options": [
+      "Brújula",
+      "Reloj",
+      "Termómetro",
+      "Calendario"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Las agujas del reloj señalan la hora."
+  },
+  {
+    "id": 2,
+    "category": "Objetos",
+    "question": "Tengo dientes, pero no muerdo; desenredo el pelo. ¿Qué soy?",
+    "options": [
+      "Tenedor",
+      "Sierra",
+      "Peine",
+      "Cremallera"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "Las púas del peine se llaman dientes."
+  },
+  {
+    "id": 3,
+    "category": "Objetos",
+    "question": "Tengo hojas y no soy árbol; tengo lomo y no soy animal. ¿Qué soy?",
+    "options": [
+      "Libro",
+      "Revista digital",
+      "Pizarra",
+      "Cuaderno sin encuadernar"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "Un libro tiene hojas y lomo en su encuadernación."
+  },
+  {
+    "id": 4,
+    "category": "Objetos",
+    "question": "Tengo teclas blancas y negras, pero no abro puertas. ¿Qué soy?",
+    "options": [
+      "Ratón",
+      "Piano",
+      "Micrófono",
+      "Cerradura"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Un piano tiene teclas para producir notas."
+  },
+  {
+    "id": 5,
+    "category": "Objetos",
+    "question": "Cuanto más seco, más mojada quedo después de secar a alguien. ¿Qué soy?",
+    "options": [
+      "Toalla",
+      "Jabón",
+      "Peine",
+      "Espejo"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "La toalla absorbe el agua del cuerpo."
+  },
+  {
+    "id": 6,
+    "category": "Objetos",
+    "question": "Me abres sobre tu cabeza cuando llueve. ¿Qué soy?",
+    "options": [
+      "Cortina",
+      "Paraguas",
+      "Persiana",
+      "Sombrero"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "El paraguas abierto protege de la lluvia."
+  },
+  {
+    "id": 7,
+    "category": "Objetos",
+    "question": "Soy transparente, frágil y dejo mirar a través de la ventana. ¿Qué soy?",
+    "options": [
+      "Madera",
+      "Cartón",
+      "Ladrillo",
+      "Cristal"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "El cristal permite el paso de la luz."
+  },
+  {
+    "id": 8,
+    "category": "Objetos",
+    "question": "Tengo cuello y cuerpo, pero no cabeza; suelo guardar líquido. ¿Qué soy?",
+    "options": [
+      "Plato",
+      "Sartén",
+      "Botella",
+      "Tenedor"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "Las partes de la botella se llaman cuello y cuerpo."
+  },
+  {
+    "id": 9,
+    "category": "Objetos",
+    "question": "Tengo boca, no hablo, y me colocas en un grifo para conducir agua. ¿Qué soy?",
+    "options": [
+      "Candado",
+      "Escoba",
+      "Enchufe",
+      "Manguera"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "La abertura de la manguera recibe y expulsa agua."
+  },
+  {
+    "id": 10,
+    "category": "Objetos",
+    "question": "Tengo un ojo y no veo; atravieso la tela con hilo. ¿Qué soy?",
+    "options": [
+      "Aguja",
+      "Tijera",
+      "Cinta métrica",
+      "Botón"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "El ojo de la aguja permite pasar el hilo."
+  },
+  {
+    "id": 11,
+    "category": "Objetos",
+    "question": "Me das vueltas para ajustar un tornillo. ¿Qué soy?",
+    "options": [
+      "Serrucho",
+      "Martillo",
+      "Destornillador",
+      "Alicate"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "El destornillador gira la cabeza del tornillo."
+  },
+  {
+    "id": 12,
+    "category": "Objetos",
+    "question": "Sin tener alas, hago volar palabras entre emisora y oyentes. ¿Qué aparato soy?",
+    "options": [
+      "Radio",
+      "Plancha",
+      "Aspiradora",
+      "Nevera"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "La radio transmite y recibe señales con sonido."
+  },
+  {
+    "id": 13,
+    "category": "Objetos",
+    "question": "Me miras y ves a alguien que hace tus mismos gestos. ¿Qué soy?",
+    "options": [
+      "Ventana opaca",
+      "Pizarra",
+      "Espejo",
+      "Persiana"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "El espejo refleja tu imagen."
+  },
+  {
+    "id": 14,
+    "category": "Objetos",
+    "question": "Tengo suela, pero no estoy en el suelo hasta que das un paso. ¿Qué soy?",
+    "options": [
+      "Zapato",
+      "Guante",
+      "Bufanda",
+      "Sombrero"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "La suela es la parte inferior del zapato."
+  },
+  {
+    "id": 15,
+    "category": "Objetos",
+    "question": "Me hinchan sin alimentarme y exploto si me pinchan. ¿Qué soy?",
+    "options": [
+      "Esponja",
+      "Papel",
+      "Globo",
+      "Lata"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "El globo se llena de aire."
+  },
+  {
+    "id": 16,
+    "category": "Objetos",
+    "question": "Guardo dinero, pero no soy un banco; suelo caber en un bolsillo. ¿Qué soy?",
+    "options": [
+      "Monedero",
+      "Mochila",
+      "Caja fuerte grande",
+      "Maleta"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "El monedero sirve para guardar monedas."
+  },
+  {
+    "id": 17,
+    "category": "Objetos",
+    "question": "Subo y bajo pasajeros entre pisos sin usar escaleras. ¿Qué soy?",
+    "options": [
+      "Autobús",
+      "Teleférico de montaña",
+      "Ascensor",
+      "Tranvía"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "El ascensor conecta plantas de un edificio."
+  },
+  {
+    "id": 18,
+    "category": "Objetos",
+    "question": "Me cargas de energía para hablar a distancia y llevo pantalla. ¿Qué soy?",
+    "options": [
+      "Radio de pilas",
+      "Timbre",
+      "Linterna",
+      "Teléfono móvil"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "El teléfono móvil tiene batería y pantalla."
+  },
+  {
+    "id": 19,
+    "category": "Objetos",
+    "question": "Tengo números y letras, y mis teclas escriben en una pantalla. ¿Qué soy?",
+    "options": [
+      "Teclado",
+      "Impresora",
+      "Monitor",
+      "Altavoz"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "El teclado envía caracteres al ordenador."
+  },
+  {
+    "id": 20,
+    "category": "Objetos",
+    "question": "Tengo dos hojas afiladas y corto papel cuando cierro los dedos. ¿Qué soy?",
+    "options": [
+      "Grapadora",
+      "Regla",
+      "Tijeras",
+      "Perforadora"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "Las tijeras tienen dos hojas articuladas."
+  },
+  {
+    "id": 21,
+    "category": "Animales",
+    "question": "Llevo mi casa a cuestas, dejo rastro brillante y avanzo despacio. ¿Qué soy?",
+    "options": [
+      "Erizo",
+      "Tortuga",
+      "Caracol",
+      "Hormiga"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "El caracol lleva concha y deja un rastro de mucosidad."
+  },
+  {
+    "id": 22,
+    "category": "Animales",
+    "question": "Soy mamífero, vuelo de noche y uso ecolocalización. ¿Qué soy?",
+    "options": [
+      "Mariposa",
+      "Murciélago",
+      "Búho",
+      "Águila"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "El murciélago es un mamífero volador."
+  },
+  {
+    "id": 23,
+    "category": "Animales",
+    "question": "Tengo ocho brazos y vivo en el mar. ¿Qué soy?",
+    "options": [
+      "Calamar",
+      "Medusa",
+      "Pulpo",
+      "Estrella de mar"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "El pulpo tiene ocho brazos."
+  },
+  {
+    "id": 24,
+    "category": "Animales",
+    "question": "Soy un ave que no vuela, camino erguida y nado muy bien. ¿Qué soy?",
+    "options": [
+      "Pato",
+      "Avestruz",
+      "Cisne",
+      "Pingüino"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "El pingüino usa sus alas para impulsarse en el agua."
+  },
+  {
+    "id": 25,
+    "category": "Animales",
+    "question": "Voy de flor en flor y produzco miel. ¿Qué soy?",
+    "options": [
+      "Avispa",
+      "Abeja",
+      "Mosquito",
+      "Mariposa"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Las abejas producen miel a partir del néctar."
+  },
+  {
+    "id": 26,
+    "category": "Animales",
+    "question": "Tejo redes para capturar insectos y tengo ocho patas. ¿Qué soy?",
+    "options": [
+      "Araña",
+      "Grillo",
+      "Mosca",
+      "Hormiga"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "Las arañas tienen ocho patas y muchas tejen telarañas."
+  },
+  {
+    "id": 27,
+    "category": "Animales",
+    "question": "Empiezo como oruga y después vuelo con alas de colores. ¿Qué soy?",
+    "options": [
+      "Mariposa",
+      "Libélula",
+      "Mosquito",
+      "Abeja"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "La mariposa pasa por una metamorfosis."
+  },
+  {
+    "id": 28,
+    "category": "Animales",
+    "question": "Tengo rayas blancas y negras y soy pariente del caballo. ¿Qué soy?",
+    "options": [
+      "Tigre",
+      "Jirafa",
+      "Cebra",
+      "Tapir"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "La cebra pertenece a la familia de los équidos."
+  },
+  {
+    "id": 29,
+    "category": "Animales",
+    "question": "Mi cuello es muy largo y mi cuerpo tiene manchas. ¿Qué soy?",
+    "options": [
+      "Camello",
+      "Alpaca",
+      "Avestruz",
+      "Jirafa"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "La jirafa tiene un cuello extraordinariamente largo."
+  },
+  {
+    "id": 30,
+    "category": "Animales",
+    "question": "Tengo trompa, grandes orejas y soy un mamífero terrestre enorme. ¿Qué soy?",
+    "options": [
+      "Rinoceronte",
+      "Elefante",
+      "Hipopótamo",
+      "Bisonte"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "La trompa distingue al elefante."
+  },
+  {
+    "id": 31,
+    "category": "Animales",
+    "question": "Cambio de color, tengo lengua larga y ojos que se mueven de forma independiente. ¿Qué soy?",
+    "options": [
+      "Iguana",
+      "Lagartija",
+      "Salamandra",
+      "Camaleón"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "Son rasgos característicos del camaleón."
+  },
+  {
+    "id": 32,
+    "category": "Animales",
+    "question": "Tengo pinzas, caparazón y suelo caminar de lado. ¿Qué soy?",
+    "options": [
+      "Medusa",
+      "Caballito de mar",
+      "Pulpo",
+      "Cangrejo"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "Muchos cangrejos se desplazan lateralmente."
+  },
+  {
+    "id": 33,
+    "category": "Animales",
+    "question": "Soy blanco en el Ártico y cazo focas sobre el hielo. ¿Qué soy?",
+    "options": [
+      "Panda",
+      "Koala",
+      "Oso polar",
+      "Oso pardo"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "El oso polar está adaptado al Ártico."
+  },
+  {
+    "id": 34,
+    "category": "Animales",
+    "question": "Tengo bolsa para llevar a mis crías y doy grandes saltos. ¿Qué soy?",
+    "options": [
+      "Canguro",
+      "Conejo",
+      "Liebre",
+      "Gacela"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "El canguro es un marsupial."
+  },
+  {
+    "id": 35,
+    "category": "Animales",
+    "question": "Tengo espinas y me hago una bola al asustarme. ¿Qué soy?",
+    "options": [
+      "Erizo",
+      "Puercoespín",
+      "Armadillo",
+      "Topo"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "El erizo puede enrollarse protegiendo su vientre."
+  },
+  {
+    "id": 36,
+    "category": "Animales",
+    "question": "Construyo presas con ramas y tengo cola ancha y plana. ¿Qué soy?",
+    "options": [
+      "Nutria",
+      "Mapache",
+      "Tejón",
+      "Castor"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "Los castores modifican cursos de agua con sus presas."
+  },
+  {
+    "id": 37,
+    "category": "Animales",
+    "question": "Soy un ave nocturna, tengo disco facial y puedo girar mucho la cabeza. ¿Qué soy?",
+    "options": [
+      "Golondrina",
+      "Petirrojo",
+      "Búho",
+      "Gorrión"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "El búho es una rapaz nocturna."
+  },
+  {
+    "id": 38,
+    "category": "Animales",
+    "question": "Soy un mamífero marino con un colmillo muy largo en forma de espiral. ¿Qué soy?",
+    "options": [
+      "Narval",
+      "Orca",
+      "Delfín",
+      "Foca"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "El colmillo del narval es un diente alargado."
+  },
+  {
+    "id": 39,
+    "category": "Animales",
+    "question": "Tengo pico de pato, pongo huevos y soy mamífero. ¿Qué soy?",
+    "options": [
+      "Ornitorrinco",
+      "Castor",
+      "Pato",
+      "Nutria"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "El ornitorrinco es un mamífero ovíparo."
+  },
+  {
+    "id": 40,
+    "category": "Animales",
+    "question": "Canto frotando mis alas y parezco un pequeño saltador nocturno. ¿Qué soy?",
+    "options": [
+      "Cigarra",
+      "Grillo",
+      "Escarabajo",
+      "Mosca"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Los grillos machos producen sonido mediante estridulación de sus alas."
+  },
+  {
+    "id": 41,
+    "category": "Vida cotidiana",
+    "question": "Me encienden para iluminar; cuanto más tiempo ardo, más corta soy. ¿Qué soy?",
+    "options": [
+      "Vela",
+      "Linterna",
+      "Bombilla",
+      "Farola"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "La cera de la vela se consume al arder."
+  },
+  {
+    "id": 42,
+    "category": "Vida cotidiana",
+    "question": "¿Qué sube con los cumpleaños y nunca baja?",
+    "options": [
+      "La estatura",
+      "La temperatura",
+      "El peso",
+      "La edad"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Cada cumpleaños añade un año a la edad."
+  },
+  {
+    "id": 43,
+    "category": "Vida cotidiana",
+    "question": "¿Qué aparece una vez en un minuto, dos veces en un momento y ninguna en cien años?",
+    "options": [
+      "La letra M",
+      "La letra O",
+      "La letra N",
+      "La letra A"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Minuto tiene una M, momento dos y cien años ninguna."
+  },
+  {
+    "id": 44,
+    "category": "Vida cotidiana",
+    "question": "¿Qué puedes romper sin tocarlo físicamente?",
+    "options": [
+      "Una taza",
+      "Una promesa",
+      "Un lápiz",
+      "Una ventana"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Incumplir una promesa se llama romperla."
+  },
+  {
+    "id": 45,
+    "category": "Vida cotidiana",
+    "question": "¿Qué es tuyo, pero otras personas suelen usarlo para llamarte?",
+    "options": [
+      "Tu firma",
+      "Tu nombre",
+      "Tu teléfono",
+      "Tu dirección"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Los demás emplean tu nombre al dirigirse a ti."
+  },
+  {
+    "id": 46,
+    "category": "Vida cotidiana",
+    "question": "¿Qué tiene ciudades, carreteras y ríos, pero no habitantes ni agua real?",
+    "options": [
+      "Un acuario",
+      "Un mapa",
+      "Una ciudad",
+      "Un jardín"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Un mapa representa lugares mediante símbolos."
+  },
+  {
+    "id": 47,
+    "category": "Vida cotidiana",
+    "question": "¿Qué viaja sobre un sobre sin moverse de su esquina?",
+    "options": [
+      "Una carta suelta",
+      "Un buzón",
+      "Un sello",
+      "Un cartero"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "El sello permanece pegado al sobre durante el viaje."
+  },
+  {
+    "id": 48,
+    "category": "Vida cotidiana",
+    "question": "¿Qué se llena de agua aunque tenga muchos agujeros?",
+    "options": [
+      "Una rejilla",
+      "Un colador",
+      "Un embudo",
+      "Una esponja"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Los poros de la esponja retienen agua."
+  },
+  {
+    "id": 49,
+    "category": "Vida cotidiana",
+    "question": "¿Qué puedes sostener un rato sin usar las manos?",
+    "options": [
+      "Una taza",
+      "La respiración",
+      "Un paraguas",
+      "Una caja"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Contener la respiración no requiere las manos."
+  },
+  {
+    "id": 50,
+    "category": "Vida cotidiana",
+    "question": "¿Qué llega siempre después de hoy, pero al llegar ya se llama hoy?",
+    "options": [
+      "Ayer",
+      "Mañana",
+      "El pasado",
+      "La semana pasada"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Mañana pasa a ser hoy cuando llega."
+  },
+  {
+    "id": 51,
+    "category": "Vida cotidiana",
+    "question": "¿Qué tiene cama y corriente, pero no duerme ni usa enchufes?",
+    "options": [
+      "Un dormitorio",
+      "Un río",
+      "Una piscina",
+      "Un tren"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "El cauce es el lecho del río y el agua tiene corriente."
+  },
+  {
+    "id": 52,
+    "category": "Vida cotidiana",
+    "question": "¿Qué deja de ser secreto cuando se cuenta a todo el mundo?",
+    "options": [
+      "Un número",
+      "Una noticia ya pública",
+      "Una fecha",
+      "Un secreto"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Al difundirse, pierde su carácter reservado."
+  },
+  {
+    "id": 53,
+    "category": "Vida cotidiana",
+    "question": "¿Qué sigue tus movimientos con luz y desaparece en oscuridad total?",
+    "options": [
+      "Tu reflejo sonoro",
+      "Tu huella",
+      "Tu sombra",
+      "Tu eco"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "La sombra requiere una fuente de luz."
+  },
+  {
+    "id": 54,
+    "category": "Vida cotidiana",
+    "question": "¿Qué repite tu voz sin tener boca?",
+    "options": [
+      "La niebla",
+      "La lluvia",
+      "El eco",
+      "El viento"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "El eco es la reflexión del sonido."
+  },
+  {
+    "id": 55,
+    "category": "Vida cotidiana",
+    "question": "¿Qué corre por los cables sin tener piernas?",
+    "options": [
+      "El humo",
+      "La arena",
+      "La tinta",
+      "La corriente eléctrica"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "La electricidad circula por los conductores."
+  },
+  {
+    "id": 56,
+    "category": "Vida cotidiana",
+    "question": "¿Qué se puede abrir para ver el mundo desde casa, sin ser una puerta?",
+    "options": [
+      "Una ventana",
+      "Un armario",
+      "Un cajón",
+      "Una maleta"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Una ventana permite mirar al exterior."
+  },
+  {
+    "id": 57,
+    "category": "Vida cotidiana",
+    "question": "¿Qué se puede dar sin que lo reciban las manos?",
+    "options": [
+      "Un libro",
+      "Una moneda",
+      "Un consejo",
+      "Un paquete"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Dar consejo consiste en orientar con palabras."
+  },
+  {
+    "id": 58,
+    "category": "Palabras",
+    "question": "¿Qué palabra contiene las cinco vocales: «murciélago», «gato», «perro» o «lobo»?",
+    "options": [
+      "Lobo",
+      "Perro",
+      "Gato",
+      "Murciélago"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Murciélago contiene A, E, I, O y U."
+  },
+  {
+    "id": 59,
+    "category": "Palabras",
+    "question": "¿Qué palabra se lee igual de izquierda a derecha que al revés?",
+    "options": [
+      "Repetir",
+      "Responder",
+      "Recordar",
+      "Reconocer"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Reconocer es un palíndromo."
+  },
+  {
+    "id": 60,
+    "category": "Palabras",
+    "question": "¿Cuál de estas palabras es un palíndromo?",
+    "options": [
+      "Rama",
+      "Rastro",
+      "Radio",
+      "Radar"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Radar se lee igual en ambos sentidos."
+  },
+  {
+    "id": 61,
+    "category": "Palabras",
+    "question": "¿Qué letra hay en «mar» y «montaña», pero no en «río»?",
+    "options": [
+      "A",
+      "R",
+      "O",
+      "M"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Ambas palabras comienzan con M."
+  },
+  {
+    "id": 62,
+    "category": "Palabras",
+    "question": "¿Qué letra aparece dos veces en «coco»?",
+    "options": [
+      "E",
+      "C",
+      "U",
+      "A"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Coco tiene dos C; las demás opciones no aparecen."
+  },
+  {
+    "id": 63,
+    "category": "Palabras",
+    "question": "¿Qué palabra forma «sol» al escribirla al revés?",
+    "options": [
+      "Sal",
+      "Luz",
+      "Los",
+      "Olas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Invertir S-O-L da L-O-S."
+  },
+  {
+    "id": 64,
+    "category": "Palabras",
+    "question": "¿Qué palabra forma «amor» al escribirla al revés?",
+    "options": [
+      "Mora",
+      "Omar",
+      "Roma",
+      "Ramo"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Invertir A-M-O-R da R-O-M-A."
+  },
+  {
+    "id": 65,
+    "category": "Palabras",
+    "question": "¿Qué se obtiene añadiendo una S al principio de «ala»?",
+    "options": [
+      "Salsa",
+      "Atlas",
+      "Sala",
+      "Sal"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "S seguida de ala forma sala."
+  },
+  {
+    "id": 66,
+    "category": "Palabras",
+    "question": "¿Qué animal aparece escondido en «zapato» como letras consecutivas?",
+    "options": [
+      "Rata",
+      "Gato",
+      "Topo",
+      "Pato"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Za-PATO contiene pato."
+  },
+  {
+    "id": 67,
+    "category": "Ingenio",
+    "question": "¿Cuántos meses tienen al menos 28 días?",
+    "options": [
+      "1",
+      "12",
+      "2",
+      "11"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Todos los meses tienen 28 días o más."
+  },
+  {
+    "id": 68,
+    "category": "Ingenio",
+    "question": "Si adelantas a quien va segundo en una carrera, ¿en qué posición quedas?",
+    "options": [
+      "Segundo",
+      "Último",
+      "Primero",
+      "Tercero"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Ocupas el puesto de la persona adelantada."
+  },
+  {
+    "id": 69,
+    "category": "Ingenio",
+    "question": "Un avión se accidenta en una frontera. ¿Dónde se entierra a los supervivientes?",
+    "options": [
+      "En el país de destino",
+      "En el país de salida",
+      "No se entierran",
+      "En la frontera"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Los supervivientes siguen vivos."
+  },
+  {
+    "id": 70,
+    "category": "Ingenio",
+    "question": "Un gallo está sobre un tejado inclinado. ¿Hacia dónde rueda su huevo?",
+    "options": [
+      "Hacia la derecha",
+      "Hacia abajo",
+      "El gallo no pone huevos",
+      "Hacia la izquierda"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Los gallos son machos y no ponen huevos."
+  },
+  {
+    "id": 71,
+    "category": "Ingenio",
+    "question": "¿Qué pesa más: un kilogramo de hierro o un kilogramo de algodón?",
+    "options": [
+      "Depende del color",
+      "Pesan lo mismo",
+      "El hierro",
+      "El algodón"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Ambos tienen una masa de un kilogramo."
+  },
+  {
+    "id": 72,
+    "category": "Ingenio",
+    "question": "¿Cuál es la pregunta a la que una persona dormida no puede contestar sinceramente «sí» en ese momento?",
+    "options": [
+      "¿Estás dormida?",
+      "¿Tienes cama?",
+      "¿Es de noche?",
+      "¿Tienes nombre?"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Para responder verbalmente tiene que estar despierta."
+  },
+  {
+    "id": 73,
+    "category": "Ingenio",
+    "question": "Antes de descubrirse el Everest como la montaña más alta, ¿cuál era la montaña más alta sobre el nivel del mar?",
+    "options": [
+      "El K2",
+      "El Everest",
+      "El Mont Blanc",
+      "El Kilimanjaro"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Descubrir una propiedad no cambia la altura real."
+  },
+  {
+    "id": 74,
+    "category": "Ingenio",
+    "question": "Un conductor va en sentido contrario por una calle de sentido único y no infringe esa norma. ¿Cómo?",
+    "options": [
+      "Toca el claxon",
+      "Lleva sombrero",
+      "Va andando",
+      "Conduce marcha atrás"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "La norma de circulación de vehículos no impide caminar en ese sentido."
+  },
+  {
+    "id": 75,
+    "category": "Ingenio",
+    "question": "Dos padres y dos hijos comen tres manzanas y cada uno come una. ¿Cómo es posible?",
+    "options": [
+      "No come el abuelo",
+      "Una manzana está partida",
+      "Hay cuatro personas",
+      "Son abuelo, padre e hijo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "El padre es hijo del abuelo y padre del niño."
+  },
+  {
+    "id": 76,
+    "category": "Ingenio",
+    "question": "Tienes una cerilla y entras en una habitación con una vela y una chimenea apagadas. ¿Qué enciendes primero?",
+    "options": [
+      "La chimenea",
+      "Ambas a la vez",
+      "La cerilla",
+      "La vela"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Hace falta encender la cerilla para prender lo demás."
+  },
+  {
+    "id": 77,
+    "category": "Ingenio",
+    "question": "En una habitación hay cuatro esquinas y un gato en cada una. Cada gato ve a los otros tres. ¿Cuántos gatos hay?",
+    "options": [
+      "Tres",
+      "Cuatro",
+      "Doce",
+      "Dieciséis"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Son los mismos cuatro gatos vistos desde cada esquina."
+  },
+  {
+    "id": 78,
+    "category": "Ingenio",
+    "question": "Una persona tiene siete hijas y cada hija tiene el mismo hermano. ¿Cuántos hijos tiene en total?",
+    "options": [
+      "Catorce",
+      "Siete",
+      "Quince",
+      "Ocho"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Las siete hijas comparten un único hermano."
+  },
+  {
+    "id": 79,
+    "category": "Ingenio",
+    "question": "¿Cuántas veces puedes restar 5 a 25 antes de que ya no estés restándolo a 25?",
+    "options": [
+      "Una",
+      "Ninguna",
+      "Cinco",
+      "Cuatro"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Después de la primera resta, partes de 20."
+  },
+  {
+    "id": 80,
+    "category": "Ingenio",
+    "question": "Hay seis velas encendidas. Apagas dos y las otras cuatro se consumen por completo. ¿Cuántas velas quedan físicamente?",
+    "options": [
+      "Cuatro",
+      "Ninguna",
+      "Seis",
+      "Dos"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Las apagadas no se consumen."
+  },
+  {
+    "id": 81,
+    "category": "Ingenio",
+    "question": "¿Qué número aumenta de valor si lo giras 180 grados en una tipografía convencional?",
+    "options": [
+      "1",
+      "6",
+      "0",
+      "8"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "El 6 girado se convierte en 9."
+  },
+  {
+    "id": 82,
+    "category": "Ingenio",
+    "question": "Si una casa tiene todas las paredes orientadas al sur y está en un polo, ¿en cuál está?",
+    "options": [
+      "Ecuador",
+      "Polo Norte",
+      "Polo Sur",
+      "Trópico de Cáncer"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Desde el Polo Norte cualquier dirección horizontal es hacia el sur."
+  },
+  {
+    "id": 83,
+    "category": "Lógica",
+    "question": "Ana es más alta que Bea y Bea más alta que Carla. ¿Quién es la más baja?",
+    "options": [
+      "Carla",
+      "No se puede saber",
+      "Bea",
+      "Ana"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "La relación de alturas coloca a Carla al final."
+  },
+  {
+    "id": 84,
+    "category": "Lógica",
+    "question": "Todas las cajas rojas están vacías. Esta caja tiene libros. ¿Qué puedes asegurar?",
+    "options": [
+      "Es roja",
+      "No es roja",
+      "Es azul",
+      "Es pequeña"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Si fuera roja, estaría vacía."
+  },
+  {
+    "id": 85,
+    "category": "Lógica",
+    "question": "Todos los gatos del refugio llevan collar. Luna es un gato del refugio. ¿Qué lleva Luna?",
+    "options": [
+      "Ningún accesorio",
+      "Correa obligatoria",
+      "Collar",
+      "Sombrero"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Es una aplicación directa de la regla."
+  },
+  {
+    "id": 86,
+    "category": "Lógica",
+    "question": "Ningún pez del estanque es rojo. Nemo es rojo. ¿Qué puedes asegurar?",
+    "options": [
+      "Es un pez del estanque",
+      "No es un pez de ningún lugar",
+      "Es azul",
+      "No es un pez de ese estanque"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "La afirmación solo se refiere a ese estanque."
+  },
+  {
+    "id": 87,
+    "category": "Lógica",
+    "question": "La caja A tiene más monedas que B, y B más que C. ¿Cuál tiene más?",
+    "options": [
+      "A",
+      "B",
+      "No se sabe",
+      "C"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "A supera a ambas por transitividad."
+  },
+  {
+    "id": 88,
+    "category": "Lógica",
+    "question": "Un interruptor encendido implica que la lámpara funciona. La lámpara no funciona. ¿Cómo está el interruptor según esa regla?",
+    "options": [
+      "La regla no permite deducirlo",
+      "Tiene dos posiciones a la vez",
+      "No está encendido",
+      "Está encendido"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Es la contraposición de la implicación dada."
+  },
+  {
+    "id": 89,
+    "category": "Lógica",
+    "question": "De tres cajas, solo una contiene oro. A y B están vacías. ¿Cuál contiene oro?",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "Ninguna"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Solo queda C como candidata."
+  },
+  {
+    "id": 90,
+    "category": "Lógica",
+    "question": "Pedro llegó después de Ana y antes de Luis. ¿Quién llegó primero?",
+    "options": [
+      "Empataron",
+      "Ana",
+      "Luis",
+      "Pedro"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "El orden es Ana, Pedro, Luis."
+  },
+  {
+    "id": 91,
+    "category": "Lógica",
+    "question": "Hay una llave en una de tres cajas. No está en la primera ni en la tercera. ¿Dónde está?",
+    "options": [
+      "En la primera",
+      "En la tercera",
+      "En la segunda",
+      "Fuera de las cajas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Se descartan las otras dos posibilidades."
+  },
+  {
+    "id": 92,
+    "category": "Matemáticos sencillos",
+    "question": "Tienes tres manzanas y coges dos de una cesta adicional. ¿Cuántas tienes ahora?",
+    "options": [
+      "Tres",
+      "Dos",
+      "Una",
+      "Cinco"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Las dos que coges se añaden a las tres iniciales."
+  },
+  {
+    "id": 93,
+    "category": "Matemáticos sencillos",
+    "question": "Tres gatos cazan tres ratones en tres minutos, cada uno al mismo ritmo. ¿Cuánto tardan cien gatos en cazar cien ratones?",
+    "options": [
+      "Un minuto",
+      "Cien minutos",
+      "Treinta minutos",
+      "Tres minutos"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Cada gato caza un ratón en tres minutos."
+  },
+  {
+    "id": 94,
+    "category": "Matemáticos sencillos",
+    "question": "Un ladrillo pesa un kilo más medio ladrillo. ¿Cuánto pesa?",
+    "options": [
+      "Un kilo",
+      "Tres kilos",
+      "Un kilo y medio",
+      "Dos kilos"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "La mitad del ladrillo pesa un kilo."
+  },
+  {
+    "id": 95,
+    "category": "Matemáticos sencillos",
+    "question": "Un reloj da seis campanadas en cinco segundos, a intervalos iguales. ¿Cuánto tarda en dar doce?",
+    "options": [
+      "Diez segundos",
+      "Doce segundos",
+      "Seis segundos",
+      "Once segundos"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Seis campanadas tienen cinco intervalos; doce tienen once."
+  },
+  {
+    "id": 96,
+    "category": "Matemáticos sencillos",
+    "question": "Un caracol sube tres metros de día y baja dos de noche. ¿En cuántos días sale de un pozo de cinco metros?",
+    "options": [
+      "Tres días",
+      "Cuatro días",
+      "Cinco días",
+      "Dos días"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Al tercer día llega al borde y ya no baja."
+  },
+  {
+    "id": 97,
+    "category": "Matemáticos sencillos",
+    "question": "Una botella y su tapón cuestan 1,10 €. La botella cuesta 1 € más que el tapón. ¿Cuánto cuesta el tapón?",
+    "options": [
+      "0,05 €",
+      "0,15 €",
+      "1 €",
+      "0,10 €"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "El tapón vale 0,05 y la botella 1,05."
+  },
+  {
+    "id": 98,
+    "category": "Matemáticos sencillos",
+    "question": "Una madre tiene 36 años y su hija 12. ¿Dentro de cuántos años la madre tendrá el doble que la hija?",
+    "options": [
+      "6",
+      "18",
+      "24",
+      "12"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "36+x=2(12+x), así que x=12."
+  },
+  {
+    "id": 99,
+    "category": "Matemáticos sencillos",
+    "question": "Un tren de 100 metros cruza por completo un puente de 200 metros a 10 m/s. ¿Cuánto tarda?",
+    "options": [
+      "20 segundos",
+      "30 segundos",
+      "40 segundos",
+      "10 segundos"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "La cabeza recorre 300 metros hasta que sale la cola."
+  },
+  {
+    "id": 100,
+    "category": "Matemáticos sencillos",
+    "question": "Una cuerda mide 10 metros. ¿Cuántos cortes hacen falta para obtener cinco trozos separados sin doblarla ni apilarla?",
+    "options": [
+      "Dos",
+      "Cinco",
+      "Tres",
+      "Cuatro"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Cada corte aumenta en uno el número de trozos."
+  },
+  {
+    "id": 101,
+    "category": "Matemáticos sencillos",
+    "question": "Dos monedas suman 30 céntimos. Una no es de 10. ¿Cuáles son?",
+    "options": [
+      "Dos de 15",
+      "Una de 25 y otra de 5",
+      "Tres de 10",
+      "Una de 20 y otra de 10"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "La que no es de 10 es la de 20."
+  },
+  {
+    "id": 102,
+    "category": "Cultura general",
+    "question": "Soy un continente y también el nombre de una diosa griega raptada por Zeus. ¿Qué nombre es?",
+    "options": [
+      "Asia",
+      "África",
+      "Europa",
+      "Oceanía"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "Europa es un personaje de la mitología griega."
+  },
+  {
+    "id": 103,
+    "category": "Cultura general",
+    "question": "Soy un planeta y comparto nombre con el mensajero de los dioses romanos. ¿Quién soy?",
+    "options": [
+      "Saturno",
+      "Mercurio",
+      "Júpiter",
+      "Neptuno"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Mercurio es el dios mensajero romano."
+  },
+  {
+    "id": 104,
+    "category": "Cultura general",
+    "question": "Soy una constelación de doce signos en astrología y mi símbolo es un cangrejo. ¿Qué nombre tengo?",
+    "options": [
+      "Piscis",
+      "Escorpio",
+      "Capricornio",
+      "Cáncer"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "Cáncer se representa con un cangrejo."
+  },
+  {
+    "id": 105,
+    "category": "Cultura general",
+    "question": "Tengo cinco líneas y cuatro espacios, y en mí se escriben notas musicales. ¿Qué soy?",
+    "options": [
+      "Hexágono",
+      "Pentagrama",
+      "Tablatura de seis cuerdas",
+      "Partitura de una sola línea"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "El pentagrama tiene cinco líneas paralelas."
+  },
+  {
+    "id": 106,
+    "category": "Cultura general",
+    "question": "Soy la línea imaginaria que divide la Tierra en hemisferios norte y sur. ¿Qué soy?",
+    "options": [
+      "Meridiano de Greenwich",
+      "Trópico de Cáncer",
+      "Ecuador",
+      "Círculo polar"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "El ecuador es el paralelo de latitud cero."
+  },
+  {
+    "id": 107,
+    "category": "Cultura general",
+    "question": "Soy el único satélite natural de la Tierra. ¿Quién soy?",
+    "options": [
+      "El Sol",
+      "Venus",
+      "La Luna",
+      "Marte"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "La Luna orbita la Tierra."
+  },
+  {
+    "id": 108,
+    "category": "Cultura general",
+    "question": "Soy una estrella que nos da luz durante el día. ¿Quién soy?",
+    "options": [
+      "El Sol",
+      "La Luna",
+      "Júpiter",
+      "Venus"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "El Sol es la estrella del sistema solar."
+  },
+  {
+    "id": 109,
+    "category": "Cultura general",
+    "question": "Soy un instrumento que apunta hacia el norte magnético. ¿Qué soy?",
+    "options": [
+      "Barómetro",
+      "Cronómetro",
+      "Brújula",
+      "Termómetro"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "La aguja imantada se orienta con el campo magnético terrestre."
+  }
+]

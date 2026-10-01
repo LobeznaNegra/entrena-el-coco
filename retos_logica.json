@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1,
+    "category": "Deducción",
+    "question": "Todas las violetas del jardín tienen flores. Esta planta no tiene flores. ¿Qué se deduce?",
+    "options": [
+      "No es una violeta de ese jardín",
+      "No es una planta",
+      "Es una rosa",
+      "Es una violeta"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Si fuera una de esas violetas, tendría flores."
+  },
+  {
+    "id": 2,
+    "category": "Deducción",
+    "question": "Algunos músicos son médicos. Todos los médicos han estudiado anatomía. ¿Qué se deduce?",
+    "options": [
+      "Ningún músico estudia anatomía",
+      "Algunos músicos han estudiado anatomía",
+      "Todos los músicos son médicos",
+      "Todos los médicos son músicos"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Los músicos que son médicos han estudiado anatomía."
+  },
+  {
+    "id": 3,
+    "category": "Deducción",
+    "question": "Ningún cuadrado es un círculo. Esta figura es un cuadrado. ¿Qué se deduce?",
+    "options": [
+      "No es una figura",
+      "No es un círculo",
+      "Es un triángulo",
+      "Es un círculo"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "La exclusión se aplica a todos los cuadrados."
+  },
+  {
+    "id": 4,
+    "category": "Deducción",
+    "question": "Todos los perros de Ana tienen chip. Rex tiene chip. ¿Debe ser uno de los perros de Ana?",
+    "options": [
+      "No, nunca",
+      "Solo si es grande",
+      "No se puede asegurar",
+      "Sí, siempre"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Otros perros también pueden tener chip."
+  },
+  {
+    "id": 5,
+    "category": "Deducción",
+    "question": "Si llueve, Marta usa paraguas. Marta usa paraguas. ¿Está lloviendo necesariamente?",
+    "options": [
+      "Solo en invierno",
+      "Solo por la mañana",
+      "No",
+      "Sí"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "La regla no excluye otras razones para llevar paraguas."
+  },
+  {
+    "id": 6,
+    "category": "Deducción",
+    "question": "Si llueve, Marta usa paraguas. Marta no usa paraguas. ¿Qué se deduce, suponiendo que cumple siempre la regla?",
+    "options": [
+      "No llueve",
+      "Es lunes",
+      "Marta no sale nunca",
+      "Llueve"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Es la contraposición de la regla."
+  },
+  {
+    "id": 7,
+    "category": "Deducción",
+    "question": "Solo quienes tienen entrada pueden pasar. Lola ha pasado cumpliendo la norma. ¿Qué sabemos?",
+    "options": [
+      "Compró la entrada hoy",
+      "Tiene entrada",
+      "No tiene entrada",
+      "Es acomodadora"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Tener entrada es una condición necesaria para pasar."
+  },
+  {
+    "id": 8,
+    "category": "Deducción",
+    "question": "Todos los alumnos de este curso aprobaron. Alba es alumna de este curso. ¿Qué sabemos?",
+    "options": [
+      "Alba sacó un diez",
+      "Alba aprobó",
+      "Alba suspendió",
+      "Alba fue la primera"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "La afirmación general se aplica a Alba."
+  },
+  {
+    "id": 9,
+    "category": "Deducción",
+    "question": "Algún libro de la estantería es rojo. Todos los libros rojos de la estantería son novelas. ¿Qué es seguro?",
+    "options": [
+      "Hay al menos una novela en la estantería",
+      "Todos los libros son novelas",
+      "No hay libros azules",
+      "Todas las novelas son rojas"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "El libro rojo existente tiene que ser una novela."
+  },
+  {
+    "id": 10,
+    "category": "Deducción",
+    "question": "Ningún médico del equipo trabaja hoy. Julia trabaja hoy. ¿Qué sabemos?",
+    "options": [
+      "Julia está de vacaciones",
+      "Julia pertenece al equipo como médica",
+      "Julia no es médica",
+      "Julia no es médica de ese equipo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Solo podemos descartar su pertenencia al conjunto descrito."
+  },
+  {
+    "id": 11,
+    "category": "Deducción",
+    "question": "O Clara o Diego lleva la llave, pero no ambos. Clara no la lleva. ¿Quién la lleva?",
+    "options": [
+      "Los dos",
+      "Diego",
+      "Ninguno",
+      "Clara"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "La disyunción exclusiva obliga a que la tenga Diego."
+  },
+  {
+    "id": 12,
+    "category": "Deducción",
+    "question": "Para obtener el diploma hacen falta examen aprobado y asistencia completa. Mario aprobó, pero faltó un día. ¿Obtiene el diploma con esa regla?",
+    "options": [
+      "Depende de su edad",
+      "Siempre que llegue temprano",
+      "Sí",
+      "No"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "No cumple la condición de asistencia completa."
+  },
+  {
+    "id": 13,
+    "category": "Deducción",
+    "question": "Todas las aves de esta jaula son canarios. Algunos canarios cantan. ¿Podemos asegurar que alguna ave de la jaula canta?",
+    "options": [
+      "Sí",
+      "Ninguna canta",
+      "No",
+      "Todas cantan"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Los canarios que cantan podrían estar fuera de la jaula."
+  },
+  {
+    "id": 14,
+    "category": "Deducción",
+    "question": "Hay al menos un perro negro en el parque. ¿Qué afirmación es necesariamente cierta?",
+    "options": [
+      "Hay un animal en el parque",
+      "Solo hay un perro",
+      "No hay gatos",
+      "Todos los perros son negros"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Un perro es un animal; las demás afirmaciones no se deducen."
+  },
+  {
+    "id": 15,
+    "category": "Deducción",
+    "question": "Ningún alumno que suspendió recibió premio. Sara recibió premio. ¿Qué se deduce?",
+    "options": [
+      "Sara suspendió",
+      "Sara no es una alumna que suspendió",
+      "Sara no estudia",
+      "Sara tiene matrícula"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Recibir premio excluye pertenecer al conjunto de alumnos suspensos."
+  },
+  {
+    "id": 16,
+    "category": "Deducción",
+    "question": "Una norma dice: si la puerta está abierta, el piloto está verde. El piloto está rojo. ¿Puede estar abierta la puerta cumpliendo la norma?",
+    "options": [
+      "No",
+      "Sí",
+      "Solo de noche",
+      "Solo con viento"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Un piloto rojo no cumple la consecuencia de una puerta abierta."
+  },
+  {
+    "id": 17,
+    "category": "Deducción",
+    "question": "Todos los A son B y todos los B son C. ¿Qué relación es segura?",
+    "options": [
+      "Todos los A son C",
+      "Todos los C son A",
+      "Ningún A es C",
+      "Todos los C son B"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "La inclusión de conjuntos es transitiva."
+  },
+  {
+    "id": 18,
+    "category": "Deducción",
+    "question": "Ningún A es B y todos los C son A. ¿Qué relación es segura?",
+    "options": [
+      "Ningún C es B",
+      "Todos los B son C",
+      "Todos los A son C",
+      "Algunos C son B"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "C está dentro de A, que no intersecta con B."
+  },
+  {
+    "id": 19,
+    "category": "Deducción",
+    "question": "Si estudias, apruebas. Si apruebas, recibes diploma. Has estudiado. ¿Qué se deduce?",
+    "options": [
+      "No apruebas",
+      "No recibes diploma",
+      "Apruebas solo si es lunes",
+      "Recibes diploma"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Encadenamos las dos implicaciones."
+  },
+  {
+    "id": 20,
+    "category": "Deducción",
+    "question": "Una regla exige casco para entrar al taller. Ivo no lleva casco. ¿Qué debe hacer para cumplir la regla?",
+    "options": [
+      "Entrar de lado",
+      "Entrar deprisa",
+      "No entrar sin ponerse casco",
+      "Entrar solo"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "El casco es requisito de entrada."
+  },
+  {
+    "id": 21,
+    "category": "Relaciones",
+    "question": "Ana es hermana de Bruno. Bruno es padre de Carla. ¿Qué es Ana respecto a Carla?",
+    "options": [
+      "Abuela",
+      "Tía",
+      "Madre",
+      "Prima"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "La hermana del padre es la tía."
+  },
+  {
+    "id": 22,
+    "category": "Relaciones",
+    "question": "Luis es hermano de la madre de Eva. ¿Qué es Luis para Eva?",
+    "options": [
+      "Padre",
+      "Tío",
+      "Abuelo",
+      "Primo"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "El hermano de la madre es el tío."
+  },
+  {
+    "id": 23,
+    "category": "Relaciones",
+    "question": "La hija de mi hermana es mi…",
+    "options": [
+      "Tía",
+      "Nieta",
+      "Sobrina",
+      "Prima"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "La hija de una hermana es una sobrina."
+  },
+  {
+    "id": 24,
+    "category": "Relaciones",
+    "question": "Bea y Carlos son hermanos. Carlos y Diana son hermanos por los mismos padres. ¿Qué son Bea y Diana?",
+    "options": [
+      "Hermanas",
+      "Primas",
+      "Tía y sobrina",
+      "No tienen relación"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "Comparten los mismos padres."
+  },
+  {
+    "id": 25,
+    "category": "Relaciones",
+    "question": "Raúl tiene dos hijos: Leo y Sara. Leo tiene una hija, Eva. ¿Qué es Sara para Eva?",
+    "options": [
+      "Hermana",
+      "Tía",
+      "Madre",
+      "Abuela"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Sara es hermana del padre de Eva."
+  },
+  {
+    "id": 26,
+    "category": "Relaciones",
+    "question": "Nora es madre de Paco, y Paco es padre de Rita. ¿Qué es Nora para Rita?",
+    "options": [
+      "Hermana",
+      "Abuela",
+      "Prima",
+      "Tía"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "La madre del padre es abuela."
+  },
+  {
+    "id": 27,
+    "category": "Relaciones",
+    "question": "Ana es mayor que Bea; Bea es mayor que Cris; Cris es mayor que Dani. ¿Quién es la segunda mayor?",
+    "options": [
+      "Dani",
+      "Bea",
+      "Ana",
+      "Cris"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "El orden descendente es Ana, Bea, Cris y Dani."
+  },
+  {
+    "id": 28,
+    "category": "Relaciones",
+    "question": "Mario pesa menos que Lucía y más que Eva. ¿Quién pesa menos?",
+    "options": [
+      "No se sabe",
+      "Eva",
+      "Lucía",
+      "Mario"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Eva está por debajo de Mario y Lucía."
+  },
+  {
+    "id": 29,
+    "category": "Relaciones",
+    "question": "Rojo cuesta más que azul. Verde cuesta menos que azul. ¿Cuál cuesta más?",
+    "options": [
+      "Azul",
+      "Rojo",
+      "Verde",
+      "No se sabe"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Rojo supera a azul, que supera a verde."
+  },
+  {
+    "id": 30,
+    "category": "Relaciones",
+    "question": "Un libro está a la izquierda de una taza. La taza está a la izquierda de una lámpara. ¿Cuál queda en medio?",
+    "options": [
+      "Ninguno",
+      "Libro",
+      "Taza",
+      "Lámpara"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "El orden es libro, taza, lámpara."
+  },
+  {
+    "id": 31,
+    "category": "Relaciones",
+    "question": "En una fila, Julia está delante de Karla y detrás de Irene. ¿Quién va primero entre las tres?",
+    "options": [
+      "No se sabe",
+      "Karla",
+      "Julia",
+      "Irene"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "El orden es Irene, Julia y Karla."
+  },
+  {
+    "id": 32,
+    "category": "Relaciones",
+    "question": "A queda al norte de B y B al norte de C, todos en el mismo meridiano. ¿Dónde está A respecto de C?",
+    "options": [
+      "Al norte",
+      "Al oeste",
+      "Al este",
+      "Al sur"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "Las dos posiciones se suman en dirección norte."
+  },
+  {
+    "id": 33,
+    "category": "Relaciones",
+    "question": "Estoy mirando al norte. Giro 90° a la derecha y luego 180°. ¿Hacia dónde miro?",
+    "options": [
+      "Norte",
+      "Sur",
+      "Este",
+      "Oeste"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil",
+    "explanation": "Norte a este y después a oeste."
+  },
+  {
+    "id": 34,
+    "category": "Relaciones",
+    "question": "Miro al este y giro 90° a la izquierda. ¿Hacia dónde miro?",
+    "options": [
+      "Sur",
+      "Este",
+      "Norte",
+      "Oeste"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "A la izquierda del este queda el norte."
+  },
+  {
+    "id": 35,
+    "category": "Relaciones",
+    "question": "Camino 3 km al este y 3 km al oeste por la misma ruta. ¿Dónde termino?",
+    "options": [
+      "3 km al norte",
+      "En el punto de partida",
+      "6 km al oeste",
+      "3 km al este"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Los desplazamientos opuestos se cancelan."
+  },
+  {
+    "id": 36,
+    "category": "Relaciones",
+    "question": "Camino 2 km al norte, 2 al este y 2 al sur. ¿Dónde quedo respecto al inicio?",
+    "options": [
+      "2 km al oeste",
+      "2 km al este",
+      "En el inicio",
+      "2 km al norte"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Los desplazamientos verticales se cancelan."
+  },
+  {
+    "id": 37,
+    "category": "Series",
+    "question": "Completa siguiendo el incremento constante: 4, 9, 14, 19, …",
+    "options": [
+      "29",
+      "24",
+      "23",
+      "25"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Se suma 5 en cada paso."
+  },
+  {
+    "id": 38,
+    "category": "Secuencias",
+    "question": "Completa multiplicando siempre por dos: 3, 6, 12, 24, …",
+    "options": [
+      "42",
+      "36",
+      "48",
+      "30"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Cada término duplica el anterior."
+  },
+  {
+    "id": 39,
+    "category": "Series",
+    "question": "Completa alternando +3 y −1: 5, 8, 7, 10, 9, …",
+    "options": [
+      "10",
+      "12",
+      "13",
+      "11"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Después de restar 1 toca sumar 3."
+  },
+  {
+    "id": 40,
+    "category": "Secuencias",
+    "question": "Completa con los cuadrados consecutivos: 1, 4, 9, 16, …",
+    "options": [
+      "36",
+      "24",
+      "20",
+      "25"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "El siguiente cuadrado es 5²."
+  },
+  {
+    "id": 41,
+    "category": "Series",
+    "question": "Completa con los cubos consecutivos: 1, 8, 27, 64, …",
+    "options": [
+      "216",
+      "100",
+      "125",
+      "81"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "El siguiente cubo es 5³."
+  },
+  {
+    "id": 42,
+    "category": "Secuencias",
+    "question": "Cada término suma los dos anteriores: 2, 3, 5, 8, 13, …",
+    "options": [
+      "21",
+      "20",
+      "18",
+      "23"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "8+13=21."
+  },
+  {
+    "id": 43,
+    "category": "Series",
+    "question": "Las diferencias suben de uno en uno: 2, 4, 7, 11, 16, …",
+    "options": [
+      "22",
+      "21",
+      "24",
+      "20"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Las diferencias son 2, 3, 4, 5 y luego 6."
+  },
+  {
+    "id": 44,
+    "category": "Secuencias",
+    "question": "Cada término es el anterior dividido entre tres: 243, 81, 27, 9, …",
+    "options": [
+      "3",
+      "1",
+      "0",
+      "6"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "9 dividido entre 3 es 3."
+  },
+  {
+    "id": 45,
+    "category": "Series",
+    "question": "Completa restando impares consecutivos: 30, 29, 26, 21, 14, …",
+    "options": [
+      "5",
+      "3",
+      "7",
+      "9"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Se restan 1, 3, 5, 7 y después 9."
+  },
+  {
+    "id": 46,
+    "category": "Secuencias",
+    "question": "Completa multiplicando por 2 y sumando 1: 1, 3, 7, 15, …",
+    "options": [
+      "30",
+      "29",
+      "31",
+      "23"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "15×2+1=31."
+  },
+  {
+    "id": 47,
+    "category": "Series",
+    "question": "Completa multiplicando por 3 y restando 1: 1, 2, 5, 14, …",
+    "options": [
+      "42",
+      "39",
+      "41",
+      "28"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "14×3−1=41."
+  },
+  {
+    "id": 48,
+    "category": "Secuencias",
+    "question": "Completa los factoriales: 1, 2, 6, 24, …",
+    "options": [
+      "48",
+      "120",
+      "96",
+      "72"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Se multiplica sucesivamente por 2, 3, 4 y 5."
+  },
+  {
+    "id": 49,
+    "category": "Series",
+    "question": "Alternan dos series: 1, 10, 2, 20, 3, 30, 4, …",
+    "options": [
+      "40",
+      "5",
+      "50",
+      "35"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Las posiciones pares son 10, 20, 30, 40."
+  },
+  {
+    "id": 50,
+    "category": "Secuencias",
+    "question": "Completa los números triangulares: 1, 3, 6, 10, 15, …",
+    "options": [
+      "21",
+      "22",
+      "20",
+      "25"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Se añade 2, 3, 4, 5 y luego 6."
+  },
+  {
+    "id": 51,
+    "category": "Series",
+    "question": "Completa alternando ×2 y +2: 2, 4, 6, 12, 14, …",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "16"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Después de sumar 2 toca multiplicar por 2."
+  },
+  {
+    "id": 52,
+    "category": "Secuencias",
+    "question": "Completa los primeros números primos: 2, 3, 5, 7, 11, …",
+    "options": [
+      "13",
+      "12",
+      "15",
+      "14"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "13 es el siguiente número primo."
+  },
+  {
+    "id": 53,
+    "category": "Series",
+    "question": "Completa las potencias de diez: 1, 10, 100, 1000, …",
+    "options": [
+      "5000",
+      "2000",
+      "10000",
+      "1100"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Cada término multiplica por diez."
+  },
+  {
+    "id": 54,
+    "category": "Secuencias",
+    "question": "Completa alternando signo y subiendo una unidad absoluta: 1, −2, 3, −4, …",
+    "options": [
+      "6",
+      "−5",
+      "4",
+      "5"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "El siguiente valor es positivo y vale 5."
+  },
+  {
+    "id": 55,
+    "category": "Patrones",
+    "question": "Alternan círculo y cuadrado: círculo, cuadrado, círculo, cuadrado, …",
+    "options": [
+      "Círculo",
+      "Rombo",
+      "Cuadrado",
+      "Triángulo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "La secuencia repite dos figuras."
+  },
+  {
+    "id": 56,
+    "category": "Patrones",
+    "question": "El patrón es rojo, rojo, azul. ¿Qué ocupa el lugar 8 contando desde 1?",
+    "options": [
+      "Verde",
+      "Amarillo",
+      "Rojo",
+      "Azul"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Los lugares 7 y 8 son rojos; el 9 es azul."
+  },
+  {
+    "id": 57,
+    "category": "Patrones",
+    "question": "El patrón es A, B, C, D y se repite. ¿Qué letra ocupa la posición 19?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "19 deja resto 3 al dividir entre 4."
+  },
+  {
+    "id": 58,
+    "category": "Patrones",
+    "question": "Una flecha gira 90° en sentido horario: arriba, derecha, abajo, …",
+    "options": [
+      "Abajo",
+      "Arriba",
+      "Izquierda",
+      "Derecha"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "El siguiente giro lleva hacia la izquierda."
+  },
+  {
+    "id": 59,
+    "category": "Patrones",
+    "question": "Un tablero alterna blanco y negro en fila y columna. Si la esquina superior izquierda es blanca, ¿de qué color es la casilla fila 3, columna 4?",
+    "options": [
+      "Negra",
+      "Gris",
+      "Blanca",
+      "Roja"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "3+4 es impar: tiene el color opuesto a la esquina."
+  },
+  {
+    "id": 60,
+    "category": "Patrones",
+    "question": "Una luz está encendida dos segundos y apagada uno, repitiéndose. En el segundo 7, contando 1 y 2 como encendidos, ¿cómo está?",
+    "options": [
+      "Parpadeando sin patrón",
+      "No se sabe",
+      "Apagada",
+      "Encendida"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "Los segundos 7 y 8 vuelven a ser encendidos."
+  },
+  {
+    "id": 61,
+    "category": "Patrones",
+    "question": "Los lados aumentan de uno en uno: triángulo, cuadrado, pentágono, …",
+    "options": [
+      "Círculo",
+      "Hexágono",
+      "Heptágono",
+      "Octógono"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Después de 3, 4 y 5 lados vienen 6."
+  },
+  {
+    "id": 62,
+    "category": "Patrones",
+    "question": "En cada fila, el tercer número suma los dos primeros: 2,3,5 y 4,7,11. Completa 6,8,…",
+    "options": [
+      "14",
+      "48",
+      "15",
+      "12"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "6+8=14."
+  },
+  {
+    "id": 63,
+    "category": "Patrones",
+    "question": "En cada fila, el tercero multiplica los dos primeros: 2,5,10 y 3,4,12. Completa 6,7,…",
+    "options": [
+      "49",
+      "42",
+      "36",
+      "13"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "6×7=42."
+  },
+  {
+    "id": 64,
+    "category": "Patrones",
+    "question": "En cada pareja, el segundo número es el cuadrado del primero: 2→4, 3→9. ¿5→…?",
+    "options": [
+      "10",
+      "125",
+      "25",
+      "15"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "5²=25."
+  },
+  {
+    "id": 65,
+    "category": "Patrones",
+    "question": "Una máquina cambia cada vocal por un asterisco. ¿Cómo queda «CASA»?",
+    "options": [
+      "****",
+      "C**A",
+      "C*S*",
+      "*A*A"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Se sustituyen las dos A."
+  },
+  {
+    "id": 66,
+    "category": "Patrones",
+    "question": "Una máquina invierte el orden de letras. ¿Qué produce con «PATO»?",
+    "options": [
+      "OTAP",
+      "TOPA",
+      "ATOP",
+      "POTA"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Se leen las letras desde la última hasta la primera."
+  },
+  {
+    "id": 67,
+    "category": "Lógica verbal",
+    "question": "Todos los términos salvo uno son instrumentos de cuerda. ¿Cuál sobra?",
+    "options": [
+      "Guitarra",
+      "Flauta",
+      "Violín",
+      "Arpa"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "La flauta es un instrumento de viento."
+  },
+  {
+    "id": 68,
+    "category": "Lógica verbal",
+    "question": "¿Qué palabra no pertenece al grupo de unidades de longitud?",
+    "options": [
+      "Metro",
+      "Litro",
+      "Kilómetro",
+      "Centímetro"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "El litro mide volumen."
+  },
+  {
+    "id": 69,
+    "category": "Lógica verbal",
+    "question": "Completa la relación: libro es a leer como canción es a…",
+    "options": [
+      "Escuchar",
+      "Pintar",
+      "Oler",
+      "Medir"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "La actividad asociada a una canción es escucharla."
+  },
+  {
+    "id": 70,
+    "category": "Lógica verbal",
+    "question": "Completa: semilla es a planta como huevo es a…",
+    "options": [
+      "Flor",
+      "Pollito",
+      "Piedra",
+      "Raíz"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Ambos son puntos de partida de un desarrollo biológico."
+  },
+  {
+    "id": 71,
+    "category": "Lógica verbal",
+    "question": "Completa: médico es a hospital como profesor es a…",
+    "options": [
+      "Puerto",
+      "Escuela",
+      "Aeropuerto",
+      "Taller"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "La relación conecta profesión y lugar de trabajo habitual."
+  },
+  {
+    "id": 72,
+    "category": "Lógica verbal",
+    "question": "Completa: pez es a agua como ave es a… en una analogía de medio de desplazamiento.",
+    "options": [
+      "Aire",
+      "Fuego",
+      "Piedra",
+      "Tierra"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "Se relacionan animales con su medio típico de desplazamiento."
+  },
+  {
+    "id": 73,
+    "category": "Lógica verbal",
+    "question": "Completa: caliente es a frío como oscuro es a…",
+    "options": [
+      "Opaco",
+      "Profundo",
+      "Claro",
+      "Negro"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "Son parejas de antónimos."
+  },
+  {
+    "id": 74,
+    "category": "Lógica verbal",
+    "question": "Completa: enero es a mes como lunes es a…",
+    "options": [
+      "Minuto",
+      "Día de la semana",
+      "Estación",
+      "Año"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Se relaciona un elemento con su categoría."
+  },
+  {
+    "id": 75,
+    "category": "Lógica verbal",
+    "question": "Completa: rueda es a coche como página es a…",
+    "options": [
+      "Autor",
+      "Libro",
+      "Biblioteca",
+      "Lectura"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil",
+    "explanation": "Es una relación de parte y todo."
+  },
+  {
+    "id": 76,
+    "category": "Lógica verbal",
+    "question": "Completa: brújula es a dirección como termómetro es a…",
+    "options": [
+      "Temperatura",
+      "Tiempo",
+      "Presión",
+      "Velocidad"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "Ambos instrumentos indican una magnitud concreta."
+  },
+  {
+    "id": 77,
+    "category": "Lógica verbal",
+    "question": "¿Cuál no pertenece al conjunto de colores?",
+    "options": [
+      "Martes",
+      "Verde",
+      "Azul",
+      "Rojo"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil",
+    "explanation": "Martes es un día de la semana."
+  },
+  {
+    "id": 78,
+    "category": "Lógica verbal",
+    "question": "¿Cuál no pertenece al conjunto de polígonos?",
+    "options": [
+      "Pentágono",
+      "Triángulo",
+      "Círculo",
+      "Hexágono"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil",
+    "explanation": "Un círculo no tiene lados rectos."
+  },
+  {
+    "id": 79,
+    "category": "Lógica numérica",
+    "question": "Si x+7=19, ¿cuánto vale x?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "26"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "Restamos 7 a ambos lados."
+  },
+  {
+    "id": 80,
+    "category": "Lógica numérica",
+    "question": "Si 3x=27, ¿cuánto vale x?",
+    "options": [
+      "9",
+      "8",
+      "6",
+      "12"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "Dividimos entre 3."
+  },
+  {
+    "id": 81,
+    "category": "Lógica numérica",
+    "question": "Si 2x+5=17, ¿cuánto vale x?",
+    "options": [
+      "11",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "17−5=12 y 12/2=6."
+  },
+  {
+    "id": 82,
+    "category": "Lógica numérica",
+    "question": "Un número tiene dos cifras, suma de cifras 9 y decena igual al doble de la unidad. ¿Cuál es?",
+    "options": [
+      "54",
+      "36",
+      "63",
+      "81"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "6+3=9 y 6 es el doble de 3."
+  },
+  {
+    "id": 83,
+    "category": "Lógica numérica",
+    "question": "Un número de dos cifras tiene decena 4 y unidad 3 más que la decena. ¿Cuál es?",
+    "options": [
+      "43",
+      "47",
+      "41",
+      "74"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "La unidad es 4+3=7."
+  },
+  {
+    "id": 84,
+    "category": "Lógica numérica",
+    "question": "¿Cuál de estos números es divisible por 3 y por 5?",
+    "options": [
+      "45",
+      "25",
+      "33",
+      "44"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "45 es múltiplo de 15."
+  },
+  {
+    "id": 85,
+    "category": "Lógica numérica",
+    "question": "¿Qué número entero positivo, elevado al cuadrado, da 144?",
+    "options": [
+      "13",
+      "12",
+      "11",
+      "14"
+    ],
+    "answer": 1,
+    "difficulty": "Medio",
+    "explanation": "12×12=144."
+  },
+  {
+    "id": 86,
+    "category": "Lógica numérica",
+    "question": "¿Qué fracción es mayor?",
+    "options": [
+      "1/2",
+      "3/5",
+      "2/3",
+      "3/4"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "0,75 supera a aproximadamente 0,667, 0,5 y 0,6."
+  },
+  {
+    "id": 87,
+    "category": "Lógica numérica",
+    "question": "¿Qué valor falta para que la media de 4, 8 y x sea 8?",
+    "options": [
+      "8",
+      "16",
+      "10",
+      "12"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "La suma debe ser 24, así que x=12."
+  },
+  {
+    "id": 88,
+    "category": "Lógica numérica",
+    "question": "Un número dividido entre 4 deja cociente 7 y resto 2. ¿Cuál es?",
+    "options": [
+      "32",
+      "28",
+      "29",
+      "30"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "4×7+2=30."
+  },
+  {
+    "id": 89,
+    "category": "Lógica numérica",
+    "question": "¿Cuántos enteros positivos menores que 20 son múltiplos de 4?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "Son 4, 8, 12 y 16."
+  },
+  {
+    "id": 90,
+    "category": "Lógica numérica",
+    "question": "¿Cuál es el menor múltiplo común de 6 y 8?",
+    "options": [
+      "24",
+      "12",
+      "16",
+      "48"
+    ],
+    "answer": 0,
+    "difficulty": "Medio",
+    "explanation": "24 es divisible entre ambos y no hay uno positivo menor."
+  },
+  {
+    "id": 91,
+    "category": "Lógica numérica",
+    "question": "¿Qué número falta: 25% de x es 20?",
+    "options": [
+      "40",
+      "60",
+      "100",
+      "80"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "20/0,25=80."
+  },
+  {
+    "id": 92,
+    "category": "Lógica numérica",
+    "question": "Si a un precio de 100 € le aplican 20% de descuento y después 20% de subida, ¿en cuánto queda?",
+    "options": [
+      "100 €",
+      "80 €",
+      "120 €",
+      "96 €"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "100×0,8×1,2=96."
+  },
+  {
+    "id": 93,
+    "category": "Lógica numérica",
+    "question": "Si duplicas el radio de un círculo, ¿por cuánto se multiplica su área?",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 2,
+    "difficulty": "Medio",
+    "explanation": "El área es proporcional al cuadrado del radio."
+  },
+  {
+    "id": 94,
+    "category": "Lógica numérica",
+    "question": "Si duplicas la arista de un cubo, ¿por cuánto se multiplica su volumen?",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "answer": 3,
+    "difficulty": "Medio",
+    "explanation": "El volumen es proporcional al cubo de la arista."
+  },
+  {
+    "id": 95,
+    "category": "Problemas cortos",
+    "question": "Cinco personas se saludan una vez con cada una de las demás. ¿Cuántos saludos hay?",
+    "options": [
+      "5",
+      "15",
+      "20",
+      "10"
+    ],
+    "answer": 3,
+    "difficulty": "Difícil",
+    "explanation": "Hay 5×4/2 parejas distintas."
+  },
+  {
+    "id": 96,
+    "category": "Problemas cortos",
+    "question": "Un dado equilibrado se lanza una vez. ¿Cuál es la probabilidad de un número par?",
+    "options": [
+      "1/6",
+      "2/3",
+      "1/3",
+      "1/2"
+    ],
+    "answer": 3,
+    "difficulty": "Difícil",
+    "explanation": "Tres de los seis resultados son pares."
+  },
+  {
+    "id": 97,
+    "category": "Problemas cortos",
+    "question": "Una bolsa tiene tres bolas rojas y dos azules. ¿Cuál es la probabilidad de sacar una azul en una extracción?",
+    "options": [
+      "3/5",
+      "2/5",
+      "1/5",
+      "1/2"
+    ],
+    "answer": 1,
+    "difficulty": "Difícil",
+    "explanation": "Hay dos resultados favorables de cinco."
+  },
+  {
+    "id": 98,
+    "category": "Problemas cortos",
+    "question": "Una cesta tiene 5 manzanas. Das una a cada una de 5 personas y la última conserva su manzana en la cesta. ¿Qué recibió la última?",
+    "options": [
+      "Ninguna manzana",
+      "Una pera",
+      "La cesta con la última manzana",
+      "Dos manzanas"
+    ],
+    "answer": 2,
+    "difficulty": "Difícil",
+    "explanation": "La última recibe la cesta junto con la manzana."
+  },
+  {
+    "id": 99,
+    "category": "Problemas cortos",
+    "question": "Dos trenes salen hacia el otro a 60 y 40 km/h desde ciudades separadas 200 km. ¿Cuándo se cruzan?",
+    "options": [
+      "A las 5 horas",
+      "A la hora",
+      "A las 2 horas",
+      "A las 3 horas"
+    ],
+    "answer": 2,
+    "difficulty": "Difícil",
+    "explanation": "La velocidad de acercamiento es 100 km/h."
+  },
+  {
+    "id": 100,
+    "category": "Problemas cortos",
+    "question": "Una persona recorre 60 km a 30 km/h y regresa los mismos 60 km a 60 km/h. ¿Cuál es la velocidad media total?",
+    "options": [
+      "40 km/h",
+      "45 km/h",
+      "30 km/h",
+      "50 km/h"
+    ],
+    "answer": 0,
+    "difficulty": "Difícil",
+    "explanation": "Recorre 120 km en tres horas."
+  },
+  {
+    "id": 101,
+    "category": "Problemas cortos",
+    "question": "Un coche consume 6 litros cada 100 km. ¿Cuánto consume en 250 km al mismo ritmo?",
+    "options": [
+      "12 litros",
+      "18 litros",
+      "25 litros",
+      "15 litros"
+    ],
+    "answer": 3,
+    "difficulty": "Difícil",
+    "explanation": "6×2,5=15."
+  },
+  {
+    "id": 102,
+    "category": "Problemas cortos",
+    "question": "Una impresora hace 12 páginas por minuto. ¿Cuánto tarda en imprimir 90 páginas a ese ritmo?",
+    "options": [
+      "9 minutos",
+      "6 minutos",
+      "8 minutos",
+      "7,5 minutos"
+    ],
+    "answer": 3,
+    "difficulty": "Difícil",
+    "explanation": "90/12=7,5."
+  },
+  {
+    "id": 103,
+    "category": "Problemas cortos",
+    "question": "Tres trabajadores iguales terminan una tarea en 12 horas. ¿Cuánto tardan seis al mismo ritmo, sin interferirse?",
+    "options": [
+      "24 horas",
+      "6 horas",
+      "4 horas",
+      "8 horas"
+    ],
+    "answer": 1,
+    "difficulty": "Difícil",
+    "explanation": "Al duplicar trabajadores se reduce el tiempo a la mitad."
+  },
+  {
+    "id": 104,
+    "category": "Problemas cortos",
+    "question": "Un depósito se llena en 6 horas y otro grifo lo vacía en 12. Abiertos ambos, ¿en cuánto se llena desde vacío?",
+    "options": [
+      "6 horas",
+      "12 horas",
+      "18 horas",
+      "9 horas"
+    ],
+    "answer": 1,
+    "difficulty": "Difícil",
+    "explanation": "La tasa neta es 1/6−1/12=1/12 del depósito por hora."
+  },
+  {
+    "id": 105,
+    "category": "Problemas cortos",
+    "question": "Una cuerda rodea un círculo de radio 1 metro. ¿Cuánto aumenta su longitud al ampliar el radio un metro?",
+    "options": [
+      "4π metros",
+      "1 metro",
+      "π metros",
+      "2π metros"
+    ],
+    "answer": 3,
+    "difficulty": "Difícil",
+    "explanation": "El incremento es 2π por el incremento del radio."
+  },
+  {
+    "id": 106,
+    "category": "Problemas cortos",
+    "question": "Hay 10 calcetines negros y 10 blancos mezclados. Sin mirar, ¿cuántos debes sacar para garantizar un par del mismo color?",
+    "options": [
+      "10",
+      "3",
+      "2",
+      "11"
+    ],
+    "answer": 1,
+    "difficulty": "Difícil",
+    "explanation": "Con tres calcetines, al menos dos comparten color."
+  },
+  {
+    "id": 107,
+    "category": "Problemas cortos",
+    "question": "Hay calcetines de tres colores. ¿Cuántos debes sacar sin mirar para garantizar dos del mismo color?",
+    "options": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": 3,
+    "difficulty": "Difícil",
+    "explanation": "Por el principio del palomar, cuatro objetos en tres colores repiten uno."
+  },
+  {
+    "id": 108,
+    "category": "Problemas cortos",
+    "question": "Dos monedas equilibradas se lanzan. ¿Cuál es la probabilidad de obtener dos caras?",
+    "options": [
+      "3/4",
+      "1/3",
+      "1/4",
+      "1/2"
+    ],
+    "answer": 2,
+    "difficulty": "Difícil",
+    "explanation": "De cuatro resultados equiprobables, solo CC tiene dos caras."
+  },
+  {
+    "id": 109,
+    "category": "Problemas cortos",
+    "question": "En una clase de 30, 18 estudian inglés y 15 francés; todos estudian al menos uno. ¿Cuántos estudian ambos?",
+    "options": [
+      "3",
+      "12",
+      "5",
+      "15"
+    ],
+    "answer": 0,
+    "difficulty": "Difícil",
+    "explanation": "18+15−30=3."
+  },
+  {
+    "id": 110,
+    "category": "Problemas cortos",
+    "question": "En una cola eres quinto desde el principio y cuarto desde el final. ¿Cuántas personas hay?",
+    "options": [
+      "9",
+      "10",
+      "7",
+      "8"
+    ],
+    "answer": 3,
+    "difficulty": "Difícil",
+    "explanation": "5+4−1=8 para no contarte dos veces."
+  },
+  {
+    "id": 111,
+    "category": "Problemas cortos",
+    "question": "Hoy es viernes. ¿Qué día será dentro de 10 días?",
+    "options": [
+      "Domingo",
+      "Martes",
+      "Lunes",
+      "Miércoles"
+    ],
+    "answer": 2,
+    "difficulty": "Difícil",
+    "explanation": "Diez días equivalen a una semana y tres días."
+  },
+  {
+    "id": 112,
+    "category": "Problemas cortos",
+    "question": "Si el 1 de un mes es lunes, ¿qué día de la semana es el 22?",
+    "options": [
+      "Domingo",
+      "Lunes",
+      "Miércoles",
+      "Martes"
+    ],
+    "answer": 1,
+    "difficulty": "Difícil",
+    "explanation": "Han pasado exactamente tres semanas."
+  },
+  {
+    "id": 113,
+    "category": "Problemas cortos",
+    "question": "Son las 15:45. ¿Qué hora será 90 minutos después?",
+    "options": [
+      "16:15",
+      "17:45",
+      "16:45",
+      "17:15"
+    ],
+    "answer": 3,
+    "difficulty": "Difícil",
+    "explanation": "Una hora y media lleva a las 17:15."
+  },
+  {
+    "id": 114,
+    "category": "Problemas cortos",
+    "question": "Un reloj se retrasa 5 minutos cada hora real. Si empieza correcto, ¿cuánto se retrasa tras 6 horas reales?",
+    "options": [
+      "25 minutos",
+      "35 minutos",
+      "30 minutos",
+      "60 minutos"
+    ],
+    "answer": 2,
+    "difficulty": "Difícil",
+    "explanation": "5×6=30."
+  },
+  {
+    "id": 115,
+    "category": "Problemas cortos",
+    "question": "Con tres interruptores y tres bombillas en otra habitación, puedes entrar una vez. ¿Qué propiedad adicional permite distinguir una bombilla que estuvo encendida de otra que nunca lo estuvo?",
+    "options": [
+      "El calor de la bombilla",
+      "Su forma",
+      "Su color permanente",
+      "El cable sin tocar"
+    ],
+    "answer": 0,
+    "difficulty": "Experto",
+    "explanation": "Encender una, apagarla y encender otra distingue caliente apagada, encendida y fría apagada; se supone una bombilla que se calienta."
+  },
+  {
+    "id": 116,
+    "category": "Problemas cortos",
+    "question": "Tienes dos cuerdas que tardan una hora en quemarse por completo a velocidad irregular. ¿Cómo medir 30 minutos con una de ellas?",
+    "options": [
+      "Cortarla por la mitad",
+      "Quemar un extremo",
+      "Encenderla por ambos extremos a la vez",
+      "Doblarla por la mitad"
+    ],
+    "answer": 2,
+    "difficulty": "Experto",
+    "explanation": "Los frentes consumen conjuntamente una hora de material en media hora, pese a la irregularidad."
+  },
+  {
+    "id": 117,
+    "category": "Problemas cortos",
+    "question": "Dos guardias, uno siempre miente y otro siempre dice la verdad, conocen la salida. ¿Qué pregunta permite elegir la salida preguntando a uno solo?",
+    "options": [
+      "Qué puerta diría el otro que es la salida, y elegir la contraria",
+      "Qué puerta te gusta más",
+      "Cómo te llamas",
+      "Es hoy martes"
+    ],
+    "answer": 0,
+    "difficulty": "Experto",
+    "explanation": "Ambos señalan la puerta incorrecta cuando se les pregunta qué diría el otro."
+  },
+  {
+    "id": 118,
+    "category": "Problemas cortos",
+    "question": "Tres cajas tienen etiquetas «manzanas», «peras» y «mezcla», todas incorrectas. ¿De cuál basta sacar una fruta para empezar a identificarlas?",
+    "options": [
+      "Solo de peras",
+      "De la etiquetada mezcla",
+      "De cualquiera siempre",
+      "Solo de manzanas"
+    ],
+    "answer": 1,
+    "difficulty": "Experto",
+    "explanation": "La etiquetada mezcla debe contener una sola fruta; extraerla identifica esa caja y permite deducir las restantes."
+  },
+  {
+    "id": 119,
+    "category": "Problemas cortos",
+    "question": "Hay 8 bolas, una más pesada, y una balanza de dos platillos. ¿Cuántas pesadas bastan para identificarla?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "difficulty": "Experto",
+    "explanation": "Pesas 3 contra 3; después 1 contra 1 entre las tres candidatas, o entre las dos restantes."
+  },
+  {
+    "id": 120,
+    "category": "Problemas cortos",
+    "question": "De 9 bolas, una es más ligera. ¿Cuántas pesadas de balanza bastan para encontrarla?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "difficulty": "Experto",
+    "explanation": "Comparas tres grupos y luego tres candidatas: tres contra tres y una contra una."
+  },
+  {
+    "id": 121,
+    "category": "Problemas cortos",
+    "question": "Un granjero lleva lobo, cabra y col. Su barca solo admite un acompañante. ¿A quién lleva primero para evitar que algo sea comido?",
+    "options": [
+      "La col",
+      "La cabra",
+      "Da igual",
+      "El lobo"
+    ],
+    "answer": 1,
+    "difficulty": "Difícil",
+    "explanation": "Si deja cabra con lobo o cabra con col, pierde uno; debe separar a la cabra."
+  },
+  {
+    "id": 122,
+    "category": "Problemas cortos",
+    "question": "Cuatro personas tardan 1, 2, 5 y 10 minutos en cruzar un puente. Solo caben dos y llevan una linterna; manda el más lento. ¿Cuál es el mínimo total?",
+    "options": [
+      "15 minutos",
+      "20 minutos",
+      "17 minutos",
+      "18 minutos"
+    ],
+    "answer": 2,
+    "difficulty": "Experto",
+    "explanation": "Cruzan 1 y 2 (2), vuelve 1 (1), cruzan 5 y 10 (10), vuelve 2 (2), cruzan 1 y 2 (2)."
+  },
+  {
+    "id": 123,
+    "category": "Problemas cortos",
+    "question": "Hay una contraseña de tres cifras distintas tomadas de 1, 2 y 3. ¿Cuántas ordenaciones posibles hay?",
+    "options": [
+      "27",
+      "3",
+      "6",
+      "9"
+    ],
+    "answer": 2,
+    "difficulty": "Difícil",
+    "explanation": "Son las 3!=6 permutaciones."
+  },
+  {
+    "id": 124,
+    "category": "Problemas cortos",
+    "question": "En un torneo cada uno de 6 jugadores juega una vez contra cada rival. ¿Cuántos partidos hay?",
+    "options": [
+      "18",
+      "12",
+      "15",
+      "30"
+    ],
+    "answer": 2,
+    "difficulty": "Difícil",
+    "explanation": "6×5/2=15 parejas."
+  },
+  {
+    "id": 125,
+    "category": "Problemas cortos",
+    "question": "Una bacteria duplica la población cada hora. El recipiente se llena a las 12:00. ¿A qué hora estaba medio lleno?",
+    "options": [
+      "10:00",
+      "11:30",
+      "06:00",
+      "11:00"
+    ],
+    "answer": 3,
+    "difficulty": "Difícil",
+    "explanation": "Una duplicación antes de llenarse estaba a la mitad."
+  }
+]

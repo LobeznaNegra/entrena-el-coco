@@ -1,0 +1,7436 @@
+[
+  {
+    "category": "Refranes",
+    "phrase": "A quien madruga, Dios le ayuda",
+    "masked_phrase": "A quien madruga, Dios le ____",
+    "id": 1,
+    "options": [
+      "perlas",
+      "ayuda",
+      "manta",
+      "arriba"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No por mucho madrugar amanece más temprano",
+    "masked_phrase": "No por mucho madrugar amanece más ____",
+    "id": 2,
+    "options": [
+      "pardos",
+      "temprano",
+      "orégano",
+      "perdido"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Más vale tarde que nunca",
+    "masked_phrase": "Más vale tarde que ____",
+    "id": 3,
+    "options": [
+      "nunca",
+      "asomo",
+      "laureles",
+      "consigue"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Más vale prevenir que curar",
+    "masked_phrase": "Más vale prevenir que ____",
+    "id": 4,
+    "options": [
+      "frente",
+      "curar",
+      "abuela",
+      "negra"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Más vale pájaro en mano que ciento volando",
+    "masked_phrase": "Más vale pájaro en mano que ciento ____",
+    "id": 5,
+    "options": [
+      "señales",
+      "puesto",
+      "volando",
+      "memoria"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A caballo regalado no le mires el diente",
+    "masked_phrase": "A caballo regalado no le mires el ____",
+    "id": 6,
+    "options": [
+      "arrastre",
+      "diente",
+      "mañana",
+      "tomate"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "En casa del herrero, cuchillo de palo",
+    "masked_phrase": "En casa del herrero, cuchillo de ____",
+    "id": 7,
+    "options": [
+      "cuentas",
+      "pavo",
+      "palo",
+      "chasco"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "De tal palo, tal astilla",
+    "masked_phrase": "De tal palo, tal ____",
+    "id": 8,
+    "options": [
+      "astilla",
+      "truenos",
+      "gallo",
+      "locas"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Dime con quién andas y te diré quién eres",
+    "masked_phrase": "Dime con quién andas y te diré quién ____",
+    "id": 9,
+    "options": [
+      "fuera",
+      "plas",
+      "astilla",
+      "eres"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A buen entendedor, pocas palabras bastan",
+    "masked_phrase": "A buen entendedor, pocas palabras ____",
+    "id": 10,
+    "options": [
+      "raya",
+      "torcer",
+      "bastan",
+      "hecho"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A palabras necias, oídos sordos",
+    "masked_phrase": "A palabras necias, oídos ____",
+    "id": 11,
+    "options": [
+      "andando",
+      "contento",
+      "sordos",
+      "monje"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Ojos que no ven, corazón que no siente",
+    "masked_phrase": "Ojos que no ven, corazón que no ____",
+    "id": 12,
+    "options": [
+      "plomo",
+      "nunca",
+      "siente",
+      "detalle"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No hay mal que por bien no venga",
+    "masked_phrase": "No hay mal que por bien no ____",
+    "id": 13,
+    "options": [
+      "frío",
+      "venga",
+      "fría",
+      "cuernos"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Al mal tiempo, buena cara",
+    "masked_phrase": "Al mal tiempo, buena ____",
+    "id": 14,
+    "options": [
+      "cojo",
+      "ciego",
+      "misa",
+      "cara"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien mucho abarca, poco aprieta",
+    "masked_phrase": "Quien mucho abarca, poco ____",
+    "id": 15,
+    "options": [
+      "equivoca",
+      "detalle",
+      "camino",
+      "aprieta"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Perro ladrador, poco mordedor",
+    "masked_phrase": "Perro ladrador, poco ____",
+    "id": 16,
+    "options": [
+      "mordedor",
+      "felicidad",
+      "locas",
+      "pasada"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El que ríe último ríe mejor",
+    "masked_phrase": "El que ríe último ríe ____",
+    "id": 17,
+    "options": [
+      "traidor",
+      "flan",
+      "vámonos",
+      "mejor"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El que la sigue la consigue",
+    "masked_phrase": "El que la sigue la ____",
+    "id": 18,
+    "options": [
+      "siniestro",
+      "consigue",
+      "velas",
+      "frente"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien no arriesga no gana",
+    "masked_phrase": "Quien no arriesga no ____",
+    "id": 19,
+    "options": [
+      "gana",
+      "nada",
+      "pasiva",
+      "gato"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El hábito no hace al monje",
+    "masked_phrase": "El hábito no hace al ____",
+    "id": 20,
+    "options": [
+      "monje",
+      "sobre",
+      "sayo",
+      "paso"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Aunque la mona se vista de seda, mona se queda",
+    "masked_phrase": "Aunque la mona se vista de seda, mona se ____",
+    "id": 21,
+    "options": [
+      "lechuga",
+      "ingenio",
+      "queda",
+      "rositas"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Cuando el río suena, agua lleva",
+    "masked_phrase": "Cuando el río suena, agua ____",
+    "id": 22,
+    "options": [
+      "dentro",
+      "lleva",
+      "ayuda",
+      "Dios"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Agua que no has de beber, déjala correr",
+    "masked_phrase": "Agua que no has de beber, déjala ____",
+    "id": 23,
+    "options": [
+      "abuela",
+      "escándalo",
+      "saco",
+      "correr"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Nunca llueve a gusto de todos",
+    "masked_phrase": "Nunca llueve a gusto de ____",
+    "id": 24,
+    "options": [
+      "todos",
+      "lince",
+      "huye",
+      "agua"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Después de la tempestad viene la calma",
+    "masked_phrase": "Después de la tempestad viene la ____",
+    "id": 25,
+    "options": [
+      "calma",
+      "asomo",
+      "llorar",
+      "silencio"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Abril, aguas mil",
+    "masked_phrase": "Abril, ____ mil",
+    "id": 26,
+    "options": [
+      "aguas",
+      "pequeña",
+      "suyo",
+      "cuernos"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "En mayo, cada día un rayo",
+    "masked_phrase": "En mayo, cada día un ____",
+    "id": 27,
+    "options": [
+      "rayo",
+      "media",
+      "cuernos",
+      "escrito"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Hasta el cuarenta de mayo no te quites el sayo",
+    "masked_phrase": "Hasta el cuarenta de mayo no te quites el ____",
+    "id": 28,
+    "options": [
+      "marcha",
+      "cielo",
+      "últimas",
+      "sayo"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Por San Blas, la cigüeña verás",
+    "masked_phrase": "Por San Blas, la cigüeña ____",
+    "id": 29,
+    "options": [
+      "frente",
+      "seco",
+      "verás",
+      "vela"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Año de nieves, año de bienes",
+    "masked_phrase": "Año de nieves, año de ____",
+    "id": 30,
+    "options": [
+      "diana",
+      "luna",
+      "bienes",
+      "flan"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "En agosto, frío en el rostro",
+    "masked_phrase": "En agosto, frío en el ____",
+    "id": 31,
+    "options": [
+      "rostro",
+      "cosa",
+      "cabra",
+      "listo"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Por Santa Lucía, mengua la noche y crece el día",
+    "masked_phrase": "Por Santa Lucía, mengua la noche y ____ el día",
+    "id": 32,
+    "options": [
+      "tortilla",
+      "crece",
+      "canto",
+      "sale"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Marzo ventoso y abril lluvioso sacan a mayo florido y hermoso",
+    "masked_phrase": "Marzo ventoso y abril lluvioso sacan a mayo florido y ____",
+    "id": 33,
+    "options": [
+      "hermoso",
+      "memoria",
+      "venga",
+      "pardos"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No dejes para mañana lo que puedas hacer hoy",
+    "masked_phrase": "No dejes para mañana lo que puedas ____ hoy",
+    "id": 34,
+    "options": [
+      "santos",
+      "negra",
+      "hora",
+      "hacer"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Haz bien y no mires a quién",
+    "masked_phrase": "Haz bien y no mires a ____",
+    "id": 35,
+    "options": [
+      "cañón",
+      "quién",
+      "lengua",
+      "Roma"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Lo cortés no quita lo valiente",
+    "masked_phrase": "Lo cortés no quita lo ____",
+    "id": 36,
+    "options": [
+      "muerte",
+      "perlas",
+      "vivir",
+      "valiente"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "En boca cerrada no entran moscas",
+    "masked_phrase": "En boca cerrada no entran ____",
+    "id": 37,
+    "options": [
+      "moscas",
+      "últimas",
+      "liebre",
+      "madre"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Por la boca muere el pez",
+    "masked_phrase": "Por la boca ____ el pez",
+    "id": 38,
+    "options": [
+      "muere",
+      "señales",
+      "misa",
+      "vaso"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Dios los cría y ellos se juntan",
+    "masked_phrase": "Dios los cría y ellos se ____",
+    "id": 39,
+    "options": [
+      "bailan",
+      "chico",
+      "juntan",
+      "izquierda"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Cría cuervos y te sacarán los ojos",
+    "masked_phrase": "Cría cuervos y te sacarán los ____",
+    "id": 40,
+    "options": [
+      "ojos",
+      "pasada",
+      "gorda",
+      "verás"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien siembra vientos recoge tempestades",
+    "masked_phrase": "Quien siembra vientos recoge ____",
+    "id": 41,
+    "options": [
+      "tempestades",
+      "santiamén",
+      "encontraremos",
+      "paciencia"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien a hierro mata, a hierro muere",
+    "masked_phrase": "Quien a hierro mata, a hierro ____",
+    "id": 42,
+    "options": [
+      "está",
+      "engañan",
+      "loro",
+      "muere"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Donde las dan, las toman",
+    "masked_phrase": "Donde las dan, las ____",
+    "id": 43,
+    "options": [
+      "ramas",
+      "palabras",
+      "frío",
+      "toman"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien avisa no es traidor",
+    "masked_phrase": "Quien avisa no es ____",
+    "id": 44,
+    "options": [
+      "juntillas",
+      "traidor",
+      "parra",
+      "callando"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A rey muerto, rey puesto",
+    "masked_phrase": "A rey muerto, rey ____",
+    "id": 45,
+    "options": [
+      "ruedas",
+      "moto",
+      "puesto",
+      "toman"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Muerto el perro, se acabó la rabia",
+    "masked_phrase": "Muerto el perro, se acabó la ____",
+    "id": 46,
+    "options": [
+      "llegado",
+      "rabia",
+      "tomate",
+      "aguante"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El muerto al hoyo y el vivo al bollo",
+    "masked_phrase": "El muerto al hoyo y el vivo al ____",
+    "id": 47,
+    "options": [
+      "letra",
+      "malo",
+      "bollo",
+      "espada"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A falta de pan, buenas son tortas",
+    "masked_phrase": "A falta de pan, buenas son ____",
+    "id": 48,
+    "options": [
+      "tortas",
+      "muerte",
+      "pique",
+      "fuego"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Con pan y vino se anda el camino",
+    "masked_phrase": "Con pan y vino se anda el ____",
+    "id": 49,
+    "options": [
+      "suelta",
+      "cuerdas",
+      "prisa",
+      "camino"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Barriga llena, corazón contento",
+    "masked_phrase": "Barriga llena, corazón ____",
+    "id": 50,
+    "options": [
+      "contento",
+      "peluquín",
+      "maestro",
+      "muerto"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Las penas con pan son menos",
+    "masked_phrase": "Las penas con pan son ____",
+    "id": 51,
+    "options": [
+      "cuadros",
+      "sucios",
+      "lechuga",
+      "menos"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Pan para hoy y hambre para mañana",
+    "masked_phrase": "Pan para hoy y hambre para ____",
+    "id": 52,
+    "options": [
+      "mañana",
+      "aguante",
+      "cubero",
+      "vida"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El hambre agudiza el ingenio",
+    "masked_phrase": "El hambre agudiza el ____",
+    "id": 53,
+    "options": [
+      "hora",
+      "colmos",
+      "trecho",
+      "ingenio"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Cada oveja con su pareja",
+    "masked_phrase": "Cada oveja con su ____",
+    "id": 54,
+    "options": [
+      "pareja",
+      "ciencia",
+      "santos",
+      "huye"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Cada loco con su tema",
+    "masked_phrase": "Cada loco con su ____",
+    "id": 55,
+    "options": [
+      "tema",
+      "atrás",
+      "vaso",
+      "acabar"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Cada maestrillo tiene su librillo",
+    "masked_phrase": "Cada maestrillo tiene su ____",
+    "id": 56,
+    "options": [
+      "librillo",
+      "platillo",
+      "melón",
+      "diente"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Zapatero, a tus zapatos",
+    "masked_phrase": "Zapatero, a tus ____",
+    "id": 57,
+    "options": [
+      "letra",
+      "Pelillos",
+      "blanca",
+      "zapatos"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Nadie es profeta en su tierra",
+    "masked_phrase": "Nadie es profeta en su ____",
+    "id": 58,
+    "options": [
+      "tierra",
+      "negra",
+      "cabo",
+      "suyo"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Donde fueres, haz lo que vieres",
+    "masked_phrase": "Donde fueres, haz lo que ____",
+    "id": 59,
+    "options": [
+      "lleva",
+      "vieres",
+      "falso",
+      "perlas"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien tiene boca se equivoca",
+    "masked_phrase": "Quien tiene boca se ____",
+    "id": 60,
+    "options": [
+      "equivoca",
+      "dientes",
+      "suelta",
+      "muere"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Rectificar es de sabios",
+    "masked_phrase": "Rectificar es de ____",
+    "id": 61,
+    "options": [
+      "comino",
+      "sabios",
+      "historia",
+      "huye"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Errar es humano",
+    "masked_phrase": "Errar es ____",
+    "id": 62,
+    "options": [
+      "porrazo",
+      "todas",
+      "truenos",
+      "humano"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El saber no ocupa lugar",
+    "masked_phrase": "El saber no ocupa ____",
+    "id": 63,
+    "options": [
+      "muerte",
+      "aguante",
+      "lugar",
+      "seco"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Nunca te acostarás sin saber una cosa más",
+    "masked_phrase": "Nunca te acostarás sin saber una ____ más",
+    "id": 64,
+    "options": [
+      "esquina",
+      "cabra",
+      "cosa",
+      "penas"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "La experiencia es la madre de la ciencia",
+    "masked_phrase": "La experiencia es la madre de la ____",
+    "id": 65,
+    "options": [
+      "eres",
+      "detalle",
+      "ciencia",
+      "bueno"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "La práctica hace al maestro",
+    "masked_phrase": "La práctica hace al ____",
+    "id": 66,
+    "options": [
+      "olmo",
+      "negra",
+      "maestro",
+      "Pelillos"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El movimiento se demuestra andando",
+    "masked_phrase": "El movimiento se demuestra ____",
+    "id": 67,
+    "options": [
+      "colmos",
+      "canto",
+      "andando",
+      "repicando"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Del dicho al hecho hay mucho trecho",
+    "masked_phrase": "Del dicho al hecho hay mucho ____",
+    "id": 68,
+    "options": [
+      "construyó",
+      "trecho",
+      "camino",
+      "pajar"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Obras son amores y no buenas razones",
+    "masked_phrase": "Obras son amores y no buenas ____",
+    "id": 69,
+    "options": [
+      "puesto",
+      "sabe",
+      "hielo",
+      "razones"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El que mucho habla, mucho yerra",
+    "masked_phrase": "El que mucho habla, mucho ____",
+    "id": 70,
+    "options": [
+      "marea",
+      "yerra",
+      "llorar",
+      "arte"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien calla otorga",
+    "masked_phrase": "Quien calla ____",
+    "id": 71,
+    "options": [
+      "larga",
+      "solas",
+      "otorga",
+      "herida"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El silencio es oro",
+    "masked_phrase": "El ____ es oro",
+    "id": 72,
+    "options": [
+      "silencio",
+      "lengua",
+      "flote",
+      "manga"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "La mentira tiene las patas muy cortas",
+    "masked_phrase": "La mentira tiene las patas muy ____",
+    "id": 73,
+    "options": [
+      "venir",
+      "cortas",
+      "fuera",
+      "películas"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Se pilla antes a un mentiroso que a un cojo",
+    "masked_phrase": "Se pilla antes a un mentiroso que a un ____",
+    "id": 74,
+    "options": [
+      "cojo",
+      "frío",
+      "calma",
+      "nubes"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "La verdad siempre sale a la luz",
+    "masked_phrase": "La verdad siempre ____ a la luz",
+    "id": 75,
+    "options": [
+      "sale",
+      "migas",
+      "hecho",
+      "colmos"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Las apariencias engañan",
+    "masked_phrase": "Las apariencias ____",
+    "id": 76,
+    "options": [
+      "daba",
+      "pelo",
+      "bollos",
+      "engañan"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No es oro todo lo que reluce",
+    "masked_phrase": "No es oro todo lo que ____",
+    "id": 77,
+    "options": [
+      "caro",
+      "reluce",
+      "saco",
+      "hermoso"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No vendas la piel del oso antes de cazarlo",
+    "masked_phrase": "No vendas la piel del oso antes de ____",
+    "id": 78,
+    "options": [
+      "vencido",
+      "todos",
+      "chino",
+      "cazarlo"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No se ganó Zamora en una hora",
+    "masked_phrase": "No se ganó Zamora en una ____",
+    "id": 79,
+    "options": [
+      "ancho",
+      "pierde",
+      "dure",
+      "hora"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Roma no se construyó en un día",
+    "masked_phrase": "Roma no se ____ en un día",
+    "id": 80,
+    "options": [
+      "construyó",
+      "volando",
+      "pastel",
+      "echará"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien espera desespera",
+    "masked_phrase": "Quien espera ____",
+    "id": 81,
+    "options": [
+      "labios",
+      "maestro",
+      "desespera",
+      "cazarlo"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Vísteme despacio, que tengo prisa",
+    "masked_phrase": "Vísteme despacio, que tengo ____",
+    "id": 82,
+    "options": [
+      "prisa",
+      "caldo",
+      "bienes",
+      "migas"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Las prisas no son buenas consejeras",
+    "masked_phrase": "Las prisas no son buenas ____",
+    "id": 83,
+    "options": [
+      "borrajas",
+      "esperanza",
+      "plumero",
+      "consejeras"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El tiempo todo lo cura",
+    "masked_phrase": "El tiempo todo lo ____",
+    "id": 84,
+    "options": [
+      "cura",
+      "coco",
+      "pulgas",
+      "mango"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No hay dos sin tres",
+    "masked_phrase": "No hay dos sin ____",
+    "id": 85,
+    "options": [
+      "gente",
+      "vuela",
+      "hacer",
+      "tres"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A la tercera va la vencida",
+    "masked_phrase": "A la tercera va la ____",
+    "id": 86,
+    "options": [
+      "vencida",
+      "gozo",
+      "moto",
+      "espalda"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No hay quinto malo",
+    "masked_phrase": "No hay quinto ____",
+    "id": 87,
+    "options": [
+      "cojo",
+      "cuerdas",
+      "frito",
+      "malo"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Dos no riñen si uno no quiere",
+    "masked_phrase": "Dos no riñen si uno no ____",
+    "id": 88,
+    "options": [
+      "quiere",
+      "dedos",
+      "peor",
+      "frío"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien bien te quiere te hará llorar",
+    "masked_phrase": "Quien bien te quiere te hará ____",
+    "id": 89,
+    "options": [
+      "llorar",
+      "borda",
+      "blanco",
+      "vaso"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El amor es ciego",
+    "masked_phrase": "El amor es ____",
+    "id": 90,
+    "options": [
+      "ramas",
+      "ciego",
+      "cuerdas",
+      "colmos"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Donde hubo fuego, cenizas quedan",
+    "masked_phrase": "Donde hubo fuego, cenizas ____",
+    "id": 91,
+    "options": [
+      "quedan",
+      "vámonos",
+      "cielo",
+      "Pelillos"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Amor con amor se paga",
+    "masked_phrase": "Amor con amor se ____",
+    "id": 92,
+    "options": [
+      "paga",
+      "bastan",
+      "sueños",
+      "quién"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Más vale solo que mal acompañado",
+    "masked_phrase": "Más vale solo que mal ____",
+    "id": 93,
+    "options": [
+      "librillo",
+      "acompañado",
+      "esperanza",
+      "vámonos"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Más vale maña que fuerza",
+    "masked_phrase": "Más vale maña que ____",
+    "id": 94,
+    "options": [
+      "vaso",
+      "fuerza",
+      "espinas",
+      "cabra"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Más vale malo conocido que bueno por conocer",
+    "masked_phrase": "Más vale malo conocido que bueno por ____",
+    "id": 95,
+    "options": [
+      "suelta",
+      "espada",
+      "casa",
+      "conocer"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Más vale una imagen que mil palabras",
+    "masked_phrase": "Más vale una imagen que mil ____",
+    "id": 96,
+    "options": [
+      "tutía",
+      "palabras",
+      "letras",
+      "sueco"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Más sabe el diablo por viejo que por diablo",
+    "masked_phrase": "Más sabe el diablo por viejo que por ____",
+    "id": 97,
+    "options": [
+      "moto",
+      "diablo",
+      "callando",
+      "raya"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A perro flaco, todo son pulgas",
+    "masked_phrase": "A perro flaco, todo son ____",
+    "id": 98,
+    "options": [
+      "Babia",
+      "blanca",
+      "pulgas",
+      "mundo"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Gato escaldado del agua fría huye",
+    "masked_phrase": "Gato escaldado del agua fría ____",
+    "id": 99,
+    "options": [
+      "huye",
+      "cuento",
+      "ayuda",
+      "costa"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "De noche, todos los gatos son pardos",
+    "masked_phrase": "De noche, todos los gatos son ____",
+    "id": 100,
+    "options": [
+      "huevos",
+      "pardos",
+      "llamaron",
+      "polvo"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Cuando el gato no está, los ratones bailan",
+    "masked_phrase": "Cuando el gato no está, los ratones ____",
+    "id": 101,
+    "options": [
+      "bailan",
+      "pelo",
+      "aguante",
+      "sordos"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El pez grande se come al chico",
+    "masked_phrase": "El pez grande se come al ____",
+    "id": 102,
+    "options": [
+      "todo",
+      "tontos",
+      "chico",
+      "burro"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "La cabra siempre tira al monte",
+    "masked_phrase": "La cabra siempre tira al ____",
+    "id": 103,
+    "options": [
+      "todos",
+      "monte",
+      "manguera",
+      "muerto"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Una golondrina no hace verano",
+    "masked_phrase": "Una golondrina no hace ____",
+    "id": 104,
+    "options": [
+      "rotos",
+      "verano",
+      "engañan",
+      "herida"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A cada cerdo le llega su San Martín",
+    "masked_phrase": "A cada cerdo le llega su San ____",
+    "id": 105,
+    "options": [
+      "trece",
+      "dedo",
+      "Martín",
+      "arriba"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Por un perro que maté, mataperros me llamaron",
+    "masked_phrase": "Por un perro que maté, mataperros me ____",
+    "id": 106,
+    "options": [
+      "males",
+      "llamaron",
+      "construyó",
+      "plumero"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No se puede estar en misa y repicando",
+    "masked_phrase": "No se puede estar en misa y ____",
+    "id": 107,
+    "options": [
+      "detalle",
+      "repicando",
+      "tortilla",
+      "conocer"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No se pueden pedir peras al olmo",
+    "masked_phrase": "No se pueden pedir peras al ____",
+    "id": 108,
+    "options": [
+      "olmo",
+      "muerte",
+      "trece",
+      "orégano"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A lo hecho, pecho",
+    "masked_phrase": "A lo hecho, ____",
+    "id": 109,
+    "options": [
+      "pecho",
+      "cuento",
+      "loro",
+      "digo"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Lo barato sale caro",
+    "masked_phrase": "Lo barato sale ____",
+    "id": 110,
+    "options": [
+      "bueno",
+      "cuernos",
+      "caro",
+      "crece"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El dinero no da la felicidad",
+    "masked_phrase": "El dinero no da la ____",
+    "id": 111,
+    "options": [
+      "traidor",
+      "espada",
+      "felicidad",
+      "señales"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Poderoso caballero es don Dinero",
+    "masked_phrase": "Poderoso caballero es don ____",
+    "id": 112,
+    "options": [
+      "juntan",
+      "plas",
+      "correr",
+      "Dinero"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "La avaricia rompe el saco",
+    "masked_phrase": "La avaricia rompe el ____",
+    "id": 113,
+    "options": [
+      "plumero",
+      "vivir",
+      "fuego",
+      "saco"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El que parte y reparte se lleva la mejor parte",
+    "masked_phrase": "El que parte y reparte se lleva la mejor ____",
+    "id": 114,
+    "options": [
+      "mordedor",
+      "Roma",
+      "historia",
+      "parte"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Donde comen dos, comen tres",
+    "masked_phrase": "Donde comen dos, comen ____",
+    "id": 115,
+    "options": [
+      "bola",
+      "cosa",
+      "tres",
+      "negra"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Contigo, pan y cebolla",
+    "masked_phrase": "Contigo, pan y ____",
+    "id": 116,
+    "options": [
+      "mariposa",
+      "llamaron",
+      "cebolla",
+      "negra"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A grandes males, grandes remedios",
+    "masked_phrase": "A grandes males, grandes ____",
+    "id": 117,
+    "options": [
+      "remedios",
+      "vuela",
+      "cocina",
+      "verano"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El remedio es peor que la enfermedad",
+    "masked_phrase": "El remedio es peor que la ____",
+    "id": 118,
+    "options": [
+      "pedestal",
+      "acabado",
+      "enfermedad",
+      "librillo"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No hay peor ciego que el que no quiere ver",
+    "masked_phrase": "No hay peor ciego que el que no ____ ver",
+    "id": 119,
+    "options": [
+      "esperanza",
+      "quiere",
+      "chupado",
+      "gallo"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No hay peor sordo que el que no quiere oír",
+    "masked_phrase": "No hay peor sordo que el que no ____ oír",
+    "id": 120,
+    "options": [
+      "hueso",
+      "cortes",
+      "quiere",
+      "pesetas"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Nadie da duros a cuatro pesetas",
+    "masked_phrase": "Nadie da duros a cuatro ____",
+    "id": 121,
+    "options": [
+      "pesetas",
+      "bienes",
+      "plomo",
+      "sabios"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No está el horno para bollos",
+    "masked_phrase": "No está el horno para ____",
+    "id": 122,
+    "options": [
+      "mesa",
+      "cubero",
+      "bollos",
+      "bienes"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No todo el monte es orégano",
+    "masked_phrase": "No todo el monte es ____",
+    "id": 123,
+    "options": [
+      "sayo",
+      "Martín",
+      "orégano",
+      "venir"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "A río revuelto, ganancia de pescadores",
+    "masked_phrase": "A río revuelto, ganancia de ____",
+    "id": 124,
+    "options": [
+      "cazarlo",
+      "escándalo",
+      "rositas",
+      "pescadores"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien fue a Sevilla perdió su silla",
+    "masked_phrase": "Quien fue a Sevilla perdió su ____",
+    "id": 125,
+    "options": [
+      "beberlo",
+      "silla",
+      "rayo",
+      "venir"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Entre bomberos no se pisan la manguera",
+    "masked_phrase": "Entre bomberos no se pisan la ____",
+    "id": 126,
+    "options": [
+      "manguera",
+      "pausa",
+      "pareja",
+      "cazarlo"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Arrieros somos y en el camino nos encontraremos",
+    "masked_phrase": "Arrieros somos y en el camino nos ____",
+    "id": 127,
+    "options": [
+      "enfermedad",
+      "consejeras",
+      "encontraremos",
+      "tempestades"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Ande yo caliente y ríase la gente",
+    "masked_phrase": "Ande yo caliente y ríase la ____",
+    "id": 128,
+    "options": [
+      "pajar",
+      "gente",
+      "arrastre",
+      "pegar"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Dame pan y llámame tonto",
+    "masked_phrase": "Dame pan y llámame ____",
+    "id": 129,
+    "options": [
+      "boca",
+      "ganas",
+      "tonto",
+      "llorar"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "De fuera vendrá quien de casa te echará",
+    "masked_phrase": "De fuera vendrá quien de casa te ____",
+    "id": 130,
+    "options": [
+      "manos",
+      "broma",
+      "echará",
+      "laureles"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El que no llora no mama",
+    "masked_phrase": "El que no llora no ____",
+    "id": 131,
+    "options": [
+      "fuerza",
+      "solas",
+      "torcer",
+      "mama"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Quien guarda, halla",
+    "masked_phrase": "Quien guarda, ____",
+    "id": 132,
+    "options": [
+      "halla",
+      "gloria",
+      "lugar",
+      "palabras"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "El que algo quiere, algo le cuesta",
+    "masked_phrase": "El que algo quiere, algo le ____",
+    "id": 133,
+    "options": [
+      "narices",
+      "cuesta",
+      "huevos",
+      "tontos"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "La unión hace la fuerza",
+    "masked_phrase": "La unión hace la ____",
+    "id": 134,
+    "options": [
+      "venir",
+      "arena",
+      "fuerza",
+      "santos"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Todos los caminos llevan a Roma",
+    "masked_phrase": "Todos los caminos llevan a ____",
+    "id": 135,
+    "options": [
+      "bollo",
+      "Roma",
+      "manos",
+      "pecho"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No hay rosas sin espinas",
+    "masked_phrase": "No hay rosas sin ____",
+    "id": 136,
+    "options": [
+      "razones",
+      "espinas",
+      "pico",
+      "brevas"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Las desgracias nunca vienen solas",
+    "masked_phrase": "Las desgracias nunca vienen ____",
+    "id": 137,
+    "options": [
+      "herida",
+      "lobo",
+      "sobre",
+      "solas"
+    ],
+    "answer": 3,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Mal de muchos, consuelo de tontos",
+    "masked_phrase": "Mal de muchos, consuelo de ____",
+    "id": 138,
+    "options": [
+      "lleva",
+      "olmo",
+      "tontos",
+      "encerrado"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Nunca es tarde si la dicha es buena",
+    "masked_phrase": "Nunca es tarde si la dicha es ____",
+    "id": 139,
+    "options": [
+      "bollos",
+      "buena",
+      "delante",
+      "cuentas"
+    ],
+    "answer": 1,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "No hay mal que cien años dure",
+    "masked_phrase": "No hay mal que cien años ____",
+    "id": 140,
+    "options": [
+      "dure",
+      "dedo",
+      "chiripa",
+      "Caer"
+    ],
+    "answer": 0,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "La esperanza es lo último que se pierde",
+    "masked_phrase": "La esperanza es lo último que se ____",
+    "id": 141,
+    "options": [
+      "broma",
+      "palo",
+      "pierde",
+      "brevas"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Refranes",
+    "phrase": "Mientras hay vida, hay esperanza",
+    "masked_phrase": "Mientras hay vida, hay ____",
+    "id": 142,
+    "options": [
+      "bienes",
+      "agosto",
+      "esperanza",
+      "Dinero"
+    ],
+    "answer": 2,
+    "difficulty": "Fácil"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Buscarle tres pies al gato",
+    "masked_phrase": "Buscarle tres pies al ____",
+    "id": 143,
+    "options": [
+      "silla",
+      "gato",
+      "pasada",
+      "herida"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Hacer una montaña de un grano de arena",
+    "masked_phrase": "Hacer una montaña de un grano de ____",
+    "id": 144,
+    "options": [
+      "arena",
+      "Caer",
+      "boca",
+      "dientes"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ahogarse en un vaso de agua",
+    "masked_phrase": "Ahogarse en un vaso de ____",
+    "id": 145,
+    "options": [
+      "agua",
+      "sucios",
+      "pegar",
+      "Vamos"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar entre la espada y la pared",
+    "masked_phrase": "Estar entre la espada y la ____",
+    "id": 146,
+    "options": [
+      "curar",
+      "cuernos",
+      "santos",
+      "pared"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tirar la casa por la ventana",
+    "masked_phrase": "Tirar la casa por la ____",
+    "id": 147,
+    "options": [
+      "cabo",
+      "ventana",
+      "pecho",
+      "frío"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Matar dos pájaros de un tiro",
+    "masked_phrase": "Matar dos pájaros de un ____",
+    "id": 148,
+    "options": [
+      "borda",
+      "solas",
+      "colmos",
+      "tiro"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner toda la carne en el asador",
+    "masked_phrase": "Poner toda la carne en el ____",
+    "id": 149,
+    "options": [
+      "huevos",
+      "ruedas",
+      "paciencia",
+      "asador"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner los puntos sobre las íes",
+    "masked_phrase": "Poner los puntos ____ las íes",
+    "id": 150,
+    "options": [
+      "verás",
+      "alma",
+      "pardos",
+      "sobre"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner el carro delante de los bueyes",
+    "masked_phrase": "Poner el carro delante de los ____",
+    "id": 151,
+    "options": [
+      "dure",
+      "camino",
+      "bueyes",
+      "sabe"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dar gato por liebre",
+    "masked_phrase": "Dar gato por ____",
+    "id": 152,
+    "options": [
+      "quién",
+      "muere",
+      "moto",
+      "liebre"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dar en el clavo",
+    "masked_phrase": "Dar en el ____",
+    "id": 153,
+    "options": [
+      "esquina",
+      "zapatos",
+      "toman",
+      "clavo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ir al grano",
+    "masked_phrase": "Ir al ____",
+    "id": 154,
+    "options": [
+      "cuesta",
+      "grano",
+      "coco",
+      "penas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar en las nubes",
+    "masked_phrase": "Estar en las ____",
+    "id": 155,
+    "options": [
+      "nubes",
+      "manos",
+      "calma",
+      "sombrero"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener la cabeza en las nubes",
+    "masked_phrase": "Tener la cabeza en las ____",
+    "id": 156,
+    "options": [
+      "nubes",
+      "está",
+      "vida",
+      "bollo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar en la luna",
+    "masked_phrase": "Estar en la ____",
+    "id": 157,
+    "options": [
+      "nunca",
+      "pesetas",
+      "letra",
+      "luna"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar en Babia",
+    "masked_phrase": "Estar en ____",
+    "id": 158,
+    "options": [
+      "Babia",
+      "todas",
+      "huesos",
+      "bola"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar en el quinto pino",
+    "masked_phrase": "Estar en el quinto ____",
+    "id": 159,
+    "options": [
+      "pino",
+      "caro",
+      "misa",
+      "pausa"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar hecho un flan",
+    "masked_phrase": "Estar hecho un ____",
+    "id": 160,
+    "options": [
+      "piedra",
+      "flan",
+      "piscina",
+      "cuerdas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar como una cabra",
+    "masked_phrase": "Estar como una ____",
+    "id": 161,
+    "options": [
+      "cabra",
+      "Vamos",
+      "monte",
+      "perdido"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar como pez en el agua",
+    "masked_phrase": "Estar como pez en el ____",
+    "id": 162,
+    "options": [
+      "agua",
+      "males",
+      "frío",
+      "nada"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar con el agua al cuello",
+    "masked_phrase": "Estar con el agua al ____",
+    "id": 163,
+    "options": [
+      "vaso",
+      "cuello",
+      "tanto",
+      "borrajas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar hasta las narices",
+    "masked_phrase": "Estar hasta las ____",
+    "id": 164,
+    "options": [
+      "narices",
+      "dure",
+      "humos",
+      "caldo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar para el arrastre",
+    "masked_phrase": "Estar para el ____",
+    "id": 165,
+    "options": [
+      "marea",
+      "arrastre",
+      "atrás",
+      "hueso"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar hecho polvo",
+    "masked_phrase": "Estar hecho ____",
+    "id": 166,
+    "options": [
+      "astilla",
+      "hielo",
+      "pecho",
+      "polvo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar de capa caída",
+    "masked_phrase": "Estar de capa ____",
+    "id": 167,
+    "options": [
+      "moscas",
+      "caída",
+      "quiera",
+      "perlas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar al pie del cañón",
+    "masked_phrase": "Estar al pie del ____",
+    "id": 168,
+    "options": [
+      "cazarlo",
+      "frito",
+      "acabado",
+      "cañón"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar al loro",
+    "masked_phrase": "Estar al ____",
+    "id": 169,
+    "options": [
+      "cortes",
+      "gozo",
+      "perlas",
+      "loro"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar a dos velas",
+    "masked_phrase": "Estar a dos ____",
+    "id": 170,
+    "options": [
+      "volando",
+      "velas",
+      "correr",
+      "camino"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Estar sin blanca",
+    "masked_phrase": "Estar sin ____",
+    "id": 171,
+    "options": [
+      "gana",
+      "siente",
+      "blanca",
+      "huesos"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ser un lince",
+    "masked_phrase": "Ser un ____",
+    "id": 172,
+    "options": [
+      "lince",
+      "caldo",
+      "lanza",
+      "abuela"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ser un hueso duro de roer",
+    "masked_phrase": "Ser un hueso duro de ____",
+    "id": 173,
+    "options": [
+      "cura",
+      "roer",
+      "aire",
+      "dentro"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ser harina de otro costal",
+    "masked_phrase": "Ser harina de otro ____",
+    "id": 174,
+    "options": [
+      "plomo",
+      "labios",
+      "halla",
+      "costal"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ser pan comido",
+    "masked_phrase": "Ser pan ____",
+    "id": 175,
+    "options": [
+      "comido",
+      "ojos",
+      "cielo",
+      "pelos"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ser coser y cantar",
+    "masked_phrase": "Ser coser y ____",
+    "id": 176,
+    "options": [
+      "cantar",
+      "pata",
+      "porrazo",
+      "señales"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ser la oveja negra",
+    "masked_phrase": "Ser la oveja ____",
+    "id": 177,
+    "options": [
+      "letras",
+      "negra",
+      "chino",
+      "cara"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ser la gota que colma el vaso",
+    "masked_phrase": "Ser la gota que colma el ____",
+    "id": 178,
+    "options": [
+      "arde",
+      "vaso",
+      "pañuelo",
+      "tanto"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ser la guinda del pastel",
+    "masked_phrase": "Ser la guinda del ____",
+    "id": 179,
+    "options": [
+      "huevos",
+      "abasto",
+      "tomate",
+      "pastel"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ser el colmo de los colmos",
+    "masked_phrase": "Ser el colmo de los ____",
+    "id": 180,
+    "options": [
+      "mano",
+      "llegado",
+      "colmos",
+      "laureles"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener un as en la manga",
+    "masked_phrase": "Tener un as en la ____",
+    "id": 181,
+    "options": [
+      "faltaba",
+      "diablo",
+      "manga",
+      "cuesta"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener pájaros en la cabeza",
+    "masked_phrase": "Tener pájaros en la ____",
+    "id": 182,
+    "options": [
+      "tonto",
+      "negra",
+      "cuadros",
+      "cabeza"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener la sartén por el mango",
+    "masked_phrase": "Tener la sartén por el ____",
+    "id": 183,
+    "options": [
+      "cable",
+      "mango",
+      "llorar",
+      "todas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener más cara que espalda",
+    "masked_phrase": "Tener más cara que ____",
+    "id": 184,
+    "options": [
+      "ganas",
+      "espalda",
+      "primeras",
+      "cortas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener mano izquierda",
+    "masked_phrase": "Tener mano ____",
+    "id": 185,
+    "options": [
+      "rositas",
+      "barato",
+      "construyó",
+      "izquierda"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener la mosca detrás de la oreja",
+    "masked_phrase": "Tener la mosca detrás de la ____",
+    "id": 186,
+    "options": [
+      "oreja",
+      "falte",
+      "lobo",
+      "pequeña"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener sangre fría",
+    "masked_phrase": "Tener sangre ____",
+    "id": 187,
+    "options": [
+      "echará",
+      "diablo",
+      "ganas",
+      "fría"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener los pies en la tierra",
+    "masked_phrase": "Tener los pies en la ____",
+    "id": 188,
+    "options": [
+      "tierra",
+      "escándalo",
+      "chico",
+      "peteneras"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener el corazón en un puño",
+    "masked_phrase": "Tener el corazón en un ____",
+    "id": 189,
+    "options": [
+      "larga",
+      "correr",
+      "marcha",
+      "puño"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener la piel de gallina",
+    "masked_phrase": "Tener la piel de ____",
+    "id": 190,
+    "options": [
+      "bailado",
+      "costa",
+      "marea",
+      "gallina"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tener la lengua larga",
+    "masked_phrase": "Tener la lengua ____",
+    "id": 191,
+    "options": [
+      "larga",
+      "herida",
+      "cura",
+      "arena"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Morderse la lengua",
+    "masked_phrase": "Morderse la ____",
+    "id": 192,
+    "options": [
+      "cuesta",
+      "librillo",
+      "letras",
+      "lengua"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Meter la pata",
+    "masked_phrase": "Meter la ____",
+    "id": 193,
+    "options": [
+      "pata",
+      "males",
+      "borda",
+      "frío"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Meter las narices",
+    "masked_phrase": "Meter las ____",
+    "id": 194,
+    "options": [
+      "ciencia",
+      "narices",
+      "pelo",
+      "aprieta"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Meter el dedo en la llaga",
+    "masked_phrase": "Meter el dedo en la ____",
+    "id": 195,
+    "options": [
+      "llaga",
+      "suelta",
+      "tomate",
+      "sucios"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Meterse en camisa de once varas",
+    "masked_phrase": "Meterse en camisa de once ____",
+    "id": 196,
+    "options": [
+      "pelos",
+      "equivoca",
+      "pierde",
+      "varas"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Meterse en la boca del lobo",
+    "masked_phrase": "Meterse en la boca del ____",
+    "id": 197,
+    "options": [
+      "lobo",
+      "mango",
+      "letras",
+      "pequeña"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tomar el pelo",
+    "masked_phrase": "Tomar el ____",
+    "id": 198,
+    "options": [
+      "bailado",
+      "pelo",
+      "humano",
+      "madre"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tomar el toro por los cuernos",
+    "masked_phrase": "Tomar el toro por los ____",
+    "id": 199,
+    "options": [
+      "cuernos",
+      "cierre",
+      "espinas",
+      "frente"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tomar las de Villadiego",
+    "masked_phrase": "Tomar las de ____",
+    "id": 200,
+    "options": [
+      "delante",
+      "Villadiego",
+      "ciencia",
+      "santiamén"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Echar leña al fuego",
+    "masked_phrase": "Echar leña al ____",
+    "id": 201,
+    "options": [
+      "bola",
+      "hecho",
+      "fuego",
+      "frito"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Echar un cable",
+    "masked_phrase": "Echar un ____",
+    "id": 202,
+    "options": [
+      "gorda",
+      "cable",
+      "liebre",
+      "rabo"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Echar una mano",
+    "masked_phrase": "Echar una ____",
+    "id": 203,
+    "options": [
+      "últimas",
+      "mano",
+      "jardín",
+      "hecho"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Echar balones fuera",
+    "masked_phrase": "Echar balones ____",
+    "id": 204,
+    "options": [
+      "roer",
+      "herida",
+      "callando",
+      "fuera"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Echar el cierre",
+    "masked_phrase": "Echar el ____",
+    "id": 205,
+    "options": [
+      "cierre",
+      "locas",
+      "mejor",
+      "eres"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Hacer la vista gorda",
+    "masked_phrase": "Hacer la vista ____",
+    "id": 206,
+    "options": [
+      "gorda",
+      "norte",
+      "comino",
+      "razones"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Hacer oídos sordos",
+    "masked_phrase": "Hacer oídos ____",
+    "id": 207,
+    "options": [
+      "sordos",
+      "pino",
+      "estribos",
+      "moscas"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Hacer de tripas corazón",
+    "masked_phrase": "Hacer de tripas ____",
+    "id": 208,
+    "options": [
+      "sano",
+      "plas",
+      "corazón",
+      "novia"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Hacer el agosto",
+    "masked_phrase": "Hacer el ____",
+    "id": 209,
+    "options": [
+      "calma",
+      "quien",
+      "cable",
+      "agosto"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Hacer borrón y cuenta nueva",
+    "masked_phrase": "Hacer borrón y cuenta ____",
+    "id": 210,
+    "options": [
+      "plumero",
+      "nueva",
+      "llamaron",
+      "paso"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Hacer castillos en el aire",
+    "masked_phrase": "Hacer castillos en el ____",
+    "id": 211,
+    "options": [
+      "tontos",
+      "quedan",
+      "aire",
+      "espinas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Hacer buenas migas",
+    "masked_phrase": "Hacer buenas ____",
+    "id": 212,
+    "options": [
+      "tejado",
+      "laureles",
+      "migas",
+      "melón"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Pagar el pato",
+    "masked_phrase": "Pagar el ____",
+    "id": 213,
+    "options": [
+      "pato",
+      "fría",
+      "fuerza",
+      "abasto"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Pagar los platos rotos",
+    "masked_phrase": "Pagar los platos ____",
+    "id": 214,
+    "options": [
+      "rotos",
+      "bueno",
+      "laureles",
+      "diablo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Pagar con la misma moneda",
+    "masked_phrase": "Pagar con la misma ____",
+    "id": 215,
+    "options": [
+      "moneda",
+      "misa",
+      "palma",
+      "ayuda"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Pasar por el aro",
+    "masked_phrase": "____ por el aro",
+    "id": 216,
+    "options": [
+      "calma",
+      "Pasar",
+      "parra",
+      "Babia"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Pasar de largo",
+    "masked_phrase": "Pasar de ____",
+    "id": 217,
+    "options": [
+      "largo",
+      "andando",
+      "gloria",
+      "cantante"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Pasar la noche en vela",
+    "masked_phrase": "Pasar la noche en ____",
+    "id": 218,
+    "options": [
+      "monje",
+      "astilla",
+      "oreja",
+      "vela"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dar la vuelta a la tortilla",
+    "masked_phrase": "Dar la vuelta a la ____",
+    "id": 219,
+    "options": [
+      "aguas",
+      "gallina",
+      "bueyes",
+      "tortilla"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dar la cara",
+    "masked_phrase": "Dar la ____",
+    "id": 220,
+    "options": [
+      "hielo",
+      "sobre",
+      "cara",
+      "huevos"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dar carta blanca",
+    "masked_phrase": "Dar carta ____",
+    "id": 221,
+    "options": [
+      "Martín",
+      "toman",
+      "ojos",
+      "blanca"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dar un paso en falso",
+    "masked_phrase": "Dar un paso en ____",
+    "id": 222,
+    "options": [
+      "Pelillos",
+      "todas",
+      "Vamos",
+      "falso"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dar palos de ciego",
+    "masked_phrase": "Dar palos de ____",
+    "id": 223,
+    "options": [
+      "lanza",
+      "arriba",
+      "ciego",
+      "cortes"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dar en la diana",
+    "masked_phrase": "Dar en la ____",
+    "id": 224,
+    "options": [
+      "sayo",
+      "carro",
+      "diana",
+      "lengua"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dar rienda suelta",
+    "masked_phrase": "Dar rienda ____",
+    "id": 225,
+    "options": [
+      "suelta",
+      "puesto",
+      "malo",
+      "frío"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dar por zanjado",
+    "masked_phrase": "Dar por ____",
+    "id": 226,
+    "options": [
+      "zanjado",
+      "rositas",
+      "felicidad",
+      "mesa"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Darse por vencido",
+    "masked_phrase": "Darse por ____",
+    "id": 227,
+    "options": [
+      "vencido",
+      "palo",
+      "trecho",
+      "peluquín"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Darse con un canto en los dientes",
+    "masked_phrase": "Darse con un canto en los ____",
+    "id": 228,
+    "options": [
+      "clavo",
+      "caldo",
+      "cabo",
+      "dientes"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Caer en saco roto",
+    "masked_phrase": "Caer en saco ____",
+    "id": 229,
+    "options": [
+      "pared",
+      "roto",
+      "coco",
+      "pierde"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Caer como un jarro de agua fría",
+    "masked_phrase": "Caer como un jarro de agua ____",
+    "id": 230,
+    "options": [
+      "llaga",
+      "fría",
+      "visto",
+      "pegar"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Caer en la cuenta",
+    "masked_phrase": "Caer en la ____",
+    "id": 231,
+    "options": [
+      "echada",
+      "cuenta",
+      "laureles",
+      "pato"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Caer de pie",
+    "masked_phrase": "____ de pie",
+    "id": 232,
+    "options": [
+      "prisa",
+      "Caer",
+      "abierta",
+      "últimas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Salir por la puerta grande",
+    "masked_phrase": "Salir por la puerta ____",
+    "id": 233,
+    "options": [
+      "quicio",
+      "grande",
+      "Pelillos",
+      "comido"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Salir por peteneras",
+    "masked_phrase": "Salir por ____",
+    "id": 234,
+    "options": [
+      "faltaba",
+      "mariposa",
+      "pulgas",
+      "peteneras"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Salir del paso",
+    "masked_phrase": "Salir del ____",
+    "id": 235,
+    "options": [
+      "grande",
+      "eres",
+      "porrazo",
+      "paso"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Salir a flote",
+    "masked_phrase": "Salir a ____",
+    "id": 236,
+    "options": [
+      "beberlo",
+      "flote",
+      "volando",
+      "mariposa"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Sacar las castañas del fuego",
+    "masked_phrase": "Sacar las castañas del ____",
+    "id": 237,
+    "options": [
+      "huye",
+      "cocina",
+      "fuego",
+      "penas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Sacar los trapos sucios",
+    "masked_phrase": "Sacar los trapos ____",
+    "id": 238,
+    "options": [
+      "ancho",
+      "perdidos",
+      "pasiva",
+      "sucios"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Sacar de quicio",
+    "masked_phrase": "Sacar de ____",
+    "id": 239,
+    "options": [
+      "quicio",
+      "ciego",
+      "comino",
+      "guinda"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Sacar los pies del tiesto",
+    "masked_phrase": "Sacar los pies del ____",
+    "id": 240,
+    "options": [
+      "costal",
+      "vámonos",
+      "dedos",
+      "tiesto"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Romper el hielo",
+    "masked_phrase": "Romper el ____",
+    "id": 241,
+    "options": [
+      "eres",
+      "saco",
+      "rayo",
+      "hielo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Romper una lanza",
+    "masked_phrase": "Romper una ____",
+    "id": 242,
+    "options": [
+      "remedios",
+      "perdido",
+      "quedan",
+      "lanza"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Cerrar el pico",
+    "masked_phrase": "Cerrar el ____",
+    "id": 243,
+    "options": [
+      "vuela",
+      "caída",
+      "pico",
+      "marea"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Cortar por lo sano",
+    "masked_phrase": "Cortar por lo ____",
+    "id": 244,
+    "options": [
+      "cebolla",
+      "rabo",
+      "sano",
+      "varas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Cortar el bacalao",
+    "masked_phrase": "Cortar el ____",
+    "id": 245,
+    "options": [
+      "bacalao",
+      "aire",
+      "jardín",
+      "arriba"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Cortar las alas",
+    "masked_phrase": "Cortar las ____",
+    "id": 246,
+    "options": [
+      "agosto",
+      "pico",
+      "alas",
+      "diente"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Irse por las ramas",
+    "masked_phrase": "Irse por las ____",
+    "id": 247,
+    "options": [
+      "ramas",
+      "Pelillos",
+      "arde",
+      "librillo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Irse de rositas",
+    "masked_phrase": "Irse de ____",
+    "id": 248,
+    "options": [
+      "astilla",
+      "sopa",
+      "llorar",
+      "rositas"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Irse de la lengua",
+    "masked_phrase": "Irse de la ____",
+    "id": 249,
+    "options": [
+      "laureles",
+      "negra",
+      "truenos",
+      "lengua"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Irse de las manos",
+    "masked_phrase": "Irse de las ____",
+    "id": 250,
+    "options": [
+      "pedestal",
+      "sabe",
+      "manos",
+      "espinas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Irse a pique",
+    "masked_phrase": "Irse a ____",
+    "id": 251,
+    "options": [
+      "pique",
+      "pierde",
+      "grande",
+      "hermoso"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Irse al traste",
+    "masked_phrase": "Irse al ____",
+    "id": 252,
+    "options": [
+      "ingenio",
+      "Dinero",
+      "mango",
+      "traste"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ir viento en popa",
+    "masked_phrase": "Ir viento en ____",
+    "id": 253,
+    "options": [
+      "volando",
+      "popa",
+      "rabia",
+      "narices"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ir sobre ruedas",
+    "masked_phrase": "Ir sobre ____",
+    "id": 254,
+    "options": [
+      "porrazo",
+      "mundo",
+      "detalle",
+      "ruedas"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ir con pies de plomo",
+    "masked_phrase": "Ir con pies de ____",
+    "id": 255,
+    "options": [
+      "chico",
+      "sayo",
+      "paso",
+      "plomo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ir pisando huevos",
+    "masked_phrase": "Ir pisando ____",
+    "id": 256,
+    "options": [
+      "lengua",
+      "huevos",
+      "llegado",
+      "tortilla"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ir a contracorriente",
+    "masked_phrase": "Ir a ____",
+    "id": 257,
+    "options": [
+      "lanza",
+      "contracorriente",
+      "borda",
+      "comido"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ir a tiro hecho",
+    "masked_phrase": "Ir a tiro ____",
+    "id": 258,
+    "options": [
+      "hecho",
+      "todo",
+      "puesto",
+      "trecho"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Ir como anillo al dedo",
+    "masked_phrase": "Ir como anillo al ____",
+    "id": 259,
+    "options": [
+      "perdido",
+      "cuento",
+      "dedo",
+      "boca"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Venir de perlas",
+    "masked_phrase": "Venir de ____",
+    "id": 260,
+    "options": [
+      "cabeza",
+      "chupado",
+      "chico",
+      "perlas"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Venir al pelo",
+    "masked_phrase": "Venir al ____",
+    "id": 261,
+    "options": [
+      "curar",
+      "pelo",
+      "ciencia",
+      "roer"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Venir como agua de mayo",
+    "masked_phrase": "Venir como agua de ____",
+    "id": 262,
+    "options": [
+      "pico",
+      "diablo",
+      "mayo",
+      "bollos"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Llevar la voz cantante",
+    "masked_phrase": "Llevar la voz ____",
+    "id": 263,
+    "options": [
+      "cantante",
+      "truenos",
+      "parra",
+      "perdidos"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Llevarse el gato al agua",
+    "masked_phrase": "Llevarse el gato al ____",
+    "id": 264,
+    "options": [
+      "orden",
+      "huevos",
+      "pañuelo",
+      "agua"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Llevarse las manos a la cabeza",
+    "masked_phrase": "Llevarse las manos a la ____",
+    "id": 265,
+    "options": [
+      "cabeza",
+      "casa",
+      "limoná",
+      "dedos"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Llevarse la palma",
+    "masked_phrase": "Llevarse la ____",
+    "id": 266,
+    "options": [
+      "faltaba",
+      "palma",
+      "delante",
+      "trecho"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Llevarse un chasco",
+    "masked_phrase": "Llevarse un ____",
+    "id": 267,
+    "options": [
+      "palma",
+      "chasco",
+      "varas",
+      "truenos"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Quedarse de piedra",
+    "masked_phrase": "Quedarse de ____",
+    "id": 268,
+    "options": [
+      "cortes",
+      "piedra",
+      "mama",
+      "peluquín"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Quedarse a cuadros",
+    "masked_phrase": "Quedarse a ____",
+    "id": 269,
+    "options": [
+      "pico",
+      "marimorena",
+      "chupado",
+      "cuadros"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Quedarse con la boca abierta",
+    "masked_phrase": "Quedarse con la boca ____",
+    "id": 270,
+    "options": [
+      "abierta",
+      "quiere",
+      "cosa",
+      "rabo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Quedarse en blanco",
+    "masked_phrase": "Quedarse en ____",
+    "id": 271,
+    "options": [
+      "blanco",
+      "frente",
+      "carro",
+      "males"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Quedarse a dos velas",
+    "masked_phrase": "Quedarse a dos ____",
+    "id": 272,
+    "options": [
+      "velas",
+      "frío",
+      "venga",
+      "callando"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Quedarse compuesto y sin novia",
+    "masked_phrase": "Quedarse compuesto y sin ____",
+    "id": 273,
+    "options": [
+      "bueno",
+      "misa",
+      "aguante",
+      "novia"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Perder los estribos",
+    "masked_phrase": "Perder los ____",
+    "id": 274,
+    "options": [
+      "estribos",
+      "memoria",
+      "blanca",
+      "beneficio"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Perder el norte",
+    "masked_phrase": "Perder el ____",
+    "id": 275,
+    "options": [
+      "norte",
+      "suelta",
+      "rayo",
+      "larga"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Perder la cabeza",
+    "masked_phrase": "Perder la ____",
+    "id": 276,
+    "options": [
+      "costa",
+      "cabeza",
+      "frente",
+      "siente"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Cruzar los dedos",
+    "masked_phrase": "Cruzar los ____",
+    "id": 277,
+    "options": [
+      "dedos",
+      "tutía",
+      "cazarlo",
+      "falso"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Cruzar el charco",
+    "masked_phrase": "Cruzar el ____",
+    "id": 278,
+    "options": [
+      "charco",
+      "ciego",
+      "pausa",
+      "vuela"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Remover cielo y tierra",
+    "masked_phrase": "Remover cielo y ____",
+    "id": 279,
+    "options": [
+      "pulgas",
+      "tierra",
+      "tiesto",
+      "vueltas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Llover sobre mojado",
+    "masked_phrase": "Llover sobre ____",
+    "id": 280,
+    "options": [
+      "mojado",
+      "astilla",
+      "Pelillos",
+      "olmo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dejar con la miel en los labios",
+    "masked_phrase": "Dejar con la miel en los ____",
+    "id": 281,
+    "options": [
+      "bola",
+      "penas",
+      "labios",
+      "detalle"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dejar mucho que desear",
+    "masked_phrase": "Dejar mucho que ____",
+    "id": 282,
+    "options": [
+      "desear",
+      "menos",
+      "peluquín",
+      "pino"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Dejar el pabellón alto",
+    "masked_phrase": "Dejar el pabellón ____",
+    "id": 283,
+    "options": [
+      "alto",
+      "sale",
+      "abierta",
+      "parra"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner el grito en el cielo",
+    "masked_phrase": "Poner el grito en el ____",
+    "id": 284,
+    "options": [
+      "cielo",
+      "peor",
+      "partes",
+      "cocina"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner pies en polvorosa",
+    "masked_phrase": "Poner pies en ____",
+    "id": 285,
+    "options": [
+      "polvorosa",
+      "Villadiego",
+      "ingenio",
+      "detalle"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner el dedo en la llaga",
+    "masked_phrase": "Poner el dedo en la ____",
+    "id": 286,
+    "options": [
+      "mundo",
+      "llaga",
+      "todas",
+      "puño"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner la mano en el fuego",
+    "masked_phrase": "Poner la mano en el ____",
+    "id": 287,
+    "options": [
+      "coco",
+      "echará",
+      "platillo",
+      "fuego"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner las cartas sobre la mesa",
+    "masked_phrase": "Poner las cartas sobre la ____",
+    "id": 288,
+    "options": [
+      "tanto",
+      "chino",
+      "pasada",
+      "mesa"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner a caldo",
+    "masked_phrase": "Poner a ____",
+    "id": 289,
+    "options": [
+      "poco",
+      "digo",
+      "chico",
+      "caldo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner contra las cuerdas",
+    "masked_phrase": "Poner contra las ____",
+    "id": 290,
+    "options": [
+      "costa",
+      "sopa",
+      "hoja",
+      "cuerdas"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner a alguien en un pedestal",
+    "masked_phrase": "Poner a alguien en un ____",
+    "id": 291,
+    "options": [
+      "tonto",
+      "marcha",
+      "pedestal",
+      "cabra"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner la guinda",
+    "masked_phrase": "Poner la ____",
+    "id": 292,
+    "options": [
+      "pavo",
+      "engañan",
+      "charco",
+      "guinda"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Poner buena cara",
+    "masked_phrase": "Poner buena ____",
+    "id": 293,
+    "options": [
+      "diablo",
+      "ciego",
+      "cara",
+      "abasto"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tirar la toalla",
+    "masked_phrase": "Tirar la ____",
+    "id": 294,
+    "options": [
+      "norte",
+      "toalla",
+      "visto",
+      "aguante"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tirar de la manta",
+    "masked_phrase": "Tirar de la ____",
+    "id": 295,
+    "options": [
+      "manta",
+      "huesos",
+      "madre",
+      "peras"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tirar piedras contra su propio tejado",
+    "masked_phrase": "Tirar piedras contra su propio ____",
+    "id": 296,
+    "options": [
+      "piscina",
+      "tejado",
+      "ciencia",
+      "quiera"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tirar por la borda",
+    "masked_phrase": "Tirar por la ____",
+    "id": 297,
+    "options": [
+      "huye",
+      "borda",
+      "está",
+      "caro"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Tirar del carro",
+    "masked_phrase": "Tirar del ____",
+    "id": 298,
+    "options": [
+      "olmo",
+      "dedo",
+      "carro",
+      "cazarlo"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Abrir la caja de los truenos",
+    "masked_phrase": "Abrir la caja de los ____",
+    "id": 299,
+    "options": [
+      "truenos",
+      "gorda",
+      "quedan",
+      "verás"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Abrir los ojos",
+    "masked_phrase": "Abrir los ____",
+    "id": 300,
+    "options": [
+      "aguante",
+      "pausa",
+      "ojos",
+      "migas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Abrir un melón",
+    "masked_phrase": "Abrir un ____",
+    "id": 301,
+    "options": [
+      "cuento",
+      "cuadros",
+      "maestro",
+      "melón"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Armar un escándalo",
+    "masked_phrase": "Armar un ____",
+    "id": 302,
+    "options": [
+      "escándalo",
+      "temprano",
+      "sueños",
+      "espinas"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Armar la marimorena",
+    "masked_phrase": "Armar la ____",
+    "id": 303,
+    "options": [
+      "silencio",
+      "marimorena",
+      "últimas",
+      "rositas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Armarse de paciencia",
+    "masked_phrase": "Armarse de ____",
+    "id": 304,
+    "options": [
+      "beberlo",
+      "paciencia",
+      "blanca",
+      "últimas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Bajar la guardia",
+    "masked_phrase": "Bajar la ____",
+    "id": 305,
+    "options": [
+      "ancho",
+      "barrancas",
+      "guardia",
+      "cuenta"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Bajar los humos",
+    "masked_phrase": "Bajar los ____",
+    "id": 306,
+    "options": [
+      "astilla",
+      "humos",
+      "botón",
+      "marea"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Bajar del burro",
+    "masked_phrase": "Bajar del ____",
+    "id": 307,
+    "options": [
+      "alas",
+      "rayo",
+      "burro",
+      "falte"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Buscar una aguja en un pajar",
+    "masked_phrase": "Buscar una aguja en un ____",
+    "id": 308,
+    "options": [
+      "traidor",
+      "pajar",
+      "cortes",
+      "magia"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Empezar la casa por el tejado",
+    "masked_phrase": "Empezar la casa por el ____",
+    "id": 309,
+    "options": [
+      "tejado",
+      "manta",
+      "cable",
+      "asador"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Llegar y besar el santo",
+    "masked_phrase": "Llegar y besar el ____",
+    "id": 310,
+    "options": [
+      "santo",
+      "diana",
+      "varas",
+      "flautas"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "Llamar al pan pan y al vino vino",
+    "masked_phrase": "Llamar al pan pan y al vino ____",
+    "id": 311,
+    "options": [
+      "sobre",
+      "hielo",
+      "hecho",
+      "vino"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No dar pie con bola",
+    "masked_phrase": "No dar pie con ____",
+    "id": 312,
+    "options": [
+      "tema",
+      "ayuda",
+      "muerto",
+      "bola"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No pegar ojo",
+    "masked_phrase": "No ____ ojo",
+    "id": 313,
+    "options": [
+      "chasco",
+      "borrajas",
+      "humano",
+      "pegar"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No tener pelos en la lengua",
+    "masked_phrase": "No tener pelos en la ____",
+    "id": 314,
+    "options": [
+      "lengua",
+      "bollo",
+      "negra",
+      "pañuelo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No tener dónde caerse muerto",
+    "masked_phrase": "No tener dónde caerse ____",
+    "id": 315,
+    "options": [
+      "mordedor",
+      "calma",
+      "espalda",
+      "muerto"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No tener ni pies ni cabeza",
+    "masked_phrase": "No tener ni pies ni ____",
+    "id": 316,
+    "options": [
+      "películas",
+      "todas",
+      "cabeza",
+      "vaso"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No tener dos dedos de frente",
+    "masked_phrase": "No tener dos dedos de ____",
+    "id": 317,
+    "options": [
+      "dentro",
+      "correr",
+      "bastan",
+      "frente"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No ver tres en un burro",
+    "masked_phrase": "No ver tres en un ____",
+    "id": 318,
+    "options": [
+      "mañana",
+      "burro",
+      "juntan",
+      "larga"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No dar su brazo a torcer",
+    "masked_phrase": "No dar su brazo a ____",
+    "id": 319,
+    "options": [
+      "traidor",
+      "trecho",
+      "abasto",
+      "torcer"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No dejar títere con cabeza",
+    "masked_phrase": "No dejar títere con ____",
+    "id": 320,
+    "options": [
+      "huye",
+      "espada",
+      "cabeza",
+      "izquierda"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No levantar cabeza",
+    "masked_phrase": "No levantar ____",
+    "id": 321,
+    "options": [
+      "pajar",
+      "piedra",
+      "cabeza",
+      "últimas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Frases hechas",
+    "phrase": "No dar abasto",
+    "masked_phrase": "No dar ____",
+    "id": 322,
+    "options": [
+      "arde",
+      "volando",
+      "faltaba",
+      "abasto"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A otra cosa, mariposa",
+    "masked_phrase": "A otra cosa, ____",
+    "id": 323,
+    "options": [
+      "mariposa",
+      "botón",
+      "vencido",
+      "oreja"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Aquí paz y después gloria",
+    "masked_phrase": "Aquí paz y después ____",
+    "id": 324,
+    "options": [
+      "caro",
+      "gloria",
+      "monje",
+      "moto"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Apaga y vámonos",
+    "masked_phrase": "Apaga y ____",
+    "id": 325,
+    "options": [
+      "zanjado",
+      "vámonos",
+      "platillo",
+      "crece"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Borrón y cuenta nueva",
+    "masked_phrase": "Borrón y cuenta ____",
+    "id": 326,
+    "options": [
+      "contento",
+      "nueva",
+      "alas",
+      "pasiva"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Pelillos a la mar",
+    "masked_phrase": "____ a la mar",
+    "id": 327,
+    "options": [
+      "gallo",
+      "vencido",
+      "perdido",
+      "Pelillos"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Colorín colorado, este cuento se ha acabado",
+    "masked_phrase": "Colorín colorado, este cuento se ha ____",
+    "id": 328,
+    "options": [
+      "historia",
+      "acabado",
+      "tonto",
+      "pequeña"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Éramos pocos y parió la abuela",
+    "masked_phrase": "Éramos pocos y parió la ____",
+    "id": 329,
+    "options": [
+      "silla",
+      "abuela",
+      "trecho",
+      "Dios"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "De perdidos, al río",
+    "masked_phrase": "De ____, al río",
+    "id": 330,
+    "options": [
+      "perdidos",
+      "juntillas",
+      "charco",
+      "ancho"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "De higos a brevas",
+    "masked_phrase": "De higos a ____",
+    "id": 331,
+    "options": [
+      "cuentas",
+      "brevas",
+      "perdidos",
+      "santo"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "De uvas a peras",
+    "masked_phrase": "De uvas a ____",
+    "id": 332,
+    "options": [
+      "peras",
+      "costal",
+      "silla",
+      "magia"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Ni chicha ni limoná",
+    "masked_phrase": "Ni chicha ni ____",
+    "id": 333,
+    "options": [
+      "humos",
+      "aprieta",
+      "limoná",
+      "ruedas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Ni corto ni perezoso",
+    "masked_phrase": "Ni corto ni ____",
+    "id": 334,
+    "options": [
+      "comido",
+      "solas",
+      "perezoso",
+      "pareja"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Ni en sueños",
+    "masked_phrase": "Ni en ____",
+    "id": 335,
+    "options": [
+      "echada",
+      "sueños",
+      "bueyes",
+      "magia"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Ni por asomo",
+    "masked_phrase": "Ni por ____",
+    "id": 336,
+    "options": [
+      "historia",
+      "dientes",
+      "sombrero",
+      "asomo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A trancas y barrancas",
+    "masked_phrase": "A trancas y ____",
+    "id": 337,
+    "options": [
+      "quiera",
+      "reluce",
+      "consigue",
+      "barrancas"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A tontas y a locas",
+    "masked_phrase": "A tontas y a ____",
+    "id": 338,
+    "options": [
+      "historia",
+      "silla",
+      "halla",
+      "locas"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A diestro y siniestro",
+    "masked_phrase": "A diestro y ____",
+    "id": 339,
+    "options": [
+      "cuento",
+      "polvorosa",
+      "siniestro",
+      "beneficio"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A capa y espada",
+    "masked_phrase": "A capa y ____",
+    "id": 340,
+    "options": [
+      "ruedas",
+      "pasiva",
+      "desear",
+      "espada"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A cal y canto",
+    "masked_phrase": "A cal y ____",
+    "id": 341,
+    "options": [
+      "detalle",
+      "toman",
+      "canto",
+      "herida"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A pies juntillas",
+    "masked_phrase": "A pies ____",
+    "id": 342,
+    "options": [
+      "fuerza",
+      "juntillas",
+      "contento",
+      "películas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A duras penas",
+    "masked_phrase": "A duras ____",
+    "id": 343,
+    "options": [
+      "penas",
+      "torcer",
+      "moneda",
+      "cura"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A pedir de boca",
+    "masked_phrase": "A pedir de ____",
+    "id": 344,
+    "options": [
+      "sordos",
+      "boca",
+      "esquina",
+      "rositas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A bombo y platillo",
+    "masked_phrase": "A bombo y ____",
+    "id": 345,
+    "options": [
+      "santiamén",
+      "zapatos",
+      "platillo",
+      "tontos"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A toda costa",
+    "masked_phrase": "A toda ____",
+    "id": 346,
+    "options": [
+      "vuela",
+      "costa",
+      "eres",
+      "pico"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A todo trapo",
+    "masked_phrase": "A todo ____",
+    "id": 347,
+    "options": [
+      "trapo",
+      "trece",
+      "cabo",
+      "arena"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "A la chita callando",
+    "masked_phrase": "A la chita ____",
+    "id": 348,
+    "options": [
+      "novia",
+      "parte",
+      "borda",
+      "callando"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Con pelos y señales",
+    "masked_phrase": "Con pelos y ____",
+    "id": 349,
+    "options": [
+      "historia",
+      "acabar",
+      "lobo",
+      "señales"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Con uñas y dientes",
+    "masked_phrase": "Con uñas y ____",
+    "id": 350,
+    "options": [
+      "varas",
+      "dientes",
+      "tres",
+      "caldo"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Con la música a otra parte",
+    "masked_phrase": "Con la música a otra ____",
+    "id": 351,
+    "options": [
+      "paso",
+      "parte",
+      "pequeña",
+      "yerra"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Contra viento y marea",
+    "masked_phrase": "Contra viento y ____",
+    "id": 352,
+    "options": [
+      "sabe",
+      "pulgas",
+      "paso",
+      "marea"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Sin pena ni gloria",
+    "masked_phrase": "Sin pena ni ____",
+    "id": 353,
+    "options": [
+      "sabe",
+      "palma",
+      "espinas",
+      "gloria"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Sin comerlo ni beberlo",
+    "masked_phrase": "Sin comerlo ni ____",
+    "id": 354,
+    "options": [
+      "daba",
+      "gorda",
+      "pequeña",
+      "beberlo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Sin oficio ni beneficio",
+    "masked_phrase": "Sin oficio ni ____",
+    "id": 355,
+    "options": [
+      "astilla",
+      "sabios",
+      "flautas",
+      "beneficio"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Sin prisa pero sin pausa",
+    "masked_phrase": "Sin prisa pero sin ____",
+    "id": 356,
+    "options": [
+      "pausa",
+      "burro",
+      "roto",
+      "flan"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "De cabo a rabo",
+    "masked_phrase": "De cabo a ____",
+    "id": 357,
+    "options": [
+      "pavo",
+      "cuello",
+      "mano",
+      "rabo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "De buenas a primeras",
+    "masked_phrase": "De buenas a ____",
+    "id": 358,
+    "options": [
+      "primeras",
+      "liebre",
+      "cabeza",
+      "películas"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "De mal en peor",
+    "masked_phrase": "De mal en ____",
+    "id": 359,
+    "options": [
+      "roto",
+      "quien",
+      "pelos",
+      "peor"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "De punta en blanco",
+    "masked_phrase": "De punta en ____",
+    "id": 360,
+    "options": [
+      "blanco",
+      "mesa",
+      "chino",
+      "otorga"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "De vuelta y media",
+    "masked_phrase": "De vuelta y ____",
+    "id": 361,
+    "options": [
+      "media",
+      "acabado",
+      "botón",
+      "pelos"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "En un abrir y cerrar de ojos",
+    "masked_phrase": "En un abrir y cerrar de ____",
+    "id": 362,
+    "options": [
+      "obra",
+      "duro",
+      "grano",
+      "ojos"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "En menos que canta un gallo",
+    "masked_phrase": "En menos que canta un ____",
+    "id": 363,
+    "options": [
+      "gallo",
+      "está",
+      "chino",
+      "quiera"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "En un santiamén",
+    "masked_phrase": "En un ____",
+    "id": 364,
+    "options": [
+      "mojado",
+      "Martín",
+      "santiamén",
+      "mordedor"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "En un plis plas",
+    "masked_phrase": "En un plis ____",
+    "id": 365,
+    "options": [
+      "caro",
+      "plas",
+      "lince",
+      "sopa"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "En carne y hueso",
+    "masked_phrase": "En carne y ____",
+    "id": 366,
+    "options": [
+      "hueso",
+      "diablo",
+      "loro",
+      "cebolla"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "En cuerpo y alma",
+    "masked_phrase": "En cuerpo y ____",
+    "id": 367,
+    "options": [
+      "alma",
+      "correr",
+      "peor",
+      "larga"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "En resumidas cuentas",
+    "masked_phrase": "En resumidas ____",
+    "id": 368,
+    "options": [
+      "agosto",
+      "asador",
+      "cuentas",
+      "ingenio"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Entre pitos y flautas",
+    "masked_phrase": "Entre pitos y ____",
+    "id": 369,
+    "options": [
+      "prisa",
+      "andando",
+      "oreja",
+      "flautas"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Por si las moscas",
+    "masked_phrase": "Por si las ____",
+    "id": 370,
+    "options": [
+      "sopa",
+      "palo",
+      "moscas",
+      "arriba"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Por los pelos",
+    "masked_phrase": "Por los ____",
+    "id": 371,
+    "options": [
+      "valiente",
+      "Roma",
+      "tortilla",
+      "pelos"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Por arte de magia",
+    "masked_phrase": "Por arte de ____",
+    "id": 372,
+    "options": [
+      "coco",
+      "paga",
+      "asador",
+      "magia"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Por amor al arte",
+    "masked_phrase": "Por amor al ____",
+    "id": 373,
+    "options": [
+      "humos",
+      "malo",
+      "arte",
+      "nunca"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Por activa y por pasiva",
+    "masked_phrase": "Por activa y por ____",
+    "id": 374,
+    "options": [
+      "ramas",
+      "mojado",
+      "nueva",
+      "pasiva"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Por todo lo alto",
+    "masked_phrase": "Por todo lo ____",
+    "id": 375,
+    "options": [
+      "vivir",
+      "pajar",
+      "liebre",
+      "alto"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Por tierra, mar y aire",
+    "masked_phrase": "Por tierra, mar y ____",
+    "id": 376,
+    "options": [
+      "bacalao",
+      "partes",
+      "agosto",
+      "aire"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Hasta la cocina",
+    "masked_phrase": "Hasta la ____",
+    "id": 377,
+    "options": [
+      "otorga",
+      "mordedor",
+      "cocina",
+      "torcer"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Hasta en la sopa",
+    "masked_phrase": "Hasta en la ____",
+    "id": 378,
+    "options": [
+      "sopa",
+      "llaga",
+      "santo",
+      "manta"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Más claro que el agua",
+    "masked_phrase": "Más claro que el ____",
+    "id": 379,
+    "options": [
+      "caída",
+      "gallo",
+      "quiera",
+      "agua"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Más largo que un día sin pan",
+    "masked_phrase": "Más ____ que un día sin pan",
+    "id": 380,
+    "options": [
+      "cortes",
+      "guinda",
+      "largo",
+      "daba"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Más fresco que una lechuga",
+    "masked_phrase": "Más fresco que una ____",
+    "id": 381,
+    "options": [
+      "mordedor",
+      "lechuga",
+      "botas",
+      "astilla"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Más bueno que el pan",
+    "masked_phrase": "Más ____ que el pan",
+    "id": 382,
+    "options": [
+      "norte",
+      "bueno",
+      "peras",
+      "tiesto"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Más contento que unas castañuelas",
+    "masked_phrase": "Más contento que unas ____",
+    "id": 383,
+    "options": [
+      "sombrero",
+      "castañuelas",
+      "barrancas",
+      "laureles"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Expresiones populares",
+    "phrase": "Más vale que sobre que que falte",
+    "masked_phrase": "Más vale que sobre que que ____",
+    "id": 384,
+    "options": [
+      "falte",
+      "hora",
+      "diana",
+      "mano"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se me ha ido el santo al cielo",
+    "masked_phrase": "Se me ha ido el santo al ____",
+    "id": 385,
+    "options": [
+      "gato",
+      "cielo",
+      "siente",
+      "luna"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Me suena a chino",
+    "masked_phrase": "Me suena a ____",
+    "id": 386,
+    "options": [
+      "borda",
+      "monte",
+      "marcha",
+      "chino"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Me importa un comino",
+    "masked_phrase": "Me importa un ____",
+    "id": 387,
+    "options": [
+      "comino",
+      "polvorosa",
+      "rabia",
+      "cazarlo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Me lo sé de memoria",
+    "masked_phrase": "Me lo sé de ____",
+    "id": 388,
+    "options": [
+      "listo",
+      "limoná",
+      "memoria",
+      "tres"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Me pillas en frío",
+    "masked_phrase": "Me pillas en ____",
+    "id": 389,
+    "options": [
+      "caída",
+      "frío",
+      "cuello",
+      "huesos"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Me has dejado a cuadros",
+    "masked_phrase": "Me has dejado a ____",
+    "id": 390,
+    "options": [
+      "peor",
+      "correr",
+      "cuadros",
+      "lechuga"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Me río por no llorar",
+    "masked_phrase": "Me río por no ____",
+    "id": 391,
+    "options": [
+      "herida",
+      "arde",
+      "llorar",
+      "comino"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Me quito el sombrero",
+    "masked_phrase": "Me quito el ____",
+    "id": 392,
+    "options": [
+      "venir",
+      "remedios",
+      "ventana",
+      "sombrero"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Me sabe a poco",
+    "masked_phrase": "Me sabe a ____",
+    "id": 393,
+    "options": [
+      "pecho",
+      "echada",
+      "cojo",
+      "poco"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Me sabe mal",
+    "masked_phrase": "Me ____ mal",
+    "id": 394,
+    "options": [
+      "charco",
+      "falso",
+      "sabe",
+      "nubes"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se acabó lo que se daba",
+    "masked_phrase": "Se acabó lo que se ____",
+    "id": 395,
+    "options": [
+      "cuento",
+      "acabado",
+      "broma",
+      "daba"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se veía venir",
+    "masked_phrase": "Se veía ____",
+    "id": 396,
+    "options": [
+      "mato",
+      "broma",
+      "venir",
+      "yerra"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se te ve el plumero",
+    "masked_phrase": "Se te ve el ____",
+    "id": 397,
+    "options": [
+      "abuela",
+      "sano",
+      "plumero",
+      "pasiva"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se le ha subido a la cabeza",
+    "masked_phrase": "Se le ha subido a la ____",
+    "id": 398,
+    "options": [
+      "hueso",
+      "muerto",
+      "negra",
+      "cabeza"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha quedado en agua de borrajas",
+    "masked_phrase": "Se ha quedado en agua de ____",
+    "id": 399,
+    "options": [
+      "bueyes",
+      "borrajas",
+      "juntillas",
+      "botas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha liado la manta a la cabeza",
+    "masked_phrase": "Se ha liado la manta a la ____",
+    "id": 400,
+    "options": [
+      "cabeza",
+      "partes",
+      "guinda",
+      "todas"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha ido de madre",
+    "masked_phrase": "Se ha ido de ____",
+    "id": 401,
+    "options": [
+      "velas",
+      "atrás",
+      "madre",
+      "canto"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha pasado de la raya",
+    "masked_phrase": "Se ha pasado de la ____",
+    "id": 402,
+    "options": [
+      "liebre",
+      "curar",
+      "raya",
+      "pesetas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha venido arriba",
+    "masked_phrase": "Se ha venido ____",
+    "id": 403,
+    "options": [
+      "arriba",
+      "comido",
+      "botas",
+      "tres"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha quedado tan ancho",
+    "masked_phrase": "Se ha quedado tan ____",
+    "id": 404,
+    "options": [
+      "ancho",
+      "Martín",
+      "tortilla",
+      "perezoso"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha hecho el sueco",
+    "masked_phrase": "Se ha hecho el ____",
+    "id": 405,
+    "options": [
+      "ventana",
+      "sueco",
+      "tres",
+      "mundo"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha lavado las manos",
+    "masked_phrase": "Se ha lavado las ____",
+    "id": 406,
+    "options": [
+      "vieres",
+      "manos",
+      "cable",
+      "delante"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha puesto las botas",
+    "masked_phrase": "Se ha puesto las ____",
+    "id": 407,
+    "options": [
+      "narices",
+      "botas",
+      "vueltas",
+      "queda"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha quedado frito",
+    "masked_phrase": "Se ha quedado ____",
+    "id": 408,
+    "options": [
+      "guardia",
+      "frito",
+      "peluquín",
+      "saco"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha puesto como un tomate",
+    "masked_phrase": "Se ha puesto como un ____",
+    "id": 409,
+    "options": [
+      "vuela",
+      "partes",
+      "tomate",
+      "cara"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha quedado sin palabras",
+    "masked_phrase": "Se ha quedado sin ____",
+    "id": 410,
+    "options": [
+      "Pasar",
+      "cuadros",
+      "palabras",
+      "cuento"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Se ha quedado para vestir santos",
+    "masked_phrase": "Se ha quedado para vestir ____",
+    "id": 411,
+    "options": [
+      "santos",
+      "cuesta",
+      "diablo",
+      "letras"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "La cosa tiene miga",
+    "masked_phrase": "La cosa tiene ____",
+    "id": 412,
+    "options": [
+      "últimas",
+      "miga",
+      "santo",
+      "magia"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "La cosa va para largo",
+    "masked_phrase": "La cosa va para ____",
+    "id": 413,
+    "options": [
+      "llorar",
+      "bollos",
+      "largo",
+      "cable"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "La cosa está que arde",
+    "masked_phrase": "La cosa está que ____",
+    "id": 414,
+    "options": [
+      "arde",
+      "varas",
+      "velas",
+      "desear"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "La suerte está echada",
+    "masked_phrase": "La suerte está ____",
+    "id": 415,
+    "options": [
+      "otorga",
+      "echada",
+      "diente",
+      "pañuelo"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "La procesión va por dentro",
+    "masked_phrase": "La procesión va por ____",
+    "id": 416,
+    "options": [
+      "dentro",
+      "callando",
+      "calma",
+      "cebolla"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "El mundo es un pañuelo",
+    "masked_phrase": "El mundo es un ____",
+    "id": 417,
+    "options": [
+      "mojado",
+      "vueltas",
+      "pañuelo",
+      "llorar"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "El papel lo aguanta todo",
+    "masked_phrase": "El papel lo aguanta ____",
+    "id": 418,
+    "options": [
+      "cielo",
+      "muerto",
+      "todo",
+      "huye"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "El que faltaba para el duro",
+    "masked_phrase": "El que faltaba para el ____",
+    "id": 419,
+    "options": [
+      "esquina",
+      "volando",
+      "pegar",
+      "duro"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "El que no corre, vuela",
+    "masked_phrase": "El que no corre, ____",
+    "id": 420,
+    "options": [
+      "caro",
+      "lengua",
+      "gorda",
+      "vuela"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Eso es otra historia",
+    "masked_phrase": "Eso es otra ____",
+    "id": 421,
+    "options": [
+      "huesos",
+      "historia",
+      "charco",
+      "sucios"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Eso es agua pasada",
+    "masked_phrase": "Eso es agua ____",
+    "id": 422,
+    "options": [
+      "frente",
+      "fuego",
+      "tontos",
+      "pasada"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Eso es otro cantar",
+    "masked_phrase": "Eso es otro ____",
+    "id": 423,
+    "options": [
+      "caída",
+      "andando",
+      "venir",
+      "cantar"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Eso no viene a cuento",
+    "masked_phrase": "Eso no viene a ____",
+    "id": 424,
+    "options": [
+      "hoja",
+      "guinda",
+      "cuento",
+      "correr"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Eso no tiene vuelta de hoja",
+    "masked_phrase": "Eso no tiene vuelta de ____",
+    "id": 425,
+    "options": [
+      "halla",
+      "visto",
+      "hoja",
+      "tres"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Eso cuesta un ojo de la cara",
+    "masked_phrase": "Eso cuesta un ojo de la ____",
+    "id": 426,
+    "options": [
+      "marcha",
+      "vida",
+      "cara",
+      "males"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Eso está chupado",
+    "masked_phrase": "Eso está ____",
+    "id": 427,
+    "options": [
+      "espalda",
+      "quien",
+      "charco",
+      "chupado"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Eso va a misa",
+    "masked_phrase": "Eso va a ____",
+    "id": 428,
+    "options": [
+      "mejor",
+      "ciego",
+      "misa",
+      "larga"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Esto no hay quien lo aguante",
+    "masked_phrase": "Esto no hay quien lo ____",
+    "id": 429,
+    "options": [
+      "narices",
+      "aguante",
+      "alas",
+      "pavo"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Esto es el cuento de nunca acabar",
+    "masked_phrase": "Esto es el cuento de nunca ____",
+    "id": 430,
+    "options": [
+      "mayo",
+      "rayo",
+      "lengua",
+      "acabar"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No me cuentes películas",
+    "masked_phrase": "No me cuentes ____",
+    "id": 431,
+    "options": [
+      "escrito",
+      "abierta",
+      "memoria",
+      "películas"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No me vendas la moto",
+    "masked_phrase": "No me vendas la ____",
+    "id": 432,
+    "options": [
+      "llorar",
+      "tortas",
+      "señales",
+      "moto"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No me tomes el pelo",
+    "masked_phrase": "No me tomes el ____",
+    "id": 433,
+    "options": [
+      "pelo",
+      "sordos",
+      "norte",
+      "larga"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No me toques las narices",
+    "masked_phrase": "No me toques las ____",
+    "id": 434,
+    "options": [
+      "carro",
+      "Babia",
+      "narices",
+      "larga"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No me calientes la cabeza",
+    "masked_phrase": "No me calientes la ____",
+    "id": 435,
+    "options": [
+      "cabeza",
+      "cantante",
+      "rositas",
+      "prisa"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No me busques las cosquillas",
+    "masked_phrase": "No me busques las ____",
+    "id": 436,
+    "options": [
+      "borrajas",
+      "cosquillas",
+      "silencio",
+      "cuadros"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No le des más vueltas",
+    "masked_phrase": "No le des más ____",
+    "id": 437,
+    "options": [
+      "vueltas",
+      "valiente",
+      "sueños",
+      "botón"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No le busques tres pies al gato",
+    "masked_phrase": "No le busques tres pies al ____",
+    "id": 438,
+    "options": [
+      "nada",
+      "maestro",
+      "gato",
+      "echará"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No hay tutía",
+    "masked_phrase": "No hay ____",
+    "id": 439,
+    "options": [
+      "halla",
+      "trece",
+      "bollos",
+      "tutía"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No hay vuelta atrás",
+    "masked_phrase": "No hay vuelta ____",
+    "id": 440,
+    "options": [
+      "mojado",
+      "Vamos",
+      "rostro",
+      "atrás"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No es para tanto",
+    "masked_phrase": "No es para ____",
+    "id": 441,
+    "options": [
+      "tanto",
+      "pausa",
+      "rostro",
+      "cura"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No está de más",
+    "masked_phrase": "No ____ de más",
+    "id": 442,
+    "options": [
+      "Babia",
+      "bailan",
+      "está",
+      "pesetas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No está nada mal",
+    "masked_phrase": "No está ____ mal",
+    "id": 443,
+    "options": [
+      "nada",
+      "ruedas",
+      "cazarlo",
+      "nueces"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No es moco de pavo",
+    "masked_phrase": "No es moco de ____",
+    "id": 444,
+    "options": [
+      "todos",
+      "pavo",
+      "pasiva",
+      "llorar"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No caber en sí de gozo",
+    "masked_phrase": "No caber en sí de ____",
+    "id": 445,
+    "options": [
+      "yerra",
+      "marcha",
+      "sucios",
+      "gozo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No todo está perdido",
+    "masked_phrase": "No todo está ____",
+    "id": 446,
+    "options": [
+      "sano",
+      "cabra",
+      "perdido",
+      "lanza"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te cortes",
+    "masked_phrase": "No te ____",
+    "id": 447,
+    "options": [
+      "vino",
+      "cortes",
+      "chasco",
+      "peteneras"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te hagas el sueco",
+    "masked_phrase": "No te hagas el ____",
+    "id": 448,
+    "options": [
+      "sueco",
+      "echará",
+      "torcer",
+      "maestro"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te hagas de rogar",
+    "masked_phrase": "No te hagas de ____",
+    "id": 449,
+    "options": [
+      "valiente",
+      "jardín",
+      "rogar",
+      "sabe"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te comas el coco",
+    "masked_phrase": "No te comas el ____",
+    "id": 450,
+    "options": [
+      "frío",
+      "floja",
+      "queda",
+      "coco"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te duermas en los laureles",
+    "masked_phrase": "No te duermas en los ____",
+    "id": 451,
+    "options": [
+      "tontos",
+      "laureles",
+      "humano",
+      "dentro"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te subas a la parra",
+    "masked_phrase": "No te subas a la ____",
+    "id": 452,
+    "options": [
+      "gallo",
+      "cuadros",
+      "parra",
+      "vencido"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te vayas por las ramas",
+    "masked_phrase": "No te vayas por las ____",
+    "id": 453,
+    "options": [
+      "poco",
+      "aire",
+      "ramas",
+      "arde"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te quedes con las ganas",
+    "masked_phrase": "No te quedes con las ____",
+    "id": 454,
+    "options": [
+      "huye",
+      "ganas",
+      "agua",
+      "vida"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te pases de listo",
+    "masked_phrase": "No te pases de ____",
+    "id": 455,
+    "options": [
+      "listo",
+      "orégano",
+      "menos",
+      "chino"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te tires a la piscina",
+    "masked_phrase": "No te tires a la ____",
+    "id": 456,
+    "options": [
+      "acabar",
+      "piscina",
+      "ayuda",
+      "juntan"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te metas en un jardín",
+    "masked_phrase": "No te metas en un ____",
+    "id": 457,
+    "options": [
+      "tortas",
+      "ganas",
+      "jardín",
+      "fuerza"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "No te pongas la venda antes de la herida",
+    "masked_phrase": "No te pongas la venda antes de la ____",
+    "id": 458,
+    "options": [
+      "alto",
+      "equivoca",
+      "herida",
+      "pesetas"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Vamos al lío",
+    "masked_phrase": "____ al lío",
+    "id": 459,
+    "options": [
+      "Vamos",
+      "rotos",
+      "mama",
+      "mesa"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Vamos por partes",
+    "masked_phrase": "Vamos por ____",
+    "id": 460,
+    "options": [
+      "partes",
+      "estribos",
+      "mayo",
+      "cojo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Vamos viento en popa",
+    "masked_phrase": "Vamos viento en ____",
+    "id": 461,
+    "options": [
+      "cortas",
+      "pañuelo",
+      "popa",
+      "marcha"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Vamos de mal en peor",
+    "masked_phrase": "Vamos de mal en ____",
+    "id": 462,
+    "options": [
+      "truenos",
+      "bastan",
+      "peor",
+      "pasada"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Vaya por delante",
+    "masked_phrase": "Vaya por ____",
+    "id": 463,
+    "options": [
+      "costa",
+      "nada",
+      "mariposa",
+      "delante"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Vaya con Dios",
+    "masked_phrase": "Vaya con ____",
+    "id": 464,
+    "options": [
+      "gloria",
+      "Dios",
+      "volando",
+      "truenos"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Hasta aquí hemos llegado",
+    "masked_phrase": "Hasta aquí hemos ____",
+    "id": 465,
+    "options": [
+      "arte",
+      "llegado",
+      "pescadores",
+      "pajar"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Ya era hora",
+    "masked_phrase": "Ya era ____",
+    "id": 466,
+    "options": [
+      "corazón",
+      "torcer",
+      "hora",
+      "yerra"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Ya te digo",
+    "masked_phrase": "Ya te ____",
+    "id": 467,
+    "options": [
+      "digo",
+      "males",
+      "quién",
+      "peor"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Ahora o nunca",
+    "masked_phrase": "Ahora o ____",
+    "id": 468,
+    "options": [
+      "carro",
+      "gallina",
+      "nunca",
+      "tres"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "A buenas horas, mangas verdes",
+    "masked_phrase": "A buenas horas, mangas ____",
+    "id": 469,
+    "options": [
+      "maestro",
+      "verdes",
+      "santos",
+      "locas"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "A verlas venir",
+    "masked_phrase": "A verlas ____",
+    "id": 470,
+    "options": [
+      "verano",
+      "sabe",
+      "venir",
+      "pedestal"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "A palo seco",
+    "masked_phrase": "A palo ____",
+    "id": 471,
+    "options": [
+      "truenos",
+      "seco",
+      "blanco",
+      "pastel"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "A ojo de buen cubero",
+    "masked_phrase": "A ojo de buen ____",
+    "id": 472,
+    "options": [
+      "perdido",
+      "vida",
+      "cubero",
+      "frío"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "A la vuelta de la esquina",
+    "masked_phrase": "A la vuelta de la ____",
+    "id": 473,
+    "options": [
+      "palabras",
+      "esquina",
+      "santiamén",
+      "abasto"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "A la orden del día",
+    "masked_phrase": "A la ____ del día",
+    "id": 474,
+    "options": [
+      "cuernos",
+      "cuerdas",
+      "orden",
+      "platillo"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Al pie de la letra",
+    "masked_phrase": "Al pie de la ____",
+    "id": 475,
+    "options": [
+      "ojos",
+      "pavo",
+      "juntan",
+      "letra"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Al pie del cañón",
+    "masked_phrase": "Al pie del ____",
+    "id": 476,
+    "options": [
+      "labios",
+      "botas",
+      "cañón",
+      "sayo"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Al fin y al cabo",
+    "masked_phrase": "Al fin y al ____",
+    "id": 477,
+    "options": [
+      "quien",
+      "cabo",
+      "astilla",
+      "colmos"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Aquí hay gato encerrado",
+    "masked_phrase": "Aquí hay gato ____",
+    "id": 478,
+    "options": [
+      "espinas",
+      "toalla",
+      "siniestro",
+      "encerrado"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Aquí te pillo, aquí te mato",
+    "masked_phrase": "Aquí te pillo, aquí te ____",
+    "id": 479,
+    "options": [
+      "bailado",
+      "arte",
+      "mato",
+      "toman"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Aquí no ha pasado nada",
+    "masked_phrase": "Aquí no ha pasado ____",
+    "id": 480,
+    "options": [
+      "chico",
+      "mano",
+      "nada",
+      "partes"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Aquí cada uno va a lo suyo",
+    "masked_phrase": "Aquí cada uno va a lo ____",
+    "id": 481,
+    "options": [
+      "suyo",
+      "botón",
+      "acabar",
+      "casa"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Bueno, bonito y barato",
+    "masked_phrase": "Bueno, bonito y ____",
+    "id": 482,
+    "options": [
+      "muerto",
+      "palma",
+      "barato",
+      "zapatos"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Cada dos por tres",
+    "masked_phrase": "Cada dos por ____",
+    "id": 483,
+    "options": [
+      "tres",
+      "cura",
+      "ventana",
+      "diente"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Cada cual a lo suyo",
+    "masked_phrase": "Cada cual a lo ____",
+    "id": 484,
+    "options": [
+      "diablo",
+      "echada",
+      "guinda",
+      "suyo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Como quien no quiere la cosa",
+    "masked_phrase": "Como quien no quiere la ____",
+    "id": 485,
+    "options": [
+      "liebre",
+      "caro",
+      "echará",
+      "cosa"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Como si nada",
+    "masked_phrase": "Como si ____",
+    "id": 486,
+    "options": [
+      "bueno",
+      "guardia",
+      "caro",
+      "nada"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Como anillo al dedo",
+    "masked_phrase": "Como anillo al ____",
+    "id": 487,
+    "options": [
+      "pino",
+      "atrás",
+      "cabeza",
+      "dedo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Con la boca pequeña",
+    "masked_phrase": "Con la boca ____",
+    "id": 488,
+    "options": [
+      "cojo",
+      "arrastre",
+      "pequeña",
+      "pasada"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Con el corazón en la mano",
+    "masked_phrase": "Con el corazón en la ____",
+    "id": 489,
+    "options": [
+      "lugar",
+      "mano",
+      "media",
+      "botón"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Con la soga al cuello",
+    "masked_phrase": "Con la soga al ____",
+    "id": 490,
+    "options": [
+      "menos",
+      "diana",
+      "cuello",
+      "cantar"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Con todas las letras",
+    "masked_phrase": "Con todas las ____",
+    "id": 491,
+    "options": [
+      "parra",
+      "polvorosa",
+      "valiente",
+      "letras"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Con todas las de la ley",
+    "masked_phrase": "Con ____ las de la ley",
+    "id": 492,
+    "options": [
+      "todas",
+      "gallina",
+      "desear",
+      "palo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "De medio pelo",
+    "masked_phrase": "De medio ____",
+    "id": 493,
+    "options": [
+      "botas",
+      "pelo",
+      "largo",
+      "verás"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "De andar por casa",
+    "masked_phrase": "De andar por ____",
+    "id": 494,
+    "options": [
+      "puño",
+      "liebre",
+      "casa",
+      "abasto"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "De pura chiripa",
+    "masked_phrase": "De pura ____",
+    "id": 495,
+    "options": [
+      "puño",
+      "chiripa",
+      "andando",
+      "flote"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "De golpe y porrazo",
+    "masked_phrase": "De golpe y ____",
+    "id": 496,
+    "options": [
+      "porrazo",
+      "queda",
+      "trecho",
+      "espalda"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "De la noche a la mañana",
+    "masked_phrase": "De la noche a la ____",
+    "id": 497,
+    "options": [
+      "palma",
+      "migas",
+      "mañana",
+      "acabar"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Dicho y hecho",
+    "masked_phrase": "Dicho y ____",
+    "id": 498,
+    "options": [
+      "dure",
+      "hecho",
+      "faltaba",
+      "miga"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Dos caras de la misma moneda",
+    "masked_phrase": "Dos caras de la misma ____",
+    "id": 499,
+    "options": [
+      "mango",
+      "peteneras",
+      "labios",
+      "moneda"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "En boca de todos",
+    "masked_phrase": "En boca de ____",
+    "id": 500,
+    "options": [
+      "ingenio",
+      "manga",
+      "gana",
+      "todos"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "En el punto de mira",
+    "masked_phrase": "En el punto de ____",
+    "id": 501,
+    "options": [
+      "vencida",
+      "chupado",
+      "mira",
+      "camino"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "En la cuerda floja",
+    "masked_phrase": "En la cuerda ____",
+    "id": 502,
+    "options": [
+      "mayo",
+      "mariposa",
+      "lechuga",
+      "floja"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "En el séptimo cielo",
+    "masked_phrase": "En el séptimo ____",
+    "id": 503,
+    "options": [
+      "orden",
+      "temprano",
+      "cielo",
+      "remedios"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "En las últimas",
+    "masked_phrase": "En las ____",
+    "id": 504,
+    "options": [
+      "mano",
+      "bueno",
+      "gente",
+      "últimas"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "En los huesos",
+    "masked_phrase": "En los ____",
+    "id": 505,
+    "options": [
+      "lobo",
+      "huesos",
+      "parra",
+      "caída"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "En sus trece",
+    "masked_phrase": "En sus ____",
+    "id": 506,
+    "options": [
+      "trece",
+      "agua",
+      "lince",
+      "beberlo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Entre la vida y la muerte",
+    "masked_phrase": "Entre la vida y la ____",
+    "id": 507,
+    "options": [
+      "muerte",
+      "parra",
+      "aire",
+      "larga"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Hasta el último detalle",
+    "masked_phrase": "Hasta el último ____",
+    "id": 508,
+    "options": [
+      "cuello",
+      "frío",
+      "frito",
+      "detalle"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Lo dicho, dicho está",
+    "masked_phrase": "Lo dicho, dicho ____",
+    "id": 509,
+    "options": [
+      "pegar",
+      "bollo",
+      "moscas",
+      "está"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Lo que faltaba",
+    "masked_phrase": "Lo que ____",
+    "id": 510,
+    "options": [
+      "faltaba",
+      "pared",
+      "miga",
+      "cuesta"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Manos a la obra",
+    "masked_phrase": "Manos a la ____",
+    "id": 511,
+    "options": [
+      "obra",
+      "digo",
+      "dedo",
+      "lechuga"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Mucho ruido y pocas nueces",
+    "masked_phrase": "Mucho ruido y pocas ____",
+    "id": 512,
+    "options": [
+      "nueces",
+      "manguera",
+      "mama",
+      "juntan"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Ni de broma",
+    "masked_phrase": "Ni de ____",
+    "id": 513,
+    "options": [
+      "clavo",
+      "saco",
+      "broma",
+      "nunca"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Ni hablar del peluquín",
+    "masked_phrase": "Ni hablar del ____",
+    "id": 514,
+    "options": [
+      "mundo",
+      "encerrado",
+      "peluquín",
+      "bueno"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Ni más ni menos",
+    "masked_phrase": "Ni más ni ____",
+    "id": 515,
+    "options": [
+      "equivoca",
+      "zanjado",
+      "solas",
+      "menos"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Ni por todo el oro del mundo",
+    "masked_phrase": "Ni por todo el oro del ____",
+    "id": 516,
+    "options": [
+      "flan",
+      "sabe",
+      "traste",
+      "mundo"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Ni un pelo de tonto",
+    "masked_phrase": "Ni un pelo de ____",
+    "id": 517,
+    "options": [
+      "blanca",
+      "tortilla",
+      "Dios",
+      "tonto"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Para colmo de males",
+    "masked_phrase": "Para colmo de ____",
+    "id": 518,
+    "options": [
+      "llamaron",
+      "males",
+      "botas",
+      "mayo"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Para muestra, un botón",
+    "masked_phrase": "Para muestra, un ____",
+    "id": 519,
+    "options": [
+      "botón",
+      "digo",
+      "vino",
+      "todo"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Por la puerta de atrás",
+    "masked_phrase": "Por la puerta de ____",
+    "id": 520,
+    "options": [
+      "astilla",
+      "tanto",
+      "atrás",
+      "está"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Que cada palo aguante su vela",
+    "masked_phrase": "Que cada palo aguante su ____",
+    "id": 521,
+    "options": [
+      "arte",
+      "gloria",
+      "sabios",
+      "vela"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Que sea lo que Dios quiera",
+    "masked_phrase": "Que sea lo que Dios ____",
+    "id": 522,
+    "options": [
+      "felicidad",
+      "quiera",
+      "bailado",
+      "larga"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Que te quiten lo bailado",
+    "masked_phrase": "Que te quiten lo ____",
+    "id": 523,
+    "options": [
+      "piedra",
+      "bailado",
+      "fría",
+      "cielo"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Quien te ha visto y quien te ve",
+    "masked_phrase": "Quien te ha visto y ____ te ve",
+    "id": 524,
+    "options": [
+      "quien",
+      "cantar",
+      "queda",
+      "sueco"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Sobre gustos no hay nada escrito",
+    "masked_phrase": "Sobre gustos no hay nada ____",
+    "id": 525,
+    "options": [
+      "escrito",
+      "perlas",
+      "diablo",
+      "vieres"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Sobre la marcha",
+    "masked_phrase": "Sobre la ____",
+    "id": 526,
+    "options": [
+      "acabar",
+      "marcha",
+      "diente",
+      "cabra"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Una de cal y otra de arena",
+    "masked_phrase": "Una de cal y otra de ____",
+    "id": 527,
+    "options": [
+      "pique",
+      "esquina",
+      "arena",
+      "plomo"
+    ],
+    "answer": 2,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Una cosa es una cosa y otra cosa es otra cosa",
+    "masked_phrase": "Una cosa es una cosa y otra cosa es otra ____",
+    "id": 528,
+    "options": [
+      "cosa",
+      "larga",
+      "espada",
+      "zanjado"
+    ],
+    "answer": 0,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Una vez en la vida",
+    "masked_phrase": "Una vez en la ____",
+    "id": 529,
+    "options": [
+      "calma",
+      "cebolla",
+      "nubes",
+      "vida"
+    ],
+    "answer": 3,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Visto y no visto",
+    "masked_phrase": "Visto y no ____",
+    "id": 530,
+    "options": [
+      "asador",
+      "visto",
+      "varas",
+      "pegar"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  },
+  {
+    "category": "Coloquial",
+    "phrase": "Vive y deja vivir",
+    "masked_phrase": "Vive y deja ____",
+    "id": 531,
+    "options": [
+      "equivoca",
+      "vivir",
+      "bollos",
+      "blanco"
+    ],
+    "answer": 1,
+    "difficulty": "Medio"
+  }
+]

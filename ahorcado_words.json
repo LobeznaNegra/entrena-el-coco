@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "category": "Animales",
+    "word": "ELEFANTE"
+  },
+  {
+    "id": 2,
+    "category": "Animales",
+    "word": "JIRAFA"
+  },
+  {
+    "id": 3,
+    "category": "Animales",
+    "word": "PINGÜINO"
+  },
+  {
+    "id": 4,
+    "category": "Animales",
+    "word": "TIBURÓN"
+  },
+  {
+    "id": 5,
+    "category": "Animales",
+    "word": "DELFÍN"
+  },
+  {
+    "id": 6,
+    "category": "Animales",
+    "word": "MARIPOSA"
+  },
+  {
+    "id": 7,
+    "category": "Animales",
+    "word": "CANGURO"
+  },
+  {
+    "id": 8,
+    "category": "Animales",
+    "word": "ARDILLA"
+  },
+  {
+    "id": 9,
+    "category": "Animales",
+    "word": "CAMELLO"
+  },
+  {
+    "id": 10,
+    "category": "Animales",
+    "word": "LEOPARDO"
+  },
+  {
+    "id": 11,
+    "category": "Animales",
+    "word": "PANTERA"
+  },
+  {
+    "id": 12,
+    "category": "Animales",
+    "word": "GORILA"
+  },
+  {
+    "id": 13,
+    "category": "Animales",
+    "word": "CHIMPANCÉ"
+  },
+  {
+    "id": 14,
+    "category": "Animales",
+    "word": "RINOCERONTE"
+  },
+  {
+    "id": 15,
+    "category": "Animales",
+    "word": "HIPOPÓTAMO"
+  },
+  {
+    "id": 16,
+    "category": "Animales",
+    "word": "COCODRILO"
+  },
+  {
+    "id": 17,
+    "category": "Animales",
+    "word": "IGUANA"
+  },
+  {
+    "id": 18,
+    "category": "Animales",
+    "word": "TORTUGA"
+  },
+  {
+    "id": 19,
+    "category": "Animales",
+    "word": "CABALLITO DE MAR"
+  },
+  {
+    "id": 20,
+    "category": "Animales",
+    "word": "PULPO"
+  },
+  {
+    "id": 21,
+    "category": "Animales",
+    "word": "MEDUSA"
+  },
+  {
+    "id": 22,
+    "category": "Animales",
+    "word": "ÁGUILA"
+  },
+  {
+    "id": 23,
+    "category": "Animales",
+    "word": "BUITRE"
+  },
+  {
+    "id": 24,
+    "category": "Animales",
+    "word": "FLAMENCO"
+  },
+  {
+    "id": 25,
+    "category": "Animales",
+    "word": "AVESTRUZ"
+  },
+  {
+    "id": 26,
+    "category": "Animales",
+    "word": "MURCIÉLAGO"
+  },
+  {
+    "id": 27,
+    "category": "Animales",
+    "word": "ERIZO"
+  },
+  {
+    "id": 28,
+    "category": "Animales",
+    "word": "NUTRIA"
+  },
+  {
+    "id": 29,
+    "category": "Animales",
+    "word": "ORNITORRINCO"
+  },
+  {
+    "id": 30,
+    "category": "Animales",
+    "word": "KOALA"
+  },
+  {
+    "id": 31,
+    "category": "España",
+    "word": "SANTANDER"
+  },
+  {
+    "id": 32,
+    "category": "España",
+    "word": "TORRELAVEGA"
+  },
+  {
+    "id": 33,
+    "category": "España",
+    "word": "CANTABRIA"
+  },
+  {
+    "id": 34,
+    "category": "España",
+    "word": "ASTURIAS"
+  },
+  {
+    "id": 35,
+    "category": "España",
+    "word": "GALICIA"
+  },
+  {
+    "id": 36,
+    "category": "España",
+    "word": "MADRID"
+  },
+  {
+    "id": 37,
+    "category": "España",
+    "word": "BARCELONA"
+  },
+  {
+    "id": 38,
+    "category": "España",
+    "word": "SEVILLA"
+  },
+  {
+    "id": 39,
+    "category": "España",
+    "word": "VALENCIA"
+  },
+  {
+    "id": 40,
+    "category": "España",
+    "word": "ZARAGOZA"
+  },
+  {
+    "id": 41,
+    "category": "España",
+    "word": "GRANADA"
+  },
+  {
+    "id": 42,
+    "category": "España",
+    "word": "CÓRDOBA"
+  },
+  {
+    "id": 43,
+    "category": "España",
+    "word": "SALAMANCA"
+  },
+  {
+    "id": 44,
+    "category": "España",
+    "word": "TOLEDO"
+  },
+  {
+    "id": 45,
+    "category": "España",
+    "word": "SEGOVIA"
+  },
+  {
+    "id": 46,
+    "category": "España",
+    "word": "MÉRIDA"
+  },
+  {
+    "id": 47,
+    "category": "España",
+    "word": "PAMPLONA"
+  },
+  {
+    "id": 48,
+    "category": "España",
+    "word": "BILBAO"
+  },
+  {
+    "id": 49,
+    "category": "España",
+    "word": "ALHAMBRA"
+  },
+  {
+    "id": 50,
+    "category": "España",
+    "word": "SAGRADA FAMILIA"
+  },
+  {
+    "id": 51,
+    "category": "España",
+    "word": "MUSEO DEL PRADO"
+  },
+  {
+    "id": 52,
+    "category": "España",
+    "word": "CAMINO DE SANTIAGO"
+  },
+  {
+    "id": 53,
+    "category": "España",
+    "word": "PICOS DE EUROPA"
+  },
+  {
+    "id": 54,
+    "category": "España",
+    "word": "TEIDE"
+  },
+  {
+    "id": 55,
+    "category": "España",
+    "word": "EBRO"
+  },
+  {
+    "id": 56,
+    "category": "España",
+    "word": "GUADALQUIVIR"
+  },
+  {
+    "id": 57,
+    "category": "España",
+    "word": "MEDITERRÁNEO"
+  },
+  {
+    "id": 58,
+    "category": "España",
+    "word": "ISLAS CANARIAS"
+  },
+  {
+    "id": 59,
+    "category": "España",
+    "word": "ISLAS BALEARES"
+  },
+  {
+    "id": 60,
+    "category": "España",
+    "word": "COSTA BRAVA"
+  },
+  {
+    "id": 61,
+    "category": "Países y ciudades",
+    "word": "PORTUGAL"
+  },
+  {
+    "id": 62,
+    "category": "Países y ciudades",
+    "word": "FRANCIA"
+  },
+  {
+    "id": 63,
+    "category": "Países y ciudades",
+    "word": "ITALIA"
+  },
+  {
+    "id": 64,
+    "category": "Países y ciudades",
+    "word": "ALEMANIA"
+  },
+  {
+    "id": 65,
+    "category": "Países y ciudades",
+    "word": "NORUEGA"
+  },
+  {
+    "id": 66,
+    "category": "Países y ciudades",
+    "word": "SUECIA"
+  },
+  {
+    "id": 67,
+    "category": "Países y ciudades",
+    "word": "FINLANDIA"
+  },
+  {
+    "id": 68,
+    "category": "Países y ciudades",
+    "word": "DINAMARCA"
+  },
+  {
+    "id": 69,
+    "category": "Países y ciudades",
+    "word": "ISLANDIA"
+  },
+  {
+    "id": 70,
+    "category": "Países y ciudades",
+    "word": "IRLANDA"
+  },
+  {
+    "id": 71,
+    "category": "Países y ciudades",
+    "word": "ARGENTINA"
+  },
+  {
+    "id": 72,
+    "category": "Países y ciudades",
+    "word": "BRASIL"
+  },
+  {
+    "id": 73,
+    "category": "Países y ciudades",
+    "word": "MÉXICO"
+  },
+  {
+    "id": 74,
+    "category": "Países y ciudades",
+    "word": "CANADÁ"
+  },
+  {
+    "id": 75,
+    "category": "Países y ciudades",
+    "word": "AUSTRALIA"
+  },
+  {
+    "id": 76,
+    "category": "Países y ciudades",
+    "word": "JAPÓN"
+  },
+  {
+    "id": 77,
+    "category": "Países y ciudades",
+    "word": "TAILANDIA"
+  },
+  {
+    "id": 78,
+    "category": "Países y ciudades",
+    "word": "EGIPTO"
+  },
+  {
+    "id": 79,
+    "category": "Países y ciudades",
+    "word": "MARRUECOS"
+  },
+  {
+    "id": 80,
+    "category": "Países y ciudades",
+    "word": "NUEVA ZELANDA"
+  },
+  {
+    "id": 81,
+    "category": "Países y ciudades",
+    "word": "LONDRES"
+  },
+  {
+    "id": 82,
+    "category": "Países y ciudades",
+    "word": "PARÍS"
+  },
+  {
+    "id": 83,
+    "category": "Países y ciudades",
+    "word": "ROMA"
+  },
+  {
+    "id": 84,
+    "category": "Países y ciudades",
+    "word": "ATENAS"
+  },
+  {
+    "id": 85,
+    "category": "Países y ciudades",
+    "word": "BERLÍN"
+  },
+  {
+    "id": 86,
+    "category": "Países y ciudades",
+    "word": "LISBOA"
+  },
+  {
+    "id": 87,
+    "category": "Países y ciudades",
+    "word": "TOKIO"
+  },
+  {
+    "id": 88,
+    "category": "Países y ciudades",
+    "word": "SIDNEY"
+  },
+  {
+    "id": 89,
+    "category": "Países y ciudades",
+    "word": "BUENOS AIRES"
+  },
+  {
+    "id": 90,
+    "category": "Países y ciudades",
+    "word": "NUEVA YORK"
+  },
+  {
+    "id": 91,
+    "category": "Comida y bebida",
+    "word": "PAELLA"
+  },
+  {
+    "id": 92,
+    "category": "Comida y bebida",
+    "word": "TORTILLA"
+  },
+  {
+    "id": 93,
+    "category": "Comida y bebida",
+    "word": "GAZPACHO"
+  },
+  {
+    "id": 94,
+    "category": "Comida y bebida",
+    "word": "CROQUETAS"
+  },
+  {
+    "id": 95,
+    "category": "Comida y bebida",
+    "word": "CHOCOLATE"
+  },
+  {
+    "id": 96,
+    "category": "Comida y bebida",
+    "word": "MACARRONES"
+  },
+  {
+    "id": 97,
+    "category": "Comida y bebida",
+    "word": "LASAÑA"
+  },
+  {
+    "id": 98,
+    "category": "Comida y bebida",
+    "word": "PIZZA"
+  },
+  {
+    "id": 99,
+    "category": "Comida y bebida",
+    "word": "HAMBURGUESA"
+  },
+  {
+    "id": 100,
+    "category": "Comida y bebida",
+    "word": "ENSALADA"
+  },
+  {
+    "id": 101,
+    "category": "Comida y bebida",
+    "word": "GUACAMOLE"
+  },
+  {
+    "id": 102,
+    "category": "Comida y bebida",
+    "word": "HUMMUS"
+  },
+  {
+    "id": 103,
+    "category": "Comida y bebida",
+    "word": "TOFU"
+  },
+  {
+    "id": 104,
+    "category": "Comida y bebida",
+    "word": "LENTEJAS"
+  },
+  {
+    "id": 105,
+    "category": "Comida y bebida",
+    "word": "GARBANZOS"
+  },
+  {
+    "id": 106,
+    "category": "Comida y bebida",
+    "word": "ALMENDRAS"
+  },
+  {
+    "id": 107,
+    "category": "Comida y bebida",
+    "word": "PISTACHOS"
+  },
+  {
+    "id": 108,
+    "category": "Comida y bebida",
+    "word": "AGUACATE"
+  },
+  {
+    "id": 109,
+    "category": "Comida y bebida",
+    "word": "SANDÍA"
+  },
+  {
+    "id": 110,
+    "category": "Comida y bebida",
+    "word": "MANDARINA"
+  },
+  {
+    "id": 111,
+    "category": "Comida y bebida",
+    "word": "FRAMBUESA"
+  },
+  {
+    "id": 112,
+    "category": "Comida y bebida",
+    "word": "ARÁNDANOS"
+  },
+  {
+    "id": 113,
+    "category": "Comida y bebida",
+    "word": "ESPÁRRAGOS"
+  },
+  {
+    "id": 114,
+    "category": "Comida y bebida",
+    "word": "ALCACHOFA"
+  },
+  {
+    "id": 115,
+    "category": "Comida y bebida",
+    "word": "BERENJENA"
+  },
+  {
+    "id": 116,
+    "category": "Comida y bebida",
+    "word": "CALABACÍN"
+  },
+  {
+    "id": 117,
+    "category": "Comida y bebida",
+    "word": "CAFÉ"
+  },
+  {
+    "id": 118,
+    "category": "Comida y bebida",
+    "word": "LIMONADA"
+  },
+  {
+    "id": 119,
+    "category": "Comida y bebida",
+    "word": "BATIDO"
+  },
+  {
+    "id": 120,
+    "category": "Comida y bebida",
+    "word": "HORCHATA"
+  },
+  {
+    "id": 121,
+    "category": "Cine y series",
+    "word": "TITANIC"
+  },
+  {
+    "id": 122,
+    "category": "Cine y series",
+    "word": "GLADIATOR"
+  },
+  {
+    "id": 123,
+    "category": "Cine y series",
+    "word": "MATRIX"
+  },
+  {
+    "id": 124,
+    "category": "Cine y series",
+    "word": "AVATAR"
+  },
+  {
+    "id": 125,
+    "category": "Cine y series",
+    "word": "CASABLANCA"
+  },
+  {
+    "id": 126,
+    "category": "Cine y series",
+    "word": "PSICOSIS"
+  },
+  {
+    "id": 127,
+    "category": "Cine y series",
+    "word": "ROCKY"
+  },
+  {
+    "id": 128,
+    "category": "Cine y series",
+    "word": "ALIEN"
+  },
+  {
+    "id": 129,
+    "category": "Cine y series",
+    "word": "TERMINATOR"
+  },
+  {
+    "id": 130,
+    "category": "Cine y series",
+    "word": "SUPERMAN"
+  },
+  {
+    "id": 131,
+    "category": "Cine y series",
+    "word": "BATMAN"
+  },
+  {
+    "id": 132,
+    "category": "Cine y series",
+    "word": "SPIDERMAN"
+  },
+  {
+    "id": 133,
+    "category": "Cine y series",
+    "word": "JURASSIC PARK"
+  },
+  {
+    "id": 134,
+    "category": "Cine y series",
+    "word": "REGRESO AL FUTURO"
+  },
+  {
+    "id": 135,
+    "category": "Cine y series",
+    "word": "EL PADRINO"
+  },
+  {
+    "id": 136,
+    "category": "Cine y series",
+    "word": "STAR WARS"
+  },
+  {
+    "id": 137,
+    "category": "Cine y series",
+    "word": "INDIANA JONES"
+  },
+  {
+    "id": 138,
+    "category": "Cine y series",
+    "word": "FORREST GUMP"
+  },
+  {
+    "id": 139,
+    "category": "Cine y series",
+    "word": "HARRY POTTER"
+  },
+  {
+    "id": 140,
+    "category": "Cine y series",
+    "word": "EL SEÑOR DE LOS ANILLOS"
+  },
+  {
+    "id": 141,
+    "category": "Cine y series",
+    "word": "STRANGER THINGS"
+  },
+  {
+    "id": 142,
+    "category": "Cine y series",
+    "word": "BREAKING BAD"
+  },
+  {
+    "id": 143,
+    "category": "Cine y series",
+    "word": "FRIENDS"
+  },
+  {
+    "id": 144,
+    "category": "Cine y series",
+    "word": "LOS SIMPSON"
+  },
+  {
+    "id": 145,
+    "category": "Cine y series",
+    "word": "THE OFFICE"
+  },
+  {
+    "id": 146,
+    "category": "Cine y series",
+    "word": "JUEGO DE TRONOS"
+  },
+  {
+    "id": 147,
+    "category": "Cine y series",
+    "word": "BLACK MIRROR"
+  },
+  {
+    "id": 148,
+    "category": "Cine y series",
+    "word": "SHERLOCK"
+  },
+  {
+    "id": 149,
+    "category": "Cine y series",
+    "word": "THE CROWN"
+  },
+  {
+    "id": 150,
+    "category": "Cine y series",
+    "word": "LA CASA DE PAPEL"
+  },
+  {
+    "id": 151,
+    "category": "Música",
+    "word": "GUITARRA"
+  },
+  {
+    "id": 152,
+    "category": "Música",
+    "word": "PIANO"
+  },
+  {
+    "id": 153,
+    "category": "Música",
+    "word": "VIOLÍN"
+  },
+  {
+    "id": 154,
+    "category": "Música",
+    "word": "SAXOFÓN"
+  },
+  {
+    "id": 155,
+    "category": "Música",
+    "word": "TROMPETA"
+  },
+  {
+    "id": 156,
+    "category": "Música",
+    "word": "BATERÍA"
+  },
+  {
+    "id": 157,
+    "category": "Música",
+    "word": "FLAUTA"
+  },
+  {
+    "id": 158,
+    "category": "Música",
+    "word": "ACORDEÓN"
+  },
+  {
+    "id": 159,
+    "category": "Música",
+    "word": "MICRÓFONO"
+  },
+  {
+    "id": 160,
+    "category": "Música",
+    "word": "CONCIERTO"
+  },
+  {
+    "id": 161,
+    "category": "Música",
+    "word": "MELODÍA"
+  },
+  {
+    "id": 162,
+    "category": "Música",
+    "word": "RITMO"
+  },
+  {
+    "id": 163,
+    "category": "Música",
+    "word": "ARMONÍA"
+  },
+  {
+    "id": 164,
+    "category": "Música",
+    "word": "ESTRIBILLO"
+  },
+  {
+    "id": 165,
+    "category": "Música",
+    "word": "ORQUESTA"
+  },
+  {
+    "id": 166,
+    "category": "Música",
+    "word": "SINFONÍA"
+  },
+  {
+    "id": 168,
+    "category": "Música",
+    "word": "ROCK AND ROLL"
+  },
+  {
+    "id": 169,
+    "category": "Música",
+    "word": "JAZZ"
+  },
+  {
+    "id": 170,
+    "category": "Música",
+    "word": "REGGAE"
+  },
+  {
+    "id": 171,
+    "category": "Música",
+    "word": "SALSA"
+  },
+  {
+    "id": 172,
+    "category": "Música",
+    "word": "TANGO"
+  },
+  {
+    "id": 173,
+    "category": "Música",
+    "word": "BOLERO"
+  },
+  {
+    "id": 174,
+    "category": "Música",
+    "word": "ÓPERA"
+  },
+  {
+    "id": 175,
+    "category": "Música",
+    "word": "BLUES"
+  },
+  {
+    "id": 176,
+    "category": "Música",
+    "word": "PERCUSIÓN"
+  },
+  {
+    "id": 177,
+    "category": "Música",
+    "word": "CANTANTE"
+  },
+  {
+    "id": 178,
+    "category": "Música",
+    "word": "COMPOSITOR"
+  },
+  {
+    "id": 179,
+    "category": "Música",
+    "word": "PARTITURA"
+  },
+  {
+    "id": 180,
+    "category": "Música",
+    "word": "AURICULARES"
+  },
+  {
+    "id": 181,
+    "category": "Ciencia",
+    "word": "ÁTOMO"
+  },
+  {
+    "id": 182,
+    "category": "Ciencia",
+    "word": "MOLÉCULA"
+  },
+  {
+    "id": 183,
+    "category": "Ciencia",
+    "word": "ELECTRÓN"
+  },
+  {
+    "id": 184,
+    "category": "Ciencia",
+    "word": "NEUTRÓN"
+  },
+  {
+    "id": 185,
+    "category": "Ciencia",
+    "word": "PROTÓN"
+  },
+  {
+    "id": 186,
+    "category": "Ciencia",
+    "word": "OXÍGENO"
+  },
+  {
+    "id": 187,
+    "category": "Ciencia",
+    "word": "HIDRÓGENO"
+  },
+  {
+    "id": 188,
+    "category": "Ciencia",
+    "word": "CARBONO"
+  },
+  {
+    "id": 189,
+    "category": "Ciencia",
+    "word": "GRAVEDAD"
+  },
+  {
+    "id": 190,
+    "category": "Ciencia",
+    "word": "ENERGÍA"
+  },
+  {
+    "id": 191,
+    "category": "Ciencia",
+    "word": "GALAXIA"
+  },
+  {
+    "id": 192,
+    "category": "Ciencia",
+    "word": "NEBULOSA"
+  },
+  {
+    "id": 193,
+    "category": "Ciencia",
+    "word": "ASTEROIDE"
+  },
+  {
+    "id": 194,
+    "category": "Ciencia",
+    "word": "COMETA"
+  },
+  {
+    "id": 195,
+    "category": "Ciencia",
+    "word": "SATÉLITE"
+  },
+  {
+    "id": 196,
+    "category": "Ciencia",
+    "word": "TELESCOPIO"
+  },
+  {
+    "id": 197,
+    "category": "Ciencia",
+    "word": "MICROSCOPIO"
+  },
+  {
+    "id": 198,
+    "category": "Ciencia",
+    "word": "BACTERIA"
+  },
+  {
+    "id": 199,
+    "category": "Ciencia",
+    "word": "CÉLULA"
+  },
+  {
+    "id": 200,
+    "category": "Ciencia",
+    "word": "CROMOSOMA"
+  },
+  {
+    "id": 201,
+    "category": "Ciencia",
+    "word": "FOTOSÍNTESIS"
+  },
+  {
+    "id": 202,
+    "category": "Ciencia",
+    "word": "EVAPORACIÓN"
+  },
+  {
+    "id": 203,
+    "category": "Ciencia",
+    "word": "ELECTRICIDAD"
+  },
+  {
+    "id": 204,
+    "category": "Ciencia",
+    "word": "MAGNETISMO"
+  },
+  {
+    "id": 205,
+    "category": "Ciencia",
+    "word": "VELOCIDAD"
+  },
+  {
+    "id": 206,
+    "category": "Ciencia",
+    "word": "TEMPERATURA"
+  },
+  {
+    "id": 207,
+    "category": "Ciencia",
+    "word": "VOLCÁN"
+  },
+  {
+    "id": 208,
+    "category": "Ciencia",
+    "word": "TERREMOTO"
+  },
+  {
+    "id": 209,
+    "category": "Ciencia",
+    "word": "FÓSIL"
+  },
+  {
+    "id": 210,
+    "category": "Ciencia",
+    "word": "ADN"
+  },
+  {
+    "id": 211,
+    "category": "Naturaleza",
+    "word": "CASCADA"
+  },
+  {
+    "id": 212,
+    "category": "Naturaleza",
+    "word": "BOSQUE"
+  },
+  {
+    "id": 213,
+    "category": "Naturaleza",
+    "word": "DESIERTO"
+  },
+  {
+    "id": 214,
+    "category": "Naturaleza",
+    "word": "OCÉANO"
+  },
+  {
+    "id": 215,
+    "category": "Naturaleza",
+    "word": "MONTAÑA"
+  },
+  {
+    "id": 216,
+    "category": "Naturaleza",
+    "word": "GLACIAR"
+  },
+  {
+    "id": 217,
+    "category": "Naturaleza",
+    "word": "ARRECIFE"
+  },
+  {
+    "id": 219,
+    "category": "Naturaleza",
+    "word": "TORMENTA"
+  },
+  {
+    "id": 220,
+    "category": "Naturaleza",
+    "word": "RELÁMPAGO"
+  },
+  {
+    "id": 221,
+    "category": "Naturaleza",
+    "word": "ARCOÍRIS"
+  },
+  {
+    "id": 222,
+    "category": "Naturaleza",
+    "word": "AURORA BOREAL"
+  },
+  {
+    "id": 223,
+    "category": "Naturaleza",
+    "word": "ACANTILADO"
+  },
+  {
+    "id": 224,
+    "category": "Naturaleza",
+    "word": "PENÍNSULA"
+  },
+  {
+    "id": 225,
+    "category": "Naturaleza",
+    "word": "ARCHIPIÉLAGO"
+  },
+  {
+    "id": 226,
+    "category": "Naturaleza",
+    "word": "LAGUNA"
+  },
+  {
+    "id": 227,
+    "category": "Naturaleza",
+    "word": "PANTANO"
+  },
+  {
+    "id": 228,
+    "category": "Naturaleza",
+    "word": "PRADERA"
+  },
+  {
+    "id": 229,
+    "category": "Naturaleza",
+    "word": "SELVA"
+  },
+  {
+    "id": 230,
+    "category": "Naturaleza",
+    "word": "SABANA"
+  },
+  {
+    "id": 231,
+    "category": "Naturaleza",
+    "word": "GIRASOL"
+  },
+  {
+    "id": 232,
+    "category": "Naturaleza",
+    "word": "ORQUÍDEA"
+  },
+  {
+    "id": 233,
+    "category": "Naturaleza",
+    "word": "MARGARITA"
+  },
+  {
+    "id": 234,
+    "category": "Naturaleza",
+    "word": "LAVANDA"
+  },
+  {
+    "id": 235,
+    "category": "Naturaleza",
+    "word": "ROMERO"
+  },
+  {
+    "id": 236,
+    "category": "Naturaleza",
+    "word": "EUCALIPTO"
+  },
+  {
+    "id": 237,
+    "category": "Naturaleza",
+    "word": "SECUOYA"
+  },
+  {
+    "id": 238,
+    "category": "Naturaleza",
+    "word": "BAOBAB"
+  },
+  {
+    "id": 239,
+    "category": "Naturaleza",
+    "word": "NENÚFAR"
+  },
+  {
+    "id": 240,
+    "category": "Naturaleza",
+    "word": "MADRESELVA"
+  },
+  {
+    "id": 241,
+    "category": "Deportes",
+    "word": "FÚTBOL"
+  },
+  {
+    "id": 242,
+    "category": "Deportes",
+    "word": "BALONCESTO"
+  },
+  {
+    "id": 243,
+    "category": "Deportes",
+    "word": "TENIS"
+  },
+  {
+    "id": 244,
+    "category": "Deportes",
+    "word": "ATLETISMO"
+  },
+  {
+    "id": 245,
+    "category": "Deportes",
+    "word": "NATACIÓN"
+  },
+  {
+    "id": 246,
+    "category": "Deportes",
+    "word": "CICLISMO"
+  },
+  {
+    "id": 247,
+    "category": "Deportes",
+    "word": "BOXEO"
+  },
+  {
+    "id": 248,
+    "category": "Deportes",
+    "word": "REMO"
+  },
+  {
+    "id": 249,
+    "category": "Deportes",
+    "word": "SURF"
+  },
+  {
+    "id": 250,
+    "category": "Deportes",
+    "word": "ESQUÍ"
+  },
+  {
+    "id": 251,
+    "category": "Deportes",
+    "word": "VOLEIBOL"
+  },
+  {
+    "id": 252,
+    "category": "Deportes",
+    "word": "BALONMANO"
+  },
+  {
+    "id": 253,
+    "category": "Deportes",
+    "word": "RUGBY"
+  },
+  {
+    "id": 254,
+    "category": "Deportes",
+    "word": "BÉISBOL"
+  },
+  {
+    "id": 255,
+    "category": "Deportes",
+    "word": "HOCKEY"
+  },
+  {
+    "id": 256,
+    "category": "Deportes",
+    "word": "GIMNASIA"
+  },
+  {
+    "id": 257,
+    "category": "Deportes",
+    "word": "MARATÓN"
+  },
+  {
+    "id": 258,
+    "category": "Deportes",
+    "word": "TRIATLÓN"
+  },
+  {
+    "id": 259,
+    "category": "Deportes",
+    "word": "ESCALADA"
+  },
+  {
+    "id": 260,
+    "category": "Deportes",
+    "word": "PATINAJE"
+  },
+  {
+    "id": 261,
+    "category": "Deportes",
+    "word": "PORTERÍA"
+  },
+  {
+    "id": 262,
+    "category": "Deportes",
+    "word": "CANASTA"
+  },
+  {
+    "id": 263,
+    "category": "Deportes",
+    "word": "RAQUETA"
+  },
+  {
+    "id": 264,
+    "category": "Deportes",
+    "word": "ÁRBITRO"
+  },
+  {
+    "id": 265,
+    "category": "Deportes",
+    "word": "ESTADIO"
+  },
+  {
+    "id": 266,
+    "category": "Deportes",
+    "word": "MEDALLA"
+  },
+  {
+    "id": 267,
+    "category": "Deportes",
+    "word": "PODIO"
+  },
+  {
+    "id": 268,
+    "category": "Deportes",
+    "word": "CAMPEONATO"
+  },
+  {
+    "id": 269,
+    "category": "Deportes",
+    "word": "ENTRENAMIENTO"
+  },
+  {
+    "id": 270,
+    "category": "Deportes",
+    "word": "KAYAK"
+  },
+  {
+    "id": 271,
+    "category": "Historia y mitología",
+    "word": "CLEOPATRA"
+  },
+  {
+    "id": 272,
+    "category": "Historia y mitología",
+    "word": "NAPOLEÓN"
+  },
+  {
+    "id": 273,
+    "category": "Historia y mitología",
+    "word": "JULIO CÉSAR"
+  },
+  {
+    "id": 274,
+    "category": "Historia y mitología",
+    "word": "ALEJANDRO MAGNO"
+  },
+  {
+    "id": 275,
+    "category": "Historia y mitología",
+    "word": "CRISTÓBAL COLÓN"
+  },
+  {
+    "id": 276,
+    "category": "Historia y mitología",
+    "word": "JUANA DE ARCO"
+  },
+  {
+    "id": 277,
+    "category": "Historia y mitología",
+    "word": "MARCO POLO"
+  },
+  {
+    "id": 278,
+    "category": "Historia y mitología",
+    "word": "VIKINGOS"
+  },
+  {
+    "id": 279,
+    "category": "Historia y mitología",
+    "word": "ROMANOS"
+  },
+  {
+    "id": 280,
+    "category": "Historia y mitología",
+    "word": "EGIPCIOS"
+  },
+  {
+    "id": 281,
+    "category": "Historia y mitología",
+    "word": "PIRÁMIDES"
+  },
+  {
+    "id": 282,
+    "category": "Historia y mitología",
+    "word": "GLADIADORES"
+  },
+  {
+    "id": 283,
+    "category": "Historia y mitología",
+    "word": "RENACIMIENTO"
+  },
+  {
+    "id": 284,
+    "category": "Historia y mitología",
+    "word": "REVOLUCIÓN FRANCESA"
+  },
+  {
+    "id": 285,
+    "category": "Historia y mitología",
+    "word": "IMPERIO ROMANO"
+  },
+  {
+    "id": 286,
+    "category": "Historia y mitología",
+    "word": "EDAD MEDIA"
+  },
+  {
+    "id": 287,
+    "category": "Historia y mitología",
+    "word": "ZEUS"
+  },
+  {
+    "id": 288,
+    "category": "Historia y mitología",
+    "word": "ATENEA"
+  },
+  {
+    "id": 289,
+    "category": "Historia y mitología",
+    "word": "APOLO"
+  },
+  {
+    "id": 290,
+    "category": "Historia y mitología",
+    "word": "POSEIDÓN"
+  },
+  {
+    "id": 291,
+    "category": "Historia y mitología",
+    "word": "HADES"
+  },
+  {
+    "id": 292,
+    "category": "Historia y mitología",
+    "word": "AFRODITA"
+  },
+  {
+    "id": 293,
+    "category": "Historia y mitología",
+    "word": "HÉRCULES"
+  },
+  {
+    "id": 294,
+    "category": "Historia y mitología",
+    "word": "ODÍN"
+  },
+  {
+    "id": 295,
+    "category": "Historia y mitología",
+    "word": "THOR"
+  },
+  {
+    "id": 296,
+    "category": "Historia y mitología",
+    "word": "LOKI"
+  },
+  {
+    "id": 297,
+    "category": "Historia y mitología",
+    "word": "VALQUIRIA"
+  },
+  {
+    "id": 299,
+    "category": "Historia y mitología",
+    "word": "PEGASO"
+  },
+  {
+    "id": 300,
+    "category": "Historia y mitología",
+    "word": "MINOTAURO"
+  },
+  {
+    "id": 301,
+    "category": "Profesiones",
+    "word": "ARQUITECTO"
+  },
+  {
+    "id": 302,
+    "category": "Profesiones",
+    "word": "CARPINTERO"
+  },
+  {
+    "id": 303,
+    "category": "Profesiones",
+    "word": "ELECTRICISTA"
+  },
+  {
+    "id": 304,
+    "category": "Profesiones",
+    "word": "PERIODISTA"
+  },
+  {
+    "id": 305,
+    "category": "Profesiones",
+    "word": "FOTÓGRAFO"
+  },
+  {
+    "id": 306,
+    "category": "Profesiones",
+    "word": "VETERINARIO"
+  },
+  {
+    "id": 307,
+    "category": "Profesiones",
+    "word": "PROGRAMADOR"
+  },
+  {
+    "id": 308,
+    "category": "Profesiones",
+    "word": "BOMBERO"
+  },
+  {
+    "id": 309,
+    "category": "Profesiones",
+    "word": "PILOTO"
+  },
+  {
+    "id": 310,
+    "category": "Profesiones",
+    "word": "ASTRONAUTA"
+  },
+  {
+    "id": 311,
+    "category": "Profesiones",
+    "word": "COCINERO"
+  },
+  {
+    "id": 312,
+    "category": "Profesiones",
+    "word": "PANADERO"
+  },
+  {
+    "id": 313,
+    "category": "Profesiones",
+    "word": "ENFERMERO"
+  },
+  {
+    "id": 314,
+    "category": "Profesiones",
+    "word": "PROFESOR"
+  },
+  {
+    "id": 315,
+    "category": "Profesiones",
+    "word": "ABOGADO"
+  },
+  {
+    "id": 316,
+    "category": "Profesiones",
+    "word": "JARDINERO"
+  },
+  {
+    "id": 317,
+    "category": "Profesiones",
+    "word": "MECÁNICO"
+  },
+  {
+    "id": 318,
+    "category": "Profesiones",
+    "word": "TRADUCTOR"
+  },
+  {
+    "id": 319,
+    "category": "Profesiones",
+    "word": "DISEÑADOR"
+  },
+  {
+    "id": 320,
+    "category": "Profesiones",
+    "word": "MÚSICO"
+  },
+  {
+    "id": 321,
+    "category": "Profesiones",
+    "word": "ESCRITOR"
+  },
+  {
+    "id": 322,
+    "category": "Profesiones",
+    "word": "CIENTÍFICO"
+  },
+  {
+    "id": 323,
+    "category": "Profesiones",
+    "word": "ARQUEÓLOGO"
+  },
+  {
+    "id": 324,
+    "category": "Profesiones",
+    "word": "BIBLIOTECARIO"
+  },
+  {
+    "id": 325,
+    "category": "Profesiones",
+    "word": "ADMINISTRATIVO"
+  },
+  {
+    "id": 326,
+    "category": "Profesiones",
+    "word": "ENTRENADOR"
+  },
+  {
+    "id": 327,
+    "category": "Profesiones",
+    "word": "SOCORRISTA"
+  },
+  {
+    "id": 328,
+    "category": "Profesiones",
+    "word": "CAMARERO"
+  },
+  {
+    "id": 329,
+    "category": "Profesiones",
+    "word": "DENTISTA"
+  },
+  {
+    "id": 330,
+    "category": "Profesiones",
+    "word": "FISIOTERAPEUTA"
+  },
+  {
+    "id": 331,
+    "category": "Objetos cotidianos",
+    "word": "PARAGUAS"
+  },
+  {
+    "id": 332,
+    "category": "Objetos cotidianos",
+    "word": "MOCHILA"
+  },
+  {
+    "id": 333,
+    "category": "Objetos cotidianos",
+    "word": "ORDENADOR"
+  },
+  {
+    "id": 334,
+    "category": "Objetos cotidianos",
+    "word": "TELÉFONO"
+  },
+  {
+    "id": 335,
+    "category": "Objetos cotidianos",
+    "word": "TECLADO"
+  },
+  {
+    "id": 336,
+    "category": "Objetos cotidianos",
+    "word": "VENTILADOR"
+  },
+  {
+    "id": 337,
+    "category": "Objetos cotidianos",
+    "word": "NEVERA"
+  },
+  {
+    "id": 338,
+    "category": "Objetos cotidianos",
+    "word": "MICROONDAS"
+  },
+  {
+    "id": 339,
+    "category": "Objetos cotidianos",
+    "word": "LAVADORA"
+  },
+  {
+    "id": 340,
+    "category": "Objetos cotidianos",
+    "word": "ASPIRADORA"
+  },
+  {
+    "id": 341,
+    "category": "Objetos cotidianos",
+    "word": "DESPERTADOR"
+  },
+  {
+    "id": 342,
+    "category": "Objetos cotidianos",
+    "word": "ALMOHADA"
+  },
+  {
+    "id": 343,
+    "category": "Objetos cotidianos",
+    "word": "MANTA"
+  },
+  {
+    "id": 344,
+    "category": "Objetos cotidianos",
+    "word": "ESPEJO"
+  },
+  {
+    "id": 345,
+    "category": "Objetos cotidianos",
+    "word": "CEPILLO"
+  },
+  {
+    "id": 346,
+    "category": "Objetos cotidianos",
+    "word": "TIJERAS"
+  },
+  {
+    "id": 347,
+    "category": "Objetos cotidianos",
+    "word": "DESTORNILLADOR"
+  },
+  {
+    "id": 348,
+    "category": "Objetos cotidianos",
+    "word": "LINTERNA"
+  },
+  {
+    "id": 349,
+    "category": "Objetos cotidianos",
+    "word": "CANDADO"
+  },
+  {
+    "id": 350,
+    "category": "Objetos cotidianos",
+    "word": "MALETA"
+  },
+  {
+    "id": 351,
+    "category": "Objetos cotidianos",
+    "word": "CALENDARIO"
+  },
+  {
+    "id": 352,
+    "category": "Objetos cotidianos",
+    "word": "CUADERNO"
+  },
+  {
+    "id": 353,
+    "category": "Objetos cotidianos",
+    "word": "BOLÍGRAFO"
+  },
+  {
+    "id": 355,
+    "category": "Objetos cotidianos",
+    "word": "CARGADOR"
+  },
+  {
+    "id": 356,
+    "category": "Objetos cotidianos",
+    "word": "BOTELLA"
+  },
+  {
+    "id": 357,
+    "category": "Objetos cotidianos",
+    "word": "SARTÉN"
+  },
+  {
+    "id": 358,
+    "category": "Objetos cotidianos",
+    "word": "CUCHARA"
+  },
+  {
+    "id": 359,
+    "category": "Objetos cotidianos",
+    "word": "TENEDOR"
+  },
+  {
+    "id": 360,
+    "category": "Objetos cotidianos",
+    "word": "SERVILLETA"
+  },
+  {
+    "id": 361,
+    "category": "Animales",
+    "word": "JABALÍ"
+  },
+  {
+    "id": 362,
+    "category": "Animales",
+    "word": "ESCARABAJO"
+  },
+  {
+    "id": 363,
+    "category": "Animales",
+    "word": "ALPACA"
+  },
+  {
+    "id": 364,
+    "category": "Animales",
+    "word": "VISÓN"
+  },
+  {
+    "id": 365,
+    "category": "Animales",
+    "word": "SARDINA"
+  },
+  {
+    "id": 366,
+    "category": "Animales",
+    "word": "LUBINA"
+  },
+  {
+    "id": 367,
+    "category": "Animales",
+    "word": "MOFETA"
+  },
+  {
+    "id": 368,
+    "category": "Animales",
+    "word": "COMADREJA"
+  },
+  {
+    "id": 369,
+    "category": "Animales",
+    "word": "DROMEDARIO"
+  },
+  {
+    "id": 370,
+    "category": "Animales",
+    "word": "BARRACUDA"
+  },
+  {
+    "id": 371,
+    "category": "Animales",
+    "word": "HÁMSTER"
+  },
+  {
+    "id": 372,
+    "category": "Animales",
+    "word": "CEBRA"
+  },
+  {
+    "id": 373,
+    "category": "Animales",
+    "word": "BACALAO"
+  },
+  {
+    "id": 374,
+    "category": "Animales",
+    "word": "SALMÓN"
+  },
+  {
+    "id": 375,
+    "category": "Animales",
+    "word": "CHACAL"
+  },
+  {
+    "id": 376,
+    "category": "Animales",
+    "word": "ESCORPIÓN"
+  },
+  {
+    "id": 377,
+    "category": "Animales",
+    "word": "BOQUERÓN"
+  },
+  {
+    "id": 378,
+    "category": "Animales",
+    "word": "ZORZAL"
+  },
+  {
+    "id": 379,
+    "category": "Animales",
+    "word": "GACELA"
+  },
+  {
+    "id": 380,
+    "category": "Animales",
+    "word": "OKAPI"
+  },
+  {
+    "id": 381,
+    "category": "Animales",
+    "word": "YAK"
+  },
+  {
+    "id": 382,
+    "category": "Animales",
+    "word": "LIRÓN"
+  },
+  {
+    "id": 383,
+    "category": "Animales",
+    "word": "ESMEREJÓN"
+  },
+  {
+    "id": 384,
+    "category": "Animales",
+    "word": "MORSA"
+  },
+  {
+    "id": 385,
+    "category": "Animales",
+    "word": "CARACOL"
+  },
+  {
+    "id": 386,
+    "category": "Animales",
+    "word": "PICAPINOS"
+  },
+  {
+    "id": 387,
+    "category": "Animales",
+    "word": "LÉMUR"
+  },
+  {
+    "id": 388,
+    "category": "Animales",
+    "word": "TAPIR"
+  },
+  {
+    "id": 389,
+    "category": "Animales",
+    "word": "TRUCHA"
+  },
+  {
+    "id": 390,
+    "category": "Animales",
+    "word": "PERDIZ"
+  },
+  {
+    "id": 391,
+    "category": "Animales",
+    "word": "ARMADILLO"
+  },
+  {
+    "id": 392,
+    "category": "Animales",
+    "word": "PUERCOESPÍN"
+  },
+  {
+    "id": 393,
+    "category": "Animales",
+    "word": "CIEMPIÉS"
+  },
+  {
+    "id": 394,
+    "category": "Animales",
+    "word": "CABALLA"
+  },
+  {
+    "id": 395,
+    "category": "Animales",
+    "word": "AUTILLO"
+  },
+  {
+    "id": 396,
+    "category": "Animales",
+    "word": "CALAMAR"
+  },
+  {
+    "id": 397,
+    "category": "Animales",
+    "word": "JILGUERO"
+  },
+  {
+    "id": 398,
+    "category": "Animales",
+    "word": "MANTIS"
+  },
+  {
+    "id": 399,
+    "category": "Animales",
+    "word": "POTRO"
+  },
+  {
+    "id": 400,
+    "category": "Animales",
+    "word": "OSTRA"
+  },
+  {
+    "id": 401,
+    "category": "Animales",
+    "word": "TILAPIA"
+  },
+  {
+    "id": 402,
+    "category": "Animales",
+    "word": "HURÓN"
+  },
+  {
+    "id": 403,
+    "category": "Animales",
+    "word": "ANTÍLOPE"
+  },
+  {
+    "id": 404,
+    "category": "Animales",
+    "word": "GAVILÁN"
+  },
+  {
+    "id": 405,
+    "category": "Animales",
+    "word": "ORCA"
+  },
+  {
+    "id": 406,
+    "category": "Animales",
+    "word": "SALMONETE"
+  },
+  {
+    "id": 407,
+    "category": "Animales",
+    "word": "CORZO"
+  },
+  {
+    "id": 408,
+    "category": "Animales",
+    "word": "CARPA"
+  },
+  {
+    "id": 409,
+    "category": "Animales",
+    "word": "SALTAMONTES"
+  },
+  {
+    "id": 410,
+    "category": "Animales",
+    "word": "URRACA"
+  },
+  {
+    "id": 411,
+    "category": "Animales",
+    "word": "RENACUAJO"
+  },
+  {
+    "id": 412,
+    "category": "Animales",
+    "word": "LINCE"
+  },
+  {
+    "id": 413,
+    "category": "Animales",
+    "word": "ANCHOA"
+  },
+  {
+    "id": 414,
+    "category": "Animales",
+    "word": "CASTOR"
+  },
+  {
+    "id": 415,
+    "category": "Ciencia",
+    "word": "FÍSICA"
+  },
+  {
+    "id": 416,
+    "category": "Ciencia",
+    "word": "BARÓMETRO"
+  },
+  {
+    "id": 417,
+    "category": "Ciencia",
+    "word": "HIPÓTESIS"
+  },
+  {
+    "id": 418,
+    "category": "Ciencia",
+    "word": "CLOROPLASTO"
+  },
+  {
+    "id": 419,
+    "category": "Ciencia",
+    "word": "VACUOLA"
+  },
+  {
+    "id": 420,
+    "category": "Ciencia",
+    "word": "VIRUS"
+  },
+  {
+    "id": 421,
+    "category": "Ciencia",
+    "word": "RESONANCIA"
+  },
+  {
+    "id": 422,
+    "category": "Ciencia",
+    "word": "REDUCCIÓN"
+  },
+  {
+    "id": 423,
+    "category": "Ciencia",
+    "word": "SOLIDIFICACIÓN"
+  },
+  {
+    "id": 424,
+    "category": "Ciencia",
+    "word": "LISOSOMA"
+  },
+  {
+    "id": 425,
+    "category": "Ciencia",
+    "word": "HONGO"
+  },
+  {
+    "id": 426,
+    "category": "Ciencia",
+    "word": "INERCIA"
+  },
+  {
+    "id": 427,
+    "category": "Ciencia",
+    "word": "ZOOLOGÍA"
+  },
+  {
+    "id": 428,
+    "category": "Ciencia",
+    "word": "METEOROLOGÍA"
+  },
+  {
+    "id": 429,
+    "category": "Ciencia",
+    "word": "VACUNA"
+  },
+  {
+    "id": 430,
+    "category": "Ciencia",
+    "word": "NEUTRINO"
+  },
+  {
+    "id": 431,
+    "category": "Ciencia",
+    "word": "ACELERACIÓN"
+  },
+  {
+    "id": 432,
+    "category": "Ciencia",
+    "word": "CONDENSACIÓN"
+  },
+  {
+    "id": 433,
+    "category": "Ciencia",
+    "word": "QUARK"
+  },
+  {
+    "id": 434,
+    "category": "Ciencia",
+    "word": "MITOSIS"
+  },
+  {
+    "id": 435,
+    "category": "Ciencia",
+    "word": "LÁSER"
+  },
+  {
+    "id": 436,
+    "category": "Ciencia",
+    "word": "GEOLOGÍA"
+  },
+  {
+    "id": 437,
+    "category": "Ciencia",
+    "word": "ISÓTOPO"
+  },
+  {
+    "id": 438,
+    "category": "Ciencia",
+    "word": "MASA"
+  },
+  {
+    "id": 439,
+    "category": "Ciencia",
+    "word": "TEOREMA"
+  },
+  {
+    "id": 440,
+    "category": "Ciencia",
+    "word": "ANEMÓMETRO"
+  },
+  {
+    "id": 441,
+    "category": "Ciencia",
+    "word": "POTENCIA"
+  },
+  {
+    "id": 442,
+    "category": "Ciencia",
+    "word": "GEN"
+  },
+  {
+    "id": 443,
+    "category": "Ciencia",
+    "word": "FISIOLOGÍA"
+  },
+  {
+    "id": 444,
+    "category": "Ciencia",
+    "word": "ESTADÍSTICA"
+  },
+  {
+    "id": 445,
+    "category": "Ciencia",
+    "word": "ENZIMA"
+  },
+  {
+    "id": 446,
+    "category": "Ciencia",
+    "word": "MATRAZ"
+  },
+  {
+    "id": 447,
+    "category": "Ciencia",
+    "word": "VISCOSIDAD"
+  },
+  {
+    "id": 448,
+    "category": "Ciencia",
+    "word": "FERMENTACIÓN"
+  },
+  {
+    "id": 449,
+    "category": "Ciencia",
+    "word": "QUÍMICA"
+  },
+  {
+    "id": 450,
+    "category": "Ciencia",
+    "word": "REFRACCIÓN"
+  },
+  {
+    "id": 451,
+    "category": "Ciencia",
+    "word": "ASTRONOMÍA"
+  },
+  {
+    "id": 452,
+    "category": "Ciencia",
+    "word": "MANÓMETRO"
+  },
+  {
+    "id": 453,
+    "category": "Ciencia",
+    "word": "ELIPSE"
+  },
+  {
+    "id": 454,
+    "category": "Ciencia",
+    "word": "PALEONTOLOGÍA"
+  },
+  {
+    "id": 455,
+    "category": "Ciencia",
+    "word": "PIPETA"
+  },
+  {
+    "id": 456,
+    "category": "Ciencia",
+    "word": "DESTILACIÓN"
+  },
+  {
+    "id": 457,
+    "category": "Ciencia",
+    "word": "TERMÓMETRO"
+  },
+  {
+    "id": 458,
+    "category": "Ciencia",
+    "word": "VOLUMEN"
+  },
+  {
+    "id": 459,
+    "category": "Ciencia",
+    "word": "ANTICUERPO"
+  },
+  {
+    "id": 460,
+    "category": "Ciencia",
+    "word": "BURETA"
+  },
+  {
+    "id": 461,
+    "category": "Ciencia",
+    "word": "FILTRACIÓN"
+  },
+  {
+    "id": 462,
+    "category": "Ciencia",
+    "word": "AMPLITUD"
+  },
+  {
+    "id": 463,
+    "category": "Ciencia",
+    "word": "HIPÉRBOLA"
+  },
+  {
+    "id": 464,
+    "category": "Ciencia",
+    "word": "SISMOLOGÍA"
+  },
+  {
+    "id": 465,
+    "category": "Ciencia",
+    "word": "AMINOÁCIDO"
+  },
+  {
+    "id": 466,
+    "category": "Ciencia",
+    "word": "ANATOMÍA"
+  },
+  {
+    "id": 467,
+    "category": "Ciencia",
+    "word": "ION"
+  },
+  {
+    "id": 468,
+    "category": "Ciencia",
+    "word": "MEIOSIS"
+  },
+  {
+    "id": 469,
+    "category": "Cine y series",
+    "word": "SMALLVILLE"
+  },
+  {
+    "id": 470,
+    "category": "Cine y series",
+    "word": "CHEERS"
+  },
+  {
+    "id": 471,
+    "category": "Cine y series",
+    "word": "CATWOMAN"
+  },
+  {
+    "id": 472,
+    "category": "Cine y series",
+    "word": "SOBRENATURAL"
+  },
+  {
+    "id": 473,
+    "category": "Cine y series",
+    "word": "MADAGASCAR"
+  },
+  {
+    "id": 474,
+    "category": "Cine y series",
+    "word": "AQUAMAN"
+  },
+  {
+    "id": 475,
+    "category": "Cine y series",
+    "word": "WONDER WOMAN"
+  },
+  {
+    "id": 476,
+    "category": "Cine y series",
+    "word": "ELEMENTAL"
+  },
+  {
+    "id": 477,
+    "category": "Cine y series",
+    "word": "DUMBO"
+  },
+  {
+    "id": 478,
+    "category": "Cine y series",
+    "word": "WESTWORLD"
+  },
+  {
+    "id": 479,
+    "category": "Cine y series",
+    "word": "LOST"
+  },
+  {
+    "id": 480,
+    "category": "Cine y series",
+    "word": "MEGAMIND"
+  },
+  {
+    "id": 481,
+    "category": "Cine y series",
+    "word": "PINOCHO"
+  },
+  {
+    "id": 482,
+    "category": "Cine y series",
+    "word": "ROBOCOP"
+  },
+  {
+    "id": 483,
+    "category": "Cine y series",
+    "word": "ENCANTO"
+  },
+  {
+    "id": 484,
+    "category": "Cine y series",
+    "word": "EMBRUJADAS"
+  },
+  {
+    "id": 485,
+    "category": "Cine y series",
+    "word": "FARIÑA"
+  },
+  {
+    "id": 486,
+    "category": "Cine y series",
+    "word": "AÍDA"
+  },
+  {
+    "id": 487,
+    "category": "Cine y series",
+    "word": "DEXTER"
+  },
+  {
+    "id": 488,
+    "category": "Cine y series",
+    "word": "GOTHAM"
+  },
+  {
+    "id": 489,
+    "category": "Cine y series",
+    "word": "ÉLITE"
+  },
+  {
+    "id": 490,
+    "category": "Cine y series",
+    "word": "ALADDÍN"
+  },
+  {
+    "id": 491,
+    "category": "Cine y series",
+    "word": "CUÉNTAME"
+  },
+  {
+    "id": 492,
+    "category": "Cine y series",
+    "word": "LOS SOPRANO"
+  },
+  {
+    "id": 493,
+    "category": "Cine y series",
+    "word": "OBÉLIX"
+  },
+  {
+    "id": 494,
+    "category": "Cine y series",
+    "word": "GREMLINS"
+  },
+  {
+    "id": 495,
+    "category": "Cine y series",
+    "word": "SPARTACUS"
+  },
+  {
+    "id": 496,
+    "category": "Cine y series",
+    "word": "VALIENTE"
+  },
+  {
+    "id": 497,
+    "category": "Cine y series",
+    "word": "OUTLANDER"
+  },
+  {
+    "id": 498,
+    "category": "Cine y series",
+    "word": "MAFALDA"
+  },
+  {
+    "id": 499,
+    "category": "Cine y series",
+    "word": "BUFFY"
+  },
+  {
+    "id": 500,
+    "category": "Cine y series",
+    "word": "LUTHER"
+  },
+  {
+    "id": 501,
+    "category": "Cine y series",
+    "word": "TROLLS"
+  },
+  {
+    "id": 502,
+    "category": "Cine y series",
+    "word": "CORALINE"
+  },
+  {
+    "id": 503,
+    "category": "Cine y series",
+    "word": "HANNIBAL"
+  },
+  {
+    "id": 504,
+    "category": "Cine y series",
+    "word": "LUCA"
+  },
+  {
+    "id": 505,
+    "category": "Cine y series",
+    "word": "FRASIER"
+  },
+  {
+    "id": 506,
+    "category": "Cine y series",
+    "word": "ANTIDISTURBIOS"
+  },
+  {
+    "id": 507,
+    "category": "Cine y series",
+    "word": "IRON MAN"
+  },
+  {
+    "id": 508,
+    "category": "Cine y series",
+    "word": "ANASTASIA"
+  },
+  {
+    "id": 509,
+    "category": "Cine y series",
+    "word": "FLEABAG"
+  },
+  {
+    "id": 510,
+    "category": "Cine y series",
+    "word": "TRUE DETECTIVE"
+  },
+  {
+    "id": 511,
+    "category": "Cine y series",
+    "word": "SEVERANCE"
+  },
+  {
+    "id": 512,
+    "category": "Cine y series",
+    "word": "CREMATORIO"
+  },
+  {
+    "id": 513,
+    "category": "Cine y series",
+    "word": "TARZÁN"
+  },
+  {
+    "id": 514,
+    "category": "Cine y series",
+    "word": "GARFIELD"
+  },
+  {
+    "id": 515,
+    "category": "Cine y series",
+    "word": "MERLÍ"
+  },
+  {
+    "id": 516,
+    "category": "Cine y series",
+    "word": "SUITS"
+  },
+  {
+    "id": 517,
+    "category": "Cine y series",
+    "word": "UP"
+  },
+  {
+    "id": 518,
+    "category": "Cine y series",
+    "word": "LUPIN"
+  },
+  {
+    "id": 519,
+    "category": "Cine y series",
+    "word": "RAMBO"
+  },
+  {
+    "id": 520,
+    "category": "Cine y series",
+    "word": "NARCOS"
+  },
+  {
+    "id": 521,
+    "category": "Cine y series",
+    "word": "VÉRTIGO"
+  },
+  {
+    "id": 522,
+    "category": "Cine y series",
+    "word": "DARK"
+  },
+  {
+    "id": 523,
+    "category": "Comida y bebida",
+    "word": "TOMILLO"
+  },
+  {
+    "id": 524,
+    "category": "Comida y bebida",
+    "word": "ACEITUNA"
+  },
+  {
+    "id": 525,
+    "category": "Comida y bebida",
+    "word": "ÑAME"
+  },
+  {
+    "id": 526,
+    "category": "Comida y bebida",
+    "word": "JENGIBRE"
+  },
+  {
+    "id": 527,
+    "category": "Comida y bebida",
+    "word": "MARACUYÁ"
+  },
+  {
+    "id": 528,
+    "category": "Comida y bebida",
+    "word": "AZAFRÁN"
+  },
+  {
+    "id": 529,
+    "category": "Comida y bebida",
+    "word": "CACAHUETE"
+  },
+  {
+    "id": 530,
+    "category": "Comida y bebida",
+    "word": "HABA"
+  },
+  {
+    "id": 531,
+    "category": "Comida y bebida",
+    "word": "LENTEJA"
+  },
+  {
+    "id": 532,
+    "category": "Comida y bebida",
+    "word": "PAPAYA"
+  },
+  {
+    "id": 533,
+    "category": "Comida y bebida",
+    "word": "PARAGUAYA"
+  },
+  {
+    "id": 534,
+    "category": "Comida y bebida",
+    "word": "SEITÁN"
+  },
+  {
+    "id": 535,
+    "category": "Comida y bebida",
+    "word": "LAUREL"
+  },
+  {
+    "id": 536,
+    "category": "Comida y bebida",
+    "word": "SALMOREJO"
+  },
+  {
+    "id": 537,
+    "category": "Comida y bebida",
+    "word": "AVELLANA"
+  },
+  {
+    "id": 538,
+    "category": "Comida y bebida",
+    "word": "CHÍA"
+  },
+  {
+    "id": 539,
+    "category": "Comida y bebida",
+    "word": "AMARANTO"
+  },
+  {
+    "id": 540,
+    "category": "Comida y bebida",
+    "word": "GUAYABA"
+  },
+  {
+    "id": 541,
+    "category": "Comida y bebida",
+    "word": "PUERRO"
+  },
+  {
+    "id": 542,
+    "category": "Comida y bebida",
+    "word": "APIO"
+  },
+  {
+    "id": 543,
+    "category": "Comida y bebida",
+    "word": "CAQUI"
+  },
+  {
+    "id": 544,
+    "category": "Comida y bebida",
+    "word": "ACELGA"
+  },
+  {
+    "id": 545,
+    "category": "Comida y bebida",
+    "word": "PISTACHO"
+  },
+  {
+    "id": 546,
+    "category": "Comida y bebida",
+    "word": "MELOCOTÓN"
+  },
+  {
+    "id": 547,
+    "category": "Comida y bebida",
+    "word": "TAHINI"
+  },
+  {
+    "id": 548,
+    "category": "Comida y bebida",
+    "word": "GUINDA"
+  },
+  {
+    "id": 549,
+    "category": "Comida y bebida",
+    "word": "ALMENDRA"
+  },
+  {
+    "id": 550,
+    "category": "Comida y bebida",
+    "word": "ESPINACA"
+  },
+  {
+    "id": 551,
+    "category": "Comida y bebida",
+    "word": "BRÓCOLI"
+  },
+  {
+    "id": 552,
+    "category": "Comida y bebida",
+    "word": "BERRO"
+  },
+  {
+    "id": 553,
+    "category": "Comida y bebida",
+    "word": "REPOLLO"
+  },
+  {
+    "id": 554,
+    "category": "Comida y bebida",
+    "word": "CÚRCUMA"
+  },
+  {
+    "id": 555,
+    "category": "Comida y bebida",
+    "word": "LINAZA"
+  },
+  {
+    "id": 556,
+    "category": "Comida y bebida",
+    "word": "COMINO"
+  },
+  {
+    "id": 557,
+    "category": "Comida y bebida",
+    "word": "GARBANZO"
+  },
+  {
+    "id": 558,
+    "category": "Comida y bebida",
+    "word": "NUEZ"
+  },
+  {
+    "id": 559,
+    "category": "Comida y bebida",
+    "word": "GROSELLA"
+  },
+  {
+    "id": 560,
+    "category": "Comida y bebida",
+    "word": "LIMÓN"
+  },
+  {
+    "id": 561,
+    "category": "Comida y bebida",
+    "word": "MOSTAZA"
+  },
+  {
+    "id": 562,
+    "category": "Comida y bebida",
+    "word": "PIMENTÓN"
+  },
+  {
+    "id": 563,
+    "category": "Comida y bebida",
+    "word": "SORGO"
+  },
+  {
+    "id": 564,
+    "category": "Comida y bebida",
+    "word": "PIÑÓN"
+  },
+  {
+    "id": 565,
+    "category": "Comida y bebida",
+    "word": "ALUBIA"
+  },
+  {
+    "id": 566,
+    "category": "Comida y bebida",
+    "word": "BULGUR"
+  },
+  {
+    "id": 567,
+    "category": "Comida y bebida",
+    "word": "VAINILLA"
+  },
+  {
+    "id": 568,
+    "category": "Comida y bebida",
+    "word": "PEREJIL"
+  },
+  {
+    "id": 569,
+    "category": "Comida y bebida",
+    "word": "POMELO"
+  },
+  {
+    "id": 570,
+    "category": "Comida y bebida",
+    "word": "AVENA"
+  },
+  {
+    "id": 571,
+    "category": "Comida y bebida",
+    "word": "COL"
+  },
+  {
+    "id": 572,
+    "category": "Comida y bebida",
+    "word": "UVA"
+  },
+  {
+    "id": 573,
+    "category": "Comida y bebida",
+    "word": "BONIATO"
+  },
+  {
+    "id": 574,
+    "category": "Comida y bebida",
+    "word": "KIWI"
+  },
+  {
+    "id": 575,
+    "category": "Comida y bebida",
+    "word": "COLIFLOR"
+  },
+  {
+    "id": 576,
+    "category": "Comida y bebida",
+    "word": "CEREZA"
+  },
+  {
+    "id": 577,
+    "category": "Deportes",
+    "word": "ARQUERÍA"
+  },
+  {
+    "id": 578,
+    "category": "Deportes",
+    "word": "SENDERISMO"
+  },
+  {
+    "id": 579,
+    "category": "Deportes",
+    "word": "ALA DELTA"
+  },
+  {
+    "id": 580,
+    "category": "Deportes",
+    "word": "BÁDMINTON"
+  },
+  {
+    "id": 581,
+    "category": "Deportes",
+    "word": "SUMO"
+  },
+  {
+    "id": 582,
+    "category": "Deportes",
+    "word": "SQUASH"
+  },
+  {
+    "id": 583,
+    "category": "Deportes",
+    "word": "CENTROCAMPISTA"
+  },
+  {
+    "id": 584,
+    "category": "Deportes",
+    "word": "MUAY THAI"
+  },
+  {
+    "id": 585,
+    "category": "Deportes",
+    "word": "ESPINILLERA"
+  },
+  {
+    "id": 586,
+    "category": "Deportes",
+    "word": "TAEKWONDO"
+  },
+  {
+    "id": 587,
+    "category": "Deportes",
+    "word": "GOLF"
+  },
+  {
+    "id": 588,
+    "category": "Deportes",
+    "word": "KENDO"
+  },
+  {
+    "id": 589,
+    "category": "Deportes",
+    "word": "HEPTATLÓN"
+  },
+  {
+    "id": 590,
+    "category": "Deportes",
+    "word": "VELOCISTA"
+  },
+  {
+    "id": 591,
+    "category": "Deportes",
+    "word": "VALLAS"
+  },
+  {
+    "id": 592,
+    "category": "Deportes",
+    "word": "CANCHA"
+  },
+  {
+    "id": 593,
+    "category": "Deportes",
+    "word": "FRONTÓN"
+  },
+  {
+    "id": 594,
+    "category": "Deportes",
+    "word": "VESTUARIO"
+  },
+  {
+    "id": 595,
+    "category": "Deportes",
+    "word": "KITESURF"
+  },
+  {
+    "id": 596,
+    "category": "Deportes",
+    "word": "CULTURISMO"
+  },
+  {
+    "id": 597,
+    "category": "Deportes",
+    "word": "FLEXIBILIDAD"
+  },
+  {
+    "id": 598,
+    "category": "Deportes",
+    "word": "ARBITRAJE"
+  },
+  {
+    "id": 599,
+    "category": "Deportes",
+    "word": "BMX"
+  },
+  {
+    "id": 600,
+    "category": "Deportes",
+    "word": "ALPINISMO"
+  },
+  {
+    "id": 601,
+    "category": "Deportes",
+    "word": "CAPITÁN"
+  },
+  {
+    "id": 602,
+    "category": "Deportes",
+    "word": "SOFTBOL"
+  },
+  {
+    "id": 603,
+    "category": "Deportes",
+    "word": "CALENTAMIENTO"
+  },
+  {
+    "id": 604,
+    "category": "Deportes",
+    "word": "WATERPOLO"
+  },
+  {
+    "id": 605,
+    "category": "Deportes",
+    "word": "HÍPICA"
+  },
+  {
+    "id": 606,
+    "category": "Deportes",
+    "word": "BODYBOARD"
+  },
+  {
+    "id": 607,
+    "category": "Deportes",
+    "word": "ESGRIMA"
+  },
+  {
+    "id": 608,
+    "category": "Deportes",
+    "word": "PARKOUR"
+  },
+  {
+    "id": 609,
+    "category": "Deportes",
+    "word": "PIRAGÜISMO"
+  },
+  {
+    "id": 610,
+    "category": "Deportes",
+    "word": "SNORKEL"
+  },
+  {
+    "id": 611,
+    "category": "Deportes",
+    "word": "RED"
+  },
+  {
+    "id": 612,
+    "category": "Deportes",
+    "word": "DELANTERO"
+  },
+  {
+    "id": 613,
+    "category": "Deportes",
+    "word": "CANOA"
+  },
+  {
+    "id": 614,
+    "category": "Deportes",
+    "word": "PINGPONG"
+  },
+  {
+    "id": 615,
+    "category": "Deportes",
+    "word": "CRÍQUET"
+  },
+  {
+    "id": 616,
+    "category": "Deportes",
+    "word": "RELEVOS"
+  },
+  {
+    "id": 617,
+    "category": "Deportes",
+    "word": "CICLOCROSS"
+  },
+  {
+    "id": 618,
+    "category": "Deportes",
+    "word": "DUATLÓN"
+  },
+  {
+    "id": 619,
+    "category": "Deportes",
+    "word": "ACROBACIA"
+  },
+  {
+    "id": 620,
+    "category": "Deportes",
+    "word": "DECATLÓN"
+  },
+  {
+    "id": 621,
+    "category": "Deportes",
+    "word": "RALLY"
+  },
+  {
+    "id": 622,
+    "category": "Deportes",
+    "word": "KICKBOXING"
+  },
+  {
+    "id": 623,
+    "category": "Deportes",
+    "word": "ORIENTACIÓN"
+  },
+  {
+    "id": 624,
+    "category": "Deportes",
+    "word": "MINIGOLF"
+  },
+  {
+    "id": 625,
+    "category": "Deportes",
+    "word": "JUDO"
+  },
+  {
+    "id": 626,
+    "category": "Deportes",
+    "word": "SKELETON"
+  },
+  {
+    "id": 627,
+    "category": "Deportes",
+    "word": "AJEDREZ"
+  },
+  {
+    "id": 628,
+    "category": "Deportes",
+    "word": "PÁDEL"
+  },
+  {
+    "id": 629,
+    "category": "Deportes",
+    "word": "TRINEO"
+  },
+  {
+    "id": 630,
+    "category": "España",
+    "word": "LA ALPUJARRA"
+  },
+  {
+    "id": 631,
+    "category": "España",
+    "word": "MONCAYO"
+  },
+  {
+    "id": 632,
+    "category": "España",
+    "word": "RÍO DUERO"
+  },
+  {
+    "id": 633,
+    "category": "España",
+    "word": "SOBRARBE"
+  },
+  {
+    "id": 634,
+    "category": "España",
+    "word": "RÍO GUADIANA"
+  },
+  {
+    "id": 635,
+    "category": "España",
+    "word": "GRAN CANARIA"
+  },
+  {
+    "id": 636,
+    "category": "España",
+    "word": "ALICANTE"
+  },
+  {
+    "id": 637,
+    "category": "España",
+    "word": "ESTELLA"
+  },
+  {
+    "id": 638,
+    "category": "España",
+    "word": "SORIA"
+  },
+  {
+    "id": 639,
+    "category": "España",
+    "word": "THYSSEN"
+  },
+  {
+    "id": 640,
+    "category": "España",
+    "word": "GUADALAJARA"
+  },
+  {
+    "id": 641,
+    "category": "España",
+    "word": "LAREDO"
+  },
+  {
+    "id": 642,
+    "category": "España",
+    "word": "BAEZA"
+  },
+  {
+    "id": 643,
+    "category": "España",
+    "word": "HUESCA"
+  },
+  {
+    "id": 644,
+    "category": "España",
+    "word": "LA RIOJA"
+  },
+  {
+    "id": 645,
+    "category": "España",
+    "word": "MULHACÉN"
+  },
+  {
+    "id": 646,
+    "category": "España",
+    "word": "RETIRO"
+  },
+  {
+    "id": 647,
+    "category": "España",
+    "word": "ALMERÍA"
+  },
+  {
+    "id": 648,
+    "category": "España",
+    "word": "SOMONTANO"
+  },
+  {
+    "id": 649,
+    "category": "España",
+    "word": "TARRAGONA"
+  },
+  {
+    "id": 650,
+    "category": "España",
+    "word": "POTES"
+  },
+  {
+    "id": 651,
+    "category": "España",
+    "word": "GIRALDA"
+  },
+  {
+    "id": 652,
+    "category": "España",
+    "word": "MURCIA"
+  },
+  {
+    "id": 653,
+    "category": "España",
+    "word": "ZAMORA"
+  },
+  {
+    "id": 654,
+    "category": "España",
+    "word": "ÉCIJA"
+  },
+  {
+    "id": 655,
+    "category": "España",
+    "word": "EL BIERZO"
+  },
+  {
+    "id": 656,
+    "category": "España",
+    "word": "COMILLAS"
+  },
+  {
+    "id": 657,
+    "category": "España",
+    "word": "RONDA"
+  },
+  {
+    "id": 658,
+    "category": "España",
+    "word": "LLEIDA"
+  },
+  {
+    "id": 659,
+    "category": "España",
+    "word": "BURGOS"
+  },
+  {
+    "id": 660,
+    "category": "España",
+    "word": "RÍO EBRO"
+  },
+  {
+    "id": 661,
+    "category": "España",
+    "word": "VALLADOLID"
+  },
+  {
+    "id": 662,
+    "category": "España",
+    "word": "COSTA VERDE"
+  },
+  {
+    "id": 663,
+    "category": "España",
+    "word": "SIERRA MORENA"
+  },
+  {
+    "id": 664,
+    "category": "España",
+    "word": "MELILLA"
+  },
+  {
+    "id": 665,
+    "category": "España",
+    "word": "PUERTA DE ALCALÁ"
+  },
+  {
+    "id": 666,
+    "category": "España",
+    "word": "TENERIFE"
+  },
+  {
+    "id": 667,
+    "category": "España",
+    "word": "MEZQUITA"
+  },
+  {
+    "id": 668,
+    "category": "España",
+    "word": "ATAPUERCA"
+  },
+  {
+    "id": 669,
+    "category": "España",
+    "word": "LA ALCARRIA"
+  },
+  {
+    "id": 670,
+    "category": "España",
+    "word": "HARO"
+  },
+  {
+    "id": 671,
+    "category": "España",
+    "word": "VIZCAYA"
+  },
+  {
+    "id": 672,
+    "category": "España",
+    "word": "GUADARRAMA"
+  },
+  {
+    "id": 673,
+    "category": "España",
+    "word": "ÚBEDA"
+  },
+  {
+    "id": 674,
+    "category": "España",
+    "word": "CASTELLÓN"
+  },
+  {
+    "id": 675,
+    "category": "España",
+    "word": "NARANJO DE BULNES"
+  },
+  {
+    "id": 676,
+    "category": "España",
+    "word": "EL HIERRO"
+  },
+  {
+    "id": 677,
+    "category": "España",
+    "word": "SANTILLANA"
+  },
+  {
+    "id": 678,
+    "category": "España",
+    "word": "LAS HURDES"
+  },
+  {
+    "id": 679,
+    "category": "España",
+    "word": "EUSKADI"
+  },
+  {
+    "id": 680,
+    "category": "España",
+    "word": "FUERTEVENTURA"
+  },
+  {
+    "id": 681,
+    "category": "España",
+    "word": "LA GOMERA"
+  },
+  {
+    "id": 682,
+    "category": "España",
+    "word": "CÁDIZ"
+  },
+  {
+    "id": 683,
+    "category": "Historia y mitología",
+    "word": "PRÍAMO"
+  },
+  {
+    "id": 684,
+    "category": "Historia y mitología",
+    "word": "TUTANKAMÓN"
+  },
+  {
+    "id": 685,
+    "category": "Historia y mitología",
+    "word": "CRONOS"
+  },
+  {
+    "id": 686,
+    "category": "Historia y mitología",
+    "word": "VENUS"
+  },
+  {
+    "id": 687,
+    "category": "Historia y mitología",
+    "word": "HEFESTO"
+  },
+  {
+    "id": 688,
+    "category": "Historia y mitología",
+    "word": "VALHALLA"
+  },
+  {
+    "id": 689,
+    "category": "Historia y mitología",
+    "word": "EURÍDICE"
+  },
+  {
+    "id": 690,
+    "category": "Historia y mitología",
+    "word": "HERMES"
+  },
+  {
+    "id": 691,
+    "category": "Historia y mitología",
+    "word": "ADRIANO"
+  },
+  {
+    "id": 692,
+    "category": "Historia y mitología",
+    "word": "SLEIPNIR"
+  },
+  {
+    "id": 693,
+    "category": "Historia y mitología",
+    "word": "ARTEMISA"
+  },
+  {
+    "id": 694,
+    "category": "Historia y mitología",
+    "word": "HELENA"
+  },
+  {
+    "id": 695,
+    "category": "Historia y mitología",
+    "word": "CENTAURO"
+  },
+  {
+    "id": 696,
+    "category": "Historia y mitología",
+    "word": "ATLAS"
+  },
+  {
+    "id": 697,
+    "category": "Historia y mitología",
+    "word": "JANO"
+  },
+  {
+    "id": 698,
+    "category": "Historia y mitología",
+    "word": "CALÍGULA"
+  },
+  {
+    "id": 699,
+    "category": "Historia y mitología",
+    "word": "FERNANDO EL CATÓLICO"
+  },
+  {
+    "id": 700,
+    "category": "Historia y mitología",
+    "word": "CÍCLOPE"
+  },
+  {
+    "id": 701,
+    "category": "Historia y mitología",
+    "word": "MERCURIO"
+  },
+  {
+    "id": 702,
+    "category": "Historia y mitología",
+    "word": "DÉDALO"
+  },
+  {
+    "id": 703,
+    "category": "Historia y mitología",
+    "word": "YGGDRASIL"
+  },
+  {
+    "id": 704,
+    "category": "Historia y mitología",
+    "word": "SIRENA"
+  },
+  {
+    "id": 705,
+    "category": "Historia y mitología",
+    "word": "URANO"
+  },
+  {
+    "id": 706,
+    "category": "Historia y mitología",
+    "word": "CÉSAR"
+  },
+  {
+    "id": 707,
+    "category": "Historia y mitología",
+    "word": "ALEJANDRO"
+  },
+  {
+    "id": 708,
+    "category": "Historia y mitología",
+    "word": "HÉCTOR"
+  },
+  {
+    "id": 709,
+    "category": "Historia y mitología",
+    "word": "EROS"
+  },
+  {
+    "id": 710,
+    "category": "Historia y mitología",
+    "word": "EOS"
+  },
+  {
+    "id": 711,
+    "category": "Historia y mitología",
+    "word": "AUGUSTO"
+  },
+  {
+    "id": 712,
+    "category": "Historia y mitología",
+    "word": "BASTET"
+  },
+  {
+    "id": 713,
+    "category": "Historia y mitología",
+    "word": "EPIMETEO"
+  },
+  {
+    "id": 714,
+    "category": "Historia y mitología",
+    "word": "HIPNOS"
+  },
+  {
+    "id": 715,
+    "category": "Historia y mitología",
+    "word": "SOBEK"
+  },
+  {
+    "id": 716,
+    "category": "Historia y mitología",
+    "word": "DEMÉTER"
+  },
+  {
+    "id": 717,
+    "category": "Historia y mitología",
+    "word": "ARIADNA"
+  },
+  {
+    "id": 718,
+    "category": "Historia y mitología",
+    "word": "TESEO"
+  },
+  {
+    "id": 719,
+    "category": "Historia y mitología",
+    "word": "PERSEO"
+  },
+  {
+    "id": 720,
+    "category": "Historia y mitología",
+    "word": "RA"
+  },
+  {
+    "id": 721,
+    "category": "Historia y mitología",
+    "word": "DIONISO"
+  },
+  {
+    "id": 722,
+    "category": "Historia y mitología",
+    "word": "JASÓN"
+  },
+  {
+    "id": 723,
+    "category": "Historia y mitología",
+    "word": "NINFA"
+  },
+  {
+    "id": 724,
+    "category": "Historia y mitología",
+    "word": "ISIS"
+  },
+  {
+    "id": 725,
+    "category": "Historia y mitología",
+    "word": "PLUTÓN"
+  },
+  {
+    "id": 726,
+    "category": "Historia y mitología",
+    "word": "SELENE"
+  },
+  {
+    "id": 727,
+    "category": "Historia y mitología",
+    "word": "MINERVA"
+  },
+  {
+    "id": 728,
+    "category": "Historia y mitología",
+    "word": "ULISES"
+  },
+  {
+    "id": 729,
+    "category": "Historia y mitología",
+    "word": "AQUILES"
+  },
+  {
+    "id": 730,
+    "category": "Historia y mitología",
+    "word": "HERACLES"
+  },
+  {
+    "id": 731,
+    "category": "Historia y mitología",
+    "word": "ÍCARO"
+  },
+  {
+    "id": 732,
+    "category": "Historia y mitología",
+    "word": "ARES"
+  },
+  {
+    "id": 733,
+    "category": "Historia y mitología",
+    "word": "CARLOS QUINTO"
+  },
+  {
+    "id": 734,
+    "category": "Historia y mitología",
+    "word": "JUNO"
+  },
+  {
+    "id": 735,
+    "category": "Historia y mitología",
+    "word": "TYR"
+  },
+  {
+    "id": 736,
+    "category": "Historia y mitología",
+    "word": "ENEAS"
+  },
+  {
+    "id": 737,
+    "category": "Música",
+    "word": "TROMBÓN"
+  },
+  {
+    "id": 738,
+    "category": "Música",
+    "word": "SÍNCOPA"
+  },
+  {
+    "id": 739,
+    "category": "Música",
+    "word": "CRESCENDO"
+  },
+  {
+    "id": 740,
+    "category": "Música",
+    "word": "LIRA"
+  },
+  {
+    "id": 741,
+    "category": "Música",
+    "word": "BACHATA"
+  },
+  {
+    "id": 742,
+    "category": "Música",
+    "word": "BANJO"
+  },
+  {
+    "id": 743,
+    "category": "Música",
+    "word": "PLATILLOS"
+  },
+  {
+    "id": 744,
+    "category": "Música",
+    "word": "BAJO"
+  },
+  {
+    "id": 745,
+    "category": "Música",
+    "word": "ALLEGRO"
+  },
+  {
+    "id": 746,
+    "category": "Música",
+    "word": "CONGA"
+  },
+  {
+    "id": 747,
+    "category": "Música",
+    "word": "ARPEGIO"
+  },
+  {
+    "id": 748,
+    "category": "Música",
+    "word": "PANDERETA"
+  },
+  {
+    "id": 749,
+    "category": "Música",
+    "word": "LAÚD"
+  },
+  {
+    "id": 750,
+    "category": "Música",
+    "word": "MERENGUE"
+  },
+  {
+    "id": 751,
+    "category": "Música",
+    "word": "CORO"
+  },
+  {
+    "id": 752,
+    "category": "Música",
+    "word": "CONTRALTO"
+  },
+  {
+    "id": 753,
+    "category": "Música",
+    "word": "TROMPA"
+  },
+  {
+    "id": 754,
+    "category": "Música",
+    "word": "DECRESCENDO"
+  },
+  {
+    "id": 755,
+    "category": "Música",
+    "word": "FUNK"
+  },
+  {
+    "id": 756,
+    "category": "Música",
+    "word": "POLCA"
+  },
+  {
+    "id": 757,
+    "category": "Música",
+    "word": "ESCALA"
+  },
+  {
+    "id": 758,
+    "category": "Música",
+    "word": "ROCK"
+  },
+  {
+    "id": 759,
+    "category": "Música",
+    "word": "BULERÍAS"
+  },
+  {
+    "id": 760,
+    "category": "Música",
+    "word": "VALS"
+  },
+  {
+    "id": 761,
+    "category": "Música",
+    "word": "METRÓNOMO"
+  },
+  {
+    "id": 762,
+    "category": "Música",
+    "word": "ADAGIO"
+  },
+  {
+    "id": 763,
+    "category": "Música",
+    "word": "BOSSA NOVA"
+  },
+  {
+    "id": 764,
+    "category": "Música",
+    "word": "CASTAÑUELAS"
+  },
+  {
+    "id": 765,
+    "category": "Música",
+    "word": "BARÍTONO"
+  },
+  {
+    "id": 766,
+    "category": "Música",
+    "word": "SEMITONO"
+  },
+  {
+    "id": 767,
+    "category": "Música",
+    "word": "FUGA"
+  },
+  {
+    "id": 768,
+    "category": "Música",
+    "word": "ALEGRÍAS"
+  },
+  {
+    "id": 769,
+    "category": "Música",
+    "word": "TENOR"
+  },
+  {
+    "id": 770,
+    "category": "Música",
+    "word": "MARIMBA"
+  },
+  {
+    "id": 771,
+    "category": "Música",
+    "word": "NOCTURNO"
+  },
+  {
+    "id": 772,
+    "category": "Música",
+    "word": "TIMBAL"
+  },
+  {
+    "id": 773,
+    "category": "Música",
+    "word": "QUENA"
+  },
+  {
+    "id": 774,
+    "category": "Música",
+    "word": "ÓRGANO"
+  },
+  {
+    "id": 775,
+    "category": "Música",
+    "word": "OBOE"
+  },
+  {
+    "id": 776,
+    "category": "Música",
+    "word": "MANDOLINA"
+  },
+  {
+    "id": 777,
+    "category": "Música",
+    "word": "ARPA"
+  },
+  {
+    "id": 778,
+    "category": "Música",
+    "word": "FANDANGO"
+  },
+  {
+    "id": 779,
+    "category": "Música",
+    "word": "LEGATO"
+  },
+  {
+    "id": 780,
+    "category": "Música",
+    "word": "CLAVECÍN"
+  },
+  {
+    "id": 781,
+    "category": "Música",
+    "word": "CONTRABAJO"
+  },
+  {
+    "id": 782,
+    "category": "Música",
+    "word": "CLARINETE"
+  },
+  {
+    "id": 783,
+    "category": "Música",
+    "word": "VIOLONCHELO"
+  },
+  {
+    "id": 784,
+    "category": "Música",
+    "word": "SOLEÁ"
+  },
+  {
+    "id": 785,
+    "category": "Música",
+    "word": "CÍTARA"
+  },
+  {
+    "id": 786,
+    "category": "Música",
+    "word": "VIBRÁFONO"
+  },
+  {
+    "id": 787,
+    "category": "Música",
+    "word": "TAMBOR"
+  },
+  {
+    "id": 788,
+    "category": "Música",
+    "word": "SOPRANO"
+  },
+  {
+    "id": 789,
+    "category": "Música",
+    "word": "SKA"
+  },
+  {
+    "id": 790,
+    "category": "Música",
+    "word": "TRIÁNGULO"
+  },
+  {
+    "id": 791,
+    "category": "Naturaleza",
+    "word": "ESTUARIO"
+  },
+  {
+    "id": 792,
+    "category": "Naturaleza",
+    "word": "DUNA"
+  },
+  {
+    "id": 793,
+    "category": "Naturaleza",
+    "word": "LIQUEN"
+  },
+  {
+    "id": 794,
+    "category": "Naturaleza",
+    "word": "GRANITO"
+  },
+  {
+    "id": 795,
+    "category": "Naturaleza",
+    "word": "PINO"
+  },
+  {
+    "id": 796,
+    "category": "Naturaleza",
+    "word": "ROCÍO"
+  },
+  {
+    "id": 797,
+    "category": "Naturaleza",
+    "word": "CEREZO"
+  },
+  {
+    "id": 798,
+    "category": "Naturaleza",
+    "word": "ACACIA"
+  },
+  {
+    "id": 799,
+    "category": "Naturaleza",
+    "word": "ARENA"
+  },
+  {
+    "id": 800,
+    "category": "Naturaleza",
+    "word": "SAUCE"
+  },
+  {
+    "id": 801,
+    "category": "Naturaleza",
+    "word": "JACARANDA"
+  },
+  {
+    "id": 802,
+    "category": "Naturaleza",
+    "word": "CORDILLERA"
+  },
+  {
+    "id": 803,
+    "category": "Naturaleza",
+    "word": "AZALEA"
+  },
+  {
+    "id": 804,
+    "category": "Naturaleza",
+    "word": "TRÉBOL"
+  },
+  {
+    "id": 805,
+    "category": "Naturaleza",
+    "word": "ESPINO"
+  },
+  {
+    "id": 806,
+    "category": "Naturaleza",
+    "word": "ARCILLA"
+  },
+  {
+    "id": 807,
+    "category": "Naturaleza",
+    "word": "BRUMA"
+  },
+  {
+    "id": 808,
+    "category": "Naturaleza",
+    "word": "TULIPÁN"
+  },
+  {
+    "id": 809,
+    "category": "Naturaleza",
+    "word": "ESTALAGMITA"
+  },
+  {
+    "id": 810,
+    "category": "Naturaleza",
+    "word": "ENCINA"
+  },
+  {
+    "id": 811,
+    "category": "Naturaleza",
+    "word": "HORTENSIA"
+  },
+  {
+    "id": 812,
+    "category": "Naturaleza",
+    "word": "CACTUS"
+  },
+  {
+    "id": 813,
+    "category": "Naturaleza",
+    "word": "ABEDUL"
+  },
+  {
+    "id": 814,
+    "category": "Naturaleza",
+    "word": "NOGAL"
+  },
+  {
+    "id": 815,
+    "category": "Naturaleza",
+    "word": "ALOE"
+  },
+  {
+    "id": 816,
+    "category": "Naturaleza",
+    "word": "LIRIO"
+  },
+  {
+    "id": 817,
+    "category": "Naturaleza",
+    "word": "BAMBÚ"
+  },
+  {
+    "id": 818,
+    "category": "Naturaleza",
+    "word": "MANZANO"
+  },
+  {
+    "id": 819,
+    "category": "Naturaleza",
+    "word": "CIPRÉS"
+  },
+  {
+    "id": 820,
+    "category": "Naturaleza",
+    "word": "GOLFO"
+  },
+  {
+    "id": 821,
+    "category": "Naturaleza",
+    "word": "TAIGA"
+  },
+  {
+    "id": 822,
+    "category": "Naturaleza",
+    "word": "MUSGO"
+  },
+  {
+    "id": 823,
+    "category": "Naturaleza",
+    "word": "TILO"
+  },
+  {
+    "id": 824,
+    "category": "Naturaleza",
+    "word": "AMAPOLA"
+  },
+  {
+    "id": 825,
+    "category": "Naturaleza",
+    "word": "GÉISER"
+  },
+  {
+    "id": 826,
+    "category": "Naturaleza",
+    "word": "LIMONERO"
+  },
+  {
+    "id": 827,
+    "category": "Naturaleza",
+    "word": "TOJO"
+  },
+  {
+    "id": 828,
+    "category": "Naturaleza",
+    "word": "TEJO"
+  },
+  {
+    "id": 829,
+    "category": "Naturaleza",
+    "word": "ALISO"
+  },
+  {
+    "id": 830,
+    "category": "Naturaleza",
+    "word": "OLIVO"
+  },
+  {
+    "id": 831,
+    "category": "Naturaleza",
+    "word": "MANDARINO"
+  },
+  {
+    "id": 832,
+    "category": "Naturaleza",
+    "word": "CAVERNA"
+  },
+  {
+    "id": 833,
+    "category": "Naturaleza",
+    "word": "VID"
+  },
+  {
+    "id": 834,
+    "category": "Naturaleza",
+    "word": "FRESNO"
+  },
+  {
+    "id": 835,
+    "category": "Naturaleza",
+    "word": "ACEBO"
+  },
+  {
+    "id": 836,
+    "category": "Naturaleza",
+    "word": "MÁRMOL"
+  },
+  {
+    "id": 837,
+    "category": "Naturaleza",
+    "word": "BASALTO"
+  },
+  {
+    "id": 838,
+    "category": "Naturaleza",
+    "word": "PIZARRA"
+  },
+  {
+    "id": 839,
+    "category": "Naturaleza",
+    "word": "DELTA"
+  },
+  {
+    "id": 840,
+    "category": "Naturaleza",
+    "word": "NARANJO"
+  },
+  {
+    "id": 841,
+    "category": "Naturaleza",
+    "word": "ESTEPA"
+  },
+  {
+    "id": 842,
+    "category": "Naturaleza",
+    "word": "BARRANCO"
+  },
+  {
+    "id": 843,
+    "category": "Naturaleza",
+    "word": "TRUFA"
+  },
+  {
+    "id": 844,
+    "category": "Naturaleza",
+    "word": "CAMELIA"
+  },
+  {
+    "id": 845,
+    "category": "Objetos cotidianos",
+    "word": "BATIDOR"
+  },
+  {
+    "id": 846,
+    "category": "Objetos cotidianos",
+    "word": "ESTANTERÍA"
+  },
+  {
+    "id": 847,
+    "category": "Objetos cotidianos",
+    "word": "BAYETA"
+  },
+  {
+    "id": 848,
+    "category": "Objetos cotidianos",
+    "word": "FREGONA"
+  },
+  {
+    "id": 849,
+    "category": "Objetos cotidianos",
+    "word": "REGLA"
+  },
+  {
+    "id": 850,
+    "category": "Objetos cotidianos",
+    "word": "RODILLO"
+  },
+  {
+    "id": 851,
+    "category": "Objetos cotidianos",
+    "word": "VINAGRERA"
+  },
+  {
+    "id": 852,
+    "category": "Objetos cotidianos",
+    "word": "COPA"
+  },
+  {
+    "id": 853,
+    "category": "Objetos cotidianos",
+    "word": "PLANCHA"
+  },
+  {
+    "id": 854,
+    "category": "Objetos cotidianos",
+    "word": "MONEDERO"
+  },
+  {
+    "id": 855,
+    "category": "Objetos cotidianos",
+    "word": "BASTÓN"
+  },
+  {
+    "id": 856,
+    "category": "Objetos cotidianos",
+    "word": "BOTIQUÍN"
+  },
+  {
+    "id": 857,
+    "category": "Objetos cotidianos",
+    "word": "COLCHÓN"
+  },
+  {
+    "id": 858,
+    "category": "Objetos cotidianos",
+    "word": "TAPÓN"
+  },
+  {
+    "id": 859,
+    "category": "Objetos cotidianos",
+    "word": "ENCHUFE"
+  },
+  {
+    "id": 860,
+    "category": "Objetos cotidianos",
+    "word": "RECOGEDOR"
+  },
+  {
+    "id": 861,
+    "category": "Objetos cotidianos",
+    "word": "SACACORCHOS"
+  },
+  {
+    "id": 862,
+    "category": "Objetos cotidianos",
+    "word": "ESPONJA"
+  },
+  {
+    "id": 863,
+    "category": "Objetos cotidianos",
+    "word": "PERSIANA"
+  },
+  {
+    "id": 864,
+    "category": "Objetos cotidianos",
+    "word": "TABURETE"
+  },
+  {
+    "id": 865,
+    "category": "Objetos cotidianos",
+    "word": "CANTIMPLORA"
+  },
+  {
+    "id": 866,
+    "category": "Objetos cotidianos",
+    "word": "CAMA"
+  },
+  {
+    "id": 867,
+    "category": "Objetos cotidianos",
+    "word": "BOLSO"
+  },
+  {
+    "id": 868,
+    "category": "Objetos cotidianos",
+    "word": "VAJILLA"
+  },
+  {
+    "id": 869,
+    "category": "Objetos cotidianos",
+    "word": "VENDA"
+  },
+  {
+    "id": 870,
+    "category": "Objetos cotidianos",
+    "word": "TORNILLO"
+  },
+  {
+    "id": 871,
+    "category": "Objetos cotidianos",
+    "word": "CUBO"
+  },
+  {
+    "id": 872,
+    "category": "Objetos cotidianos",
+    "word": "FELPUDO"
+  },
+  {
+    "id": 873,
+    "category": "Objetos cotidianos",
+    "word": "SELLO"
+  },
+  {
+    "id": 874,
+    "category": "Objetos cotidianos",
+    "word": "TUERCA"
+  },
+  {
+    "id": 875,
+    "category": "Objetos cotidianos",
+    "word": "GAFAS"
+  },
+  {
+    "id": 876,
+    "category": "Objetos cotidianos",
+    "word": "CACEROLA"
+  },
+  {
+    "id": 877,
+    "category": "Objetos cotidianos",
+    "word": "RELOJ"
+  },
+  {
+    "id": 878,
+    "category": "Objetos cotidianos",
+    "word": "POSTAL"
+  },
+  {
+    "id": 879,
+    "category": "Objetos cotidianos",
+    "word": "EDREDÓN"
+  },
+  {
+    "id": 880,
+    "category": "Objetos cotidianos",
+    "word": "PALILLO"
+  },
+  {
+    "id": 881,
+    "category": "Objetos cotidianos",
+    "word": "LÁMPARA"
+  },
+  {
+    "id": 882,
+    "category": "Objetos cotidianos",
+    "word": "SOBRE"
+  },
+  {
+    "id": 883,
+    "category": "Objetos cotidianos",
+    "word": "ABRELATAS"
+  },
+  {
+    "id": 884,
+    "category": "Objetos cotidianos",
+    "word": "CAZO"
+  },
+  {
+    "id": 885,
+    "category": "Objetos cotidianos",
+    "word": "MESA"
+  },
+  {
+    "id": 886,
+    "category": "Objetos cotidianos",
+    "word": "OLLA"
+  },
+  {
+    "id": 887,
+    "category": "Objetos cotidianos",
+    "word": "PELADOR"
+  },
+  {
+    "id": 888,
+    "category": "Objetos cotidianos",
+    "word": "TERMO"
+  },
+  {
+    "id": 889,
+    "category": "Objetos cotidianos",
+    "word": "ESPÁTULA"
+  },
+  {
+    "id": 890,
+    "category": "Objetos cotidianos",
+    "word": "TETERA"
+  },
+  {
+    "id": 891,
+    "category": "Objetos cotidianos",
+    "word": "GRAPA"
+  },
+  {
+    "id": 892,
+    "category": "Objetos cotidianos",
+    "word": "ALTAVOZ"
+  },
+  {
+    "id": 893,
+    "category": "Objetos cotidianos",
+    "word": "TACITA"
+  },
+  {
+    "id": 894,
+    "category": "Objetos cotidianos",
+    "word": "ESPUMADERA"
+  },
+  {
+    "id": 895,
+    "category": "Objetos cotidianos",
+    "word": "BOMBILLA"
+  },
+  {
+    "id": 896,
+    "category": "Objetos cotidianos",
+    "word": "VASO"
+  },
+  {
+    "id": 897,
+    "category": "Objetos cotidianos",
+    "word": "CERRADURA"
+  },
+  {
+    "id": 898,
+    "category": "Objetos cotidianos",
+    "word": "POSAVASOS"
+  },
+  {
+    "id": 899,
+    "category": "Países y ciudades",
+    "word": "CHINA"
+  },
+  {
+    "id": 900,
+    "category": "Países y ciudades",
+    "word": "SUDÁFRICA"
+  },
+  {
+    "id": 901,
+    "category": "Países y ciudades",
+    "word": "LAOS"
+  },
+  {
+    "id": 902,
+    "category": "Países y ciudades",
+    "word": "BIELORRUSIA"
+  },
+  {
+    "id": 903,
+    "category": "Países y ciudades",
+    "word": "ESLOVENIA"
+  },
+  {
+    "id": 904,
+    "category": "Países y ciudades",
+    "word": "SIRIA"
+  },
+  {
+    "id": 905,
+    "category": "Países y ciudades",
+    "word": "MONTENEGRO"
+  },
+  {
+    "id": 906,
+    "category": "Países y ciudades",
+    "word": "NIGERIA"
+  },
+  {
+    "id": 907,
+    "category": "Países y ciudades",
+    "word": "FILIPINAS"
+  },
+  {
+    "id": 908,
+    "category": "Países y ciudades",
+    "word": "HONDURAS"
+  },
+  {
+    "id": 909,
+    "category": "Países y ciudades",
+    "word": "SERBIA"
+  },
+  {
+    "id": 910,
+    "category": "Países y ciudades",
+    "word": "MÓNACO"
+  },
+  {
+    "id": 911,
+    "category": "Países y ciudades",
+    "word": "AZERBAIYÁN"
+  },
+  {
+    "id": 912,
+    "category": "Países y ciudades",
+    "word": "GUYANA"
+  },
+  {
+    "id": 913,
+    "category": "Países y ciudades",
+    "word": "SEYCHELLES"
+  },
+  {
+    "id": 914,
+    "category": "Países y ciudades",
+    "word": "ERITREA"
+  },
+  {
+    "id": 915,
+    "category": "Países y ciudades",
+    "word": "SINGAPUR"
+  },
+  {
+    "id": 916,
+    "category": "Países y ciudades",
+    "word": "VIETNAM"
+  },
+  {
+    "id": 917,
+    "category": "Países y ciudades",
+    "word": "UCRANIA"
+  },
+  {
+    "id": 918,
+    "category": "Países y ciudades",
+    "word": "KUWAIT"
+  },
+  {
+    "id": 919,
+    "category": "Países y ciudades",
+    "word": "PAKISTÁN"
+  },
+  {
+    "id": 920,
+    "category": "Países y ciudades",
+    "word": "AUSTRIA"
+  },
+  {
+    "id": 921,
+    "category": "Países y ciudades",
+    "word": "GHANA"
+  },
+  {
+    "id": 922,
+    "category": "Países y ciudades",
+    "word": "KAZAJISTÁN"
+  },
+  {
+    "id": 923,
+    "category": "Países y ciudades",
+    "word": "UZBEKISTÁN"
+  },
+  {
+    "id": 924,
+    "category": "Países y ciudades",
+    "word": "URUGUAY"
+  },
+  {
+    "id": 925,
+    "category": "Países y ciudades",
+    "word": "LETONIA"
+  },
+  {
+    "id": 926,
+    "category": "Países y ciudades",
+    "word": "RUSIA"
+  },
+  {
+    "id": 927,
+    "category": "Países y ciudades",
+    "word": "SUDÁN"
+  },
+  {
+    "id": 928,
+    "category": "Países y ciudades",
+    "word": "LUXEMBURGO"
+  },
+  {
+    "id": 929,
+    "category": "Países y ciudades",
+    "word": "MALI"
+  },
+  {
+    "id": 930,
+    "category": "Países y ciudades",
+    "word": "SAN MARINO"
+  },
+  {
+    "id": 931,
+    "category": "Países y ciudades",
+    "word": "PERÚ"
+  },
+  {
+    "id": 932,
+    "category": "Países y ciudades",
+    "word": "HUNGRÍA"
+  },
+  {
+    "id": 933,
+    "category": "Países y ciudades",
+    "word": "BURUNDI"
+  },
+  {
+    "id": 934,
+    "category": "Países y ciudades",
+    "word": "ESTONIA"
+  },
+  {
+    "id": 935,
+    "category": "Países y ciudades",
+    "word": "ARGELIA"
+  },
+  {
+    "id": 936,
+    "category": "Países y ciudades",
+    "word": "SENEGAL"
+  },
+  {
+    "id": 937,
+    "category": "Países y ciudades",
+    "word": "SURINAM"
+  },
+  {
+    "id": 938,
+    "category": "Países y ciudades",
+    "word": "INDIA"
+  },
+  {
+    "id": 939,
+    "category": "Países y ciudades",
+    "word": "ALBANIA"
+  },
+  {
+    "id": 940,
+    "category": "Países y ciudades",
+    "word": "ANDORRA"
+  },
+  {
+    "id": 941,
+    "category": "Países y ciudades",
+    "word": "SAMOA"
+  },
+  {
+    "id": 942,
+    "category": "Países y ciudades",
+    "word": "INDONESIA"
+  },
+  {
+    "id": 943,
+    "category": "Países y ciudades",
+    "word": "SUIZA"
+  },
+  {
+    "id": 944,
+    "category": "Países y ciudades",
+    "word": "BOSNIA"
+  },
+  {
+    "id": 945,
+    "category": "Países y ciudades",
+    "word": "CAMERÚN"
+  },
+  {
+    "id": 946,
+    "category": "Países y ciudades",
+    "word": "SOMALIA"
+  },
+  {
+    "id": 947,
+    "category": "Países y ciudades",
+    "word": "BUTÁN"
+  },
+  {
+    "id": 948,
+    "category": "Países y ciudades",
+    "word": "BULGARIA"
+  },
+  {
+    "id": 949,
+    "category": "Países y ciudades",
+    "word": "LIECHTENSTEIN"
+  },
+  {
+    "id": 950,
+    "category": "Países y ciudades",
+    "word": "JAMAICA"
+  },
+  {
+    "id": 951,
+    "category": "Países y ciudades",
+    "word": "CATAR"
+  },
+  {
+    "id": 952,
+    "category": "Profesiones",
+    "word": "NOTARIO"
+  },
+  {
+    "id": 953,
+    "category": "Profesiones",
+    "word": "DETECTIVE"
+  },
+  {
+    "id": 954,
+    "category": "Profesiones",
+    "word": "ARTESANO"
+  },
+  {
+    "id": 955,
+    "category": "Profesiones",
+    "word": "GRABADOR"
+  },
+  {
+    "id": 956,
+    "category": "Profesiones",
+    "word": "FERROVIARIO"
+  },
+  {
+    "id": 957,
+    "category": "Profesiones",
+    "word": "MASAJISTA"
+  },
+  {
+    "id": 958,
+    "category": "Profesiones",
+    "word": "VITICULTOR"
+  },
+  {
+    "id": 959,
+    "category": "Profesiones",
+    "word": "INTÉRPRETE"
+  },
+  {
+    "id": 960,
+    "category": "Profesiones",
+    "word": "HISTORIADOR"
+  },
+  {
+    "id": 961,
+    "category": "Profesiones",
+    "word": "CERRAJERO"
+  },
+  {
+    "id": 962,
+    "category": "Profesiones",
+    "word": "ZOÓLOGO"
+  },
+  {
+    "id": 963,
+    "category": "Profesiones",
+    "word": "CAMIONERO"
+  },
+  {
+    "id": 964,
+    "category": "Profesiones",
+    "word": "TAPICERO"
+  },
+  {
+    "id": 965,
+    "category": "Profesiones",
+    "word": "EDITOR"
+  },
+  {
+    "id": 966,
+    "category": "Profesiones",
+    "word": "DIETISTA"
+  },
+  {
+    "id": 967,
+    "category": "Profesiones",
+    "word": "FONTANERO"
+  },
+  {
+    "id": 968,
+    "category": "Profesiones",
+    "word": "ESCULTOR"
+  },
+  {
+    "id": 969,
+    "category": "Profesiones",
+    "word": "APICULTOR"
+  },
+  {
+    "id": 970,
+    "category": "Profesiones",
+    "word": "EBANISTA"
+  },
+  {
+    "id": 971,
+    "category": "Profesiones",
+    "word": "FARMACÉUTICO"
+  },
+  {
+    "id": 972,
+    "category": "Profesiones",
+    "word": "GUÍA"
+  },
+  {
+    "id": 973,
+    "category": "Profesiones",
+    "word": "JOYERO"
+  },
+  {
+    "id": 974,
+    "category": "Profesiones",
+    "word": "BIÓLOGO"
+  },
+  {
+    "id": 975,
+    "category": "Profesiones",
+    "word": "BARBERO"
+  },
+  {
+    "id": 976,
+    "category": "Profesiones",
+    "word": "REPARTIDOR"
+  },
+  {
+    "id": 977,
+    "category": "Profesiones",
+    "word": "PASTELERO"
+  },
+  {
+    "id": 978,
+    "category": "Profesiones",
+    "word": "SECRETARIO"
+  },
+  {
+    "id": 979,
+    "category": "Profesiones",
+    "word": "INVESTIGADOR"
+  },
+  {
+    "id": 980,
+    "category": "Profesiones",
+    "word": "LOCUTOR"
+  },
+  {
+    "id": 981,
+    "category": "Profesiones",
+    "word": "URÓLOGO"
+  },
+  {
+    "id": 982,
+    "category": "Profesiones",
+    "word": "DECORADOR"
+  },
+  {
+    "id": 983,
+    "category": "Profesiones",
+    "word": "MINERO"
+  },
+  {
+    "id": 984,
+    "category": "Profesiones",
+    "word": "PSIQUIATRA"
+  },
+  {
+    "id": 985,
+    "category": "Profesiones",
+    "word": "PESCADOR"
+  },
+  {
+    "id": 986,
+    "category": "Profesiones",
+    "word": "ZAPATERO"
+  },
+  {
+    "id": 987,
+    "category": "Profesiones",
+    "word": "GEÓLOGO"
+  },
+  {
+    "id": 988,
+    "category": "Profesiones",
+    "word": "GEÓGRAFO"
+  },
+  {
+    "id": 989,
+    "category": "Profesiones",
+    "word": "CONTABLE"
+  },
+  {
+    "id": 990,
+    "category": "Profesiones",
+    "word": "POLICÍA"
+  },
+  {
+    "id": 991,
+    "category": "Profesiones",
+    "word": "SOCIÓLOGO"
+  },
+  {
+    "id": 992,
+    "category": "Profesiones",
+    "word": "GANADERO"
+  },
+  {
+    "id": 993,
+    "category": "Profesiones",
+    "word": "CONDUCTOR"
+  },
+  {
+    "id": 994,
+    "category": "Profesiones",
+    "word": "COREÓGRAFO"
+  },
+  {
+    "id": 995,
+    "category": "Profesiones",
+    "word": "ESTETICISTA"
+  },
+  {
+    "id": 996,
+    "category": "Profesiones",
+    "word": "RESTAURADOR"
+  },
+  {
+    "id": 997,
+    "category": "Profesiones",
+    "word": "TÉCNICO"
+  },
+  {
+    "id": 998,
+    "category": "Profesiones",
+    "word": "MÉDICO"
+  },
+  {
+    "id": 999,
+    "category": "Profesiones",
+    "word": "ÓPTICO"
+  },
+  {
+    "id": 1000,
+    "category": "Profesiones",
+    "word": "ILUSTRADOR"
+  },
+  {
+    "id": 1001,
+    "category": "Profesiones",
+    "word": "FLORISTA"
+  },
+  {
+    "id": 1002,
+    "category": "Profesiones",
+    "word": "HERRERO"
+  },
+  {
+    "id": 1003,
+    "category": "Profesiones",
+    "word": "ACTOR"
+  },
+  {
+    "id": 1004,
+    "category": "Profesiones",
+    "word": "CARTERO"
+  }
+]
